@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=928000,RESOLUTION=640x360
+https://dai.google.com/linear/hls/pa/event/qI1pC-R_Sma0bVLVjaEOtw/stream/f9e33215-93c4-4e72-b15e-785a7a3a4d8b:ATL/variant/50456a5f2552caa930011027bf587950/bandwidth/928000.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1728000,RESOLUTION=854x480
+https://dai.google.com/linear/hls/pa/event/qI1pC-R_Sma0bVLVjaEOtw/stream/f9e33215-93c4-4e72-b15e-785a7a3a4d8b:ATL/variant/1f6682ebce0808519f724d221f3e03bd/bandwidth/1728000.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3328000,RESOLUTION=1280x720
+https://dai.google.com/linear/hls/pa/event/qI1pC-R_Sma0bVLVjaEOtw/stream/f9e33215-93c4-4e72-b15e-785a7a3a4d8b:ATL/variant/1577d0ee9b57255391352412c6114113/bandwidth/3328000.m3u8
