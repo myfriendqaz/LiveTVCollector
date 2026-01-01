@@ -1066,7 +1066,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Playboy TV (Latin America)
-URL: http://bgdc.live:25461/live/folalawal@/4044225438/180743.ts
+URL: http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -4836,6 +4836,11 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: AMC (Canada)
 URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3132.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Vision (Canada)
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3051.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -10277,8 +10282,8 @@ URL: https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/play
 Logo: https://static.wikia.nocookie.net/logopedia/images/1/1d/Merit_Street_Media_2024_1.svg/revision/latest/scale-to-width-down/512
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: MeTV
-URL: https://fl1.moveonjoy.com/ME_TV/index.m3u8
+Name: MeTV (720p)
+URL: https://fl61.moveonjoy.com/ME_TV/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/512px-MeTV_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -12990,8 +12995,13 @@ URL: https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Galavisión
-URL: http://portal5458.com:8080/live/DBeverly/2290061890/23307.ts
+Name: Galavisión (West)
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4465.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Galavisión (East)
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4464.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -13300,11 +13310,6 @@ URL: https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chan
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Amazon Kids en Español
-URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58090
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: Nickelodeon en Español
 URL: http://portal5458.com:8080/live/DBeverly/2290061890/46926.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -13396,12 +13401,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Discovery Kids en Español
-URL: http://103.111.40.242:9999/play/a036/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4209.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Discovery en Español
-URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2600.ts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/40625.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -13411,27 +13416,32 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Discovery Home and Health en Español
-URL: http://103.111.40.242:9999/play/a03n/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4208.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Discovery Familia
-URL: http://hardcoremedia.xyz:80/live//BG992263/38692743/135341.ts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/40631.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Discovery Theater en Español
-URL: http://103.111.40.242:9999/play/a03m/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4211.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Discovery World en Español
-URL: http://103.111.40.242:9999/play/a03t/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4213.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Investigation Discovery en Español
-URL: http://103.111.40.242:9999/play/a035/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4255.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Discovery Science en Español
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4210.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -13445,13 +13455,8 @@ URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649401.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: H2 (History Channel 2) en Español
-URL: http://103.111.40.242:9999/play/a001/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: Nat Geo en Español
-URL: http://103.111.40.242:9999/play/a01u/index.m3u8
+Name: Nat Geo Mundo
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/40637.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -13460,13 +13465,8 @@ URL: http://portal5458.com:8080/live/DBeverly/2290061890/46651.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Nat Geo Mundo
-URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/40637.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: HITN
-URL: http://vocotv.pro:80/live/10/12345/636619.ts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649414.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -13721,7 +13721,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Univision TLNovelas
-URL: http://vocotv.pro:80/live/10/12345/707047.ts
+URL: http://portal5458.com:8080/live/DBeverly/2290061890/48364.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -14387,11 +14387,6 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: N+ Monterey
 URL: https://anym3u8player.com/youtube.php/id/692203a60b016.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: N+ Media
-URL: http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/401497540.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -15504,7 +15499,7 @@ Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WGN-TV CW 9 (Chicago IL)
-URL: http://fl1.moveonjoy.com/WGN/index.m3u8
+URL: http://portal5458.com:8080/live/DBeverly/2290061890/40668.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -15529,7 +15524,7 @@ Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/0818
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WDIV-TV NBC 4 (Detroit MI)
-URL: http://fl1.moveonjoy.com/MI_Detroit_NBC/index.m3u8
+URL: http://portal5458.com:8080/live/DBeverly/2290061890/48930.ts
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -15729,12 +15724,12 @@ Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WTVT-TV FOX 13 (Tampa Bay FL)
-URL: http://portal5458.com:8080/live/DBeverly/2290061890/48841.ts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2504.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WFTS-TV ABC 28 (Tampa Bay FL)
-URL: http://portal5458.com:8080/live/DBeverly/2290061890/48839.ts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2666.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -15789,22 +15784,22 @@ Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KOB-TV NBC 4 (Albuquerque NM)
-URL: http://fl1.moveonjoy.com/NM_Albuquerque_NBC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/77964.ts
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KOAT-TV ABC 7 (Albuquerque NM)
-URL: http://fl1.moveonjoy.com/NM_Albuquerque_ABC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/38302.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KRQE-TV CBS 13.1 (Albuquerque NM)
-URL: http://fl1.moveonjoy.com/NM_Albuquerque_CBS/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/77965.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KRQE-TV FOX 13.2 (Albuquerque NM)
-URL: http://fl1.moveonjoy.com/NM_Albuquerque_FOX/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89695.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -15869,7 +15864,7 @@ Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/0818
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WOAI-TV NBC 4.1 (San Antonio TX)
-URL: https://fl1.moveonjoy.com/TX_San_Antonio_NBC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89853.ts
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -15879,12 +15874,12 @@ Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KSAT-TV ABC 12 (San Antonio TX)
-URL: https://fl1.moveonjoy.com/TX_SAN_ANTONIO_ABC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2671.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KABB-TV FOX 29 (San Antonio TX)
-URL: https://fl1.moveonjoy.com/TX_San_Antonio_FOX/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2535.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -15894,37 +15889,52 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KDFW-TV FOX 4 (Ft. Worth/Dallas TX)
-URL: https://fl1.moveonjoy.com/TX_Dallas_FOX/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89824.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KXAS-TV NBC 5 (Ft. Worth/Dallas TX)
-URL: https://fl1.moveonjoy.com/TX_Dallas_NBC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2461.ts
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WFAA-TV ABC 8 (Ft. Worth/Dallas TX)
-URL: https://fl1.moveonjoy.com/TX_DALLAS_ABC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2692.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KTVT-TV CBS 11 (Ft. Worth/Dallas TX)
-URL: https://fl1.moveonjoy.com/TX_Dallas_CBS/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2645.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: KTXA-TV Ind. 21 (Ft. Worth/Dallas TX)
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/38295.ts
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/TXA_21_2012.svg/2560px-TXA_21_2012.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX)
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/597158.ts
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KDAFF-TV CW 39 (Ft. Worth/Dallas TX)
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/597161.ts
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: KPRC-TV NBC 2 (Houston TX)
-URL: https://fl1.moveonjoy.com/TX_Houston_NBC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2455.ts
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KHOU-TV CBS 8 (Houston TX)
-URL: https://fl1.moveonjoy.com/TX_HOUSTON_CBS/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2640.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KTRK-TV ABC 13 (Houston TX)
-URL: https://fl1.moveonjoy.com/TX_HOUSTON_ABC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2687.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -15934,7 +15944,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_L
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KRIV-TV FOX 26 (Houston TX)
-URL: https://fl1.moveonjoy.com/TX_Houston_FOX/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89836.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -15959,7 +15969,7 @@ Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WWL-TV CBS 4 (New Orleans LA)
-URL: https://fl1.moveonjoy.com/LA_NEW_ORLEANS_CBS/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2632.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -15969,12 +15979,12 @@ Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WVUE-TV FOX 8 (New Orleans LA)
-URL: https://fl1.moveonjoy.com/LA_NEW_ORLEANS_FOX/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2545.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WGNO-TV ABC 26 (New Orleans LA)
-URL: https://fl1.moveonjoy.com/LA_NEW_ORLEANS_ABC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/510034.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16104,7 +16114,7 @@ Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KFMB-TV CBS 8.1 (CBS 8+) (San Diego CA)
-URL: http://fl1.moveonjoy.com/CA_SAN_DIEGO_CBS/mpegts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2623.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16114,7 +16124,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KGTV-TV ABC 10 (San Diego CA)
-URL: http://fl1.moveonjoy.com/CA_SAN_DIEGO_ABC/mpegts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2670.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16154,7 +16164,7 @@ Logo: https://upload.wikimedia.org/wikipedia/en/1/1d/WJXT_Logo_2014.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WTLV-TV NBC 12 (Jacksonville FL)
-URL: https://fl1.moveonjoy.com/FL_Jacksonville_NBC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2454.ts
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16164,17 +16174,17 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WJXX-TV ABC 25 (Jacksonville FL)
-URL: https://fl1.moveonjoy.com/FL_JACKSONVILLE_ABC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/38245.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WFOX-TV FOX 30 (Jacksonville FL)
-URL: https://fl1.moveonjoy.com/FL_Jacksonville_FOX/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89491.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WJAX-TV CBS 47 (Jacksonville FL)
-URL: https://fl1.moveonjoy.com/FL_JACKSONVILLE_CBS/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89490.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16284,17 +16294,17 @@ Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/0818
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KTVI-TV FOX 2 (St. Louis MO)
-URL: https://fl1.moveonjoy.com/MO_ST_LOUIS_FOX/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2505.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KMOV-TV CBS 4 (St. Louis MO)
-URL: https://fl1.moveonjoy.com/MO_ST_LOUIS_CBS/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2619.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KSDK-TV NBC 5 (St. Louis MO)
-URL: https://fl1.moveonjoy.com/MO_ST_LOUIS_NBC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2430.ts
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16418,6 +16428,11 @@ URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/38251.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: WKRN-TV ABC 2 (Nashville TN)
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2681.ts
+Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: WSMV-TV NBC 4 (Nashville TN)
 URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2449.ts
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
@@ -16504,7 +16519,7 @@ Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KGO-TV ABC 7 (San Francisco CA)
-URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2669.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/120865.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16524,12 +16539,12 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/KPIX%2B_44_Cable
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KCRA-TV NBC 3 (Sacramento CA)
-URL: https://fl1.moveonjoy.com/CA_SACRAMENTO_NBC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2440.ts
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KXTV-TV ABC 10 (Sacramento CA)
-URL: https://fl1.moveonjoy.com/CA_SACRAMENTO_ABC/index.m3u8
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/120863.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16539,7 +16554,7 @@ Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KTXL-TV FOX 40 (Sacramento CA)
-URL: https://fl1.moveonjoy.com/CA_SACRAMENTO_FOX/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2537.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16579,12 +16594,12 @@ Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WAGA-TV FOX 5 (Atlanta GA)
-URL: https://fl1.moveonjoy.com/GA_Atlanta_FOX/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2574.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WXIA-TV NBC 11 (Atlanta GA)
-URL: https://fl1.moveonjoy.com/GA_ATLANTA_NBC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2469.ts
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16594,7 +16609,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WUPA-TV CBS 69 (Atlanta GA)
-URL: https://fl1.moveonjoy.com/GA_ATLANTA_CBS/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/34430.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16614,7 +16629,7 @@ Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WFXG-TV FOX 54 (Augusta GA)
-URL: http://hardcoremedia.xyz:80/live/BG992263/38692743/10016.ts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89520.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16639,22 +16654,22 @@ Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/0818
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WBTV-TV CBS 3 (Charlotte NC)
-URL: https://fl1.moveonjoy.com/NC_CHARLOTTE_CBS/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2649.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WSOC-TV ABC 9 (Charlotte NC)
-URL: https://fl1.moveonjoy.com/NC_CHARLOTTE_ABC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2696.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WCNC-TV NBC 36 (Charlotte NC)
-URL: https://fl1.moveonjoy.com/NC_CHARLOTTE_NBC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2465.ts
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WJZY-TV FOX 46 (Charlotte NC)
-URL: https://fl1.moveonjoy.com/NC_CHARLOTTE_FOX/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/510776.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16689,7 +16704,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KCNC-TV CBS 4 (Denver CO)
-URL: https://fl1.moveonjoy.com/CO_DENVER_CBS/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2644.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16699,12 +16714,12 @@ Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KUSA-TV NBC 9 (Denver CO)
-URL: https://fl1.moveonjoy.com/CO_Denver_NBC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/606993.ts
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KDVR-TV FOX 31 (Denver CO)
-URL: https://fl1.moveonjoy.com/CO_Denver_FOX/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2560.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16754,17 +16769,17 @@ Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WTTG-TV FOX 5 (Washington DC)
-URL: https://fl1.moveonjoy.com/DC_WASHINGTON_FOX/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2503.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WJLA-TV ABC 7 (Washington DC)
-URL: https://fl1.moveonjoy.com/DC_WASHINGTON_ABC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2665.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WUSA-TV CBS 9 (Washington DC)
-URL: https://fl1.moveonjoy.com/DC_WASHINGTON_CBS/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/559692.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -16799,7 +16814,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KION-TV CBS 5/46 (Monterey CA)
-URL: http://fl1.moveonjoy.com/CA_MONTEREY_CBS/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89441.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -17189,17 +17204,17 @@ Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KOMO-TV ABC 4 (Seattle WA)
-URL: http://fl1.moveonjoy.com/WA_SEATTLE_ABC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2668.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KING-TV NBC 5 (Seattle WA)
-URL: http://fl1.moveonjoy.com/WA_SEATTLE_NBC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2437.ts
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KIRO-TV CBS 7 (Seattle WA)
-URL: http://fl1.moveonjoy.com/WA_SEATTLE_CBS/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2621.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -17209,27 +17224,27 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KSTW_Seattle11_2
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KCPQ-TV FOX 13 (Seattle WA)
-URL: http://fl1.moveonjoy.com/WA_SEATTLE_FOX/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89885.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WAVE-TV NBC 3 (Louisville KY)
-URL: https://fl1.moveonjoy.com/KY_Louisville_NBC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/70148.ts
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WHAS-TV ABC 11 (Louisville KY)
-URL: https://fl1.moveonjoy.com/KY_LOUISVILLE_ABC/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/38240.ts
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WLKY-TV CBS 32 (Louisville KY)
-URL: https://fl1.moveonjoy.com/KY_LOUISVILLE_CBS/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/93167.ts
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WDRB-TV FOX 41 (Louisville KY)
-URL: https://fl1.moveonjoy.com/KY_Louisville_FOX/index.m3u8
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/70147.ts
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -22792,6 +22807,11 @@ URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/597246.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: MeTV (East)
+URL: https://fl1.moveonjoy.com/ME_TV/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: MeTV+
 URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/607734.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -23278,7 +23298,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Paramount Network (East)
-URL: http://portal5458.com:8080/live/DBeverly/2290061890/23254.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/46694.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -24004,8 +24024,8 @@ URL: https://estrella-news-oando.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/HRrkhLq.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Fox News Channel (720p)
-URL: https://moveonjoy-scan.vercel.app/api/scan?url=https://fl9.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+Name: like Gecko) Version/18.0 Mobile/15E148 Safari/604.1" group-title="News",Fox News Channel (720p)
+URL: https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -24604,17 +24624,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Bloomberg Originals
-URL: https://d10d0llfaw1ovl.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/QuickTakeLive/live/origin-contribution-m1-bloomberg-quicktake-Haystack-TV.m3u8
+URL: https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Bloomberg TV Politics Live Event
+Name: Bloomberg U.S. Live Event
 URL: https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Bloomberg Quicktake
-URL: https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+Name: Bloomberg Politics Live Event
+URL: https://www.bloomberg.com/media-manifest/streams/politics.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -30504,6 +30524,11 @@ URL: https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playl
 Logo: https://i.imgur.com/ulHoqlP.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
+Name: INFAST (1080p)
+URL: https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+Logo: https://i.imgur.com/VwAMqA7.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
 Name: KNLJ-DT1 (720p)
 URL: https://cvtv.cvalley.net/hls/KNLJ/KNLJ.m3u8
 Logo: https://i.imgur.com/42UdwD0.png
@@ -31434,7 +31459,7 @@ Source: https://raw.githubusercontent.com/clseibold/tubi-m3u/refs/heads/main/tub
 
 Group: Weather News
 Name: The Weather Channel
-URL: http://portal5458.com:8080/live/DBeverly/2290061890/22464.ts
+URL: http://xxip25.top:8080/live/char@dot.com/char@14223/18926.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
