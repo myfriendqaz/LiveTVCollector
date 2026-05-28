@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-27 23:48:23",
+  "date": "2026-05-28 07:36:06",
   "channels": {
     "Promo": [
       {
@@ -3428,7 +3428,7 @@
       },
       {
         "name": "All Time Movies (576p)",
-        "logo": "https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8"
@@ -4937,6 +4937,13 @@
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8"
       },
       {
+        "name": "pcv",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Bangladeshi 🇧🇩",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8"
+      },
+      {
         "name": "Deepto TV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Bangladeshi 🇧🇩",
@@ -5367,6 +5374,13 @@
         "url": "https://cdn-1.pishow.tv/live/961/master.m3u8"
       },
       {
+        "name": "Arputhar Yesu TV (720p)",
+        "logo": "https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8"
+      },
+      {
         "name": "Awakening TV (576p)",
         "logo": "https://i.imgur.com/p26iWOi.png",
         "group": "Religious",
@@ -5554,6 +5568,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.154.3.101:5001/live/2768.m3u8"
+      },
+      {
+        "name": "Joy TV (1080p)",
+        "logo": "https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://ktismaservers.in:3412/live/joytvlive.m3u8"
       },
       {
         "name": "Life TV (720p)",
@@ -6803,7 +6824,7 @@
       },
       {
         "name": "NKR TV Kannada (1080p)",
-        "logo": "https://nkrtv.in/wp-content/uploads/2024/09/nkr-tv-logo-final-.webp",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NKRTV.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://stream.ottlive.co.in/nkrtv/index.m3u8"
