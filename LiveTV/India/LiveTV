@@ -50,6 +50,12 @@
   {
     "name": "Football World Cup 2026",
     "type": "Football World Cup 2026",
+    "url": "http://cdn.tv-rds.workers.dev/TYCSPT.m3u8",
+    "img": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"
+  },
+  {
+    "name": "Football World Cup 2026",
+    "type": "Football World Cup 2026",
     "url": "http://66.102.126.10:8000/play/a076/index.m3u8",
     "img": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"
   },
@@ -81,12 +87,6 @@
     "name": "Live Sports",
     "type": "Live Sports",
     "url": "http://27.124.71.27/Willow_Extra/index.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
-  },
-  {
-    "name": "Live Sports",
-    "type": "Live Sports",
-    "url": "https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
   },
   {
@@ -166,6 +166,12 @@
     "type": "Relagion Channel",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
+  },
+  {
+    "name": "Makkah TV",
+    "type": "Relagion Channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
   },
   {
     "name": "AL Sunnah TV",
@@ -514,18 +520,6 @@
     "type": "Sports",
     "url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
     "img": "https://i.imgur.com/kHerF19.png"
-  },
-  {
-    "name": "Discovery Bangla",
-    "type": "Information",
-    "url": "http://202.70.146.135:8000/play/a05z/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"
-  },
-  {
-    "name": "Nat Geo HD",
-    "type": "Information",
-    "url": "http://202.70.146.135:8000/play/a05o/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"
   },
   {
     "name": "BBC Earth",
@@ -4062,6 +4056,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "BAN vs AUS One-Day Match Mirpur",
+    "type": "Cricket 🏏",
+    "url": "https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1780987538&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=de27527a270db6696537cd0c42fd982d",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Somoy 🇧🇩 FIFA World Cup 2026",
     "type": "Cricket 🏏",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8",
@@ -4101,36 +4101,6 @@
     "name": "PTV Sports HD 🇵🇰",
     "type": "Cricket 🏏",
     "url": "https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sony Sports 1 HD 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sony Sports 2 HD 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sony Sports 5 HD 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "EuroSports HD 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sony-Ten-Cricket HD",
-    "type": "Cricket 🏏",
-    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
