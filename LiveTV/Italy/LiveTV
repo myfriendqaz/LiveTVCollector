@@ -480,22 +480,10 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png"
   },
   {
-    "name": "Italia 1 HD (720p) [Geo-Blocked]",
-    "type": "General",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png"
-  },
-  {
     "name": "LA7d (720p)",
     "type": "General",
     "url": "https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8",
     "img": "https://i.imgur.com/sM0A3GD.png"
-  },
-  {
-    "name": "LA7 HD (720p) [Geo-Blocked]",
-    "type": "General",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/960px-LA7_-_Logo_2011.svg.png"
   },
   {
     "name": "La C TV (720p)",
@@ -741,12 +729,6 @@
     "name": "Canale 5 [Geo-blocked]",
     "type": "Entertainment",
     "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png"
-  },
-  {
-    "name": "Canale 5 HD (720p) [Geo-Blocked]",
-    "type": "Entertainment",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png"
   },
   {
@@ -1224,12 +1206,6 @@
     "img": "https://i.imgur.com/n2u57y3.png"
   },
   {
-    "name": "Rai News 24 HD (720p) [Geo-Blocked]",
-    "type": "News",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd",
-    "img": "https://i.imgur.com/n2u57y3.png"
-  },
-  {
     "name": "Tele Sondrio News (480p) [Not 24/7]",
     "type": "News",
     "url": "https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8",
@@ -1416,12 +1392,6 @@
     "img": "https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png"
   },
   {
-    "name": "Disney Channel (576p) [Geo-Blocked]",
-    "type": "Kids",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
-  },
-  {
     "name": "Iunior TV (1080p)",
     "type": "Kids",
     "url": "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8",
@@ -1474,12 +1444,6 @@
     "type": "Undefined",
     "url": "http://151.0.207.99:1935/italia7/italia7/playlist.m3u8",
     "img": "https://i.imgur.com/xc0kUHk.png"
-  },
-  {
-    "name": "La7 Cinema (720p) [Geo-Blocked]",
-    "type": "Undefined",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd",
-    "img": "https://i.imgur.com/khPweok.png"
   },
   {
     "name": "Paradise TV [Geo-blocked]",
@@ -1635,12 +1599,6 @@
     "name": "Rete 4 [Geo-blocked]",
     "type": "Undefined",
     "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png"
-  },
-  {
-    "name": "Rete 4 HD (720p) [Geo-Blocked]",
-    "type": "Undefined",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png"
   },
   {
@@ -5204,7 +5162,7 @@
   {
     "name": "Med.TV",
     "type": "lifestyle",
-    "url": "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiY2JlNTdhYzAtY2FhOS00ZWM0LWE5OWEtN2ZiZGQ1MGY0ZTc0IiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8",
+    "url": "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiOTFkMDVkYzItYWI3Ni00YjJlLTk3MzAtYWUwYzNmNDA0YmYzIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -5216,13 +5174,13 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiZTdiZDU3M2QtYTUwMC00YjgwLWIzMGItNDVkN2UwYmFjMzEzIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8",
+    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiMjg0MWMxOTQtZDU3YS00MGRhLTkwMWMtMjg2NmUxMDdlZjlhIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMWE5MWRhMjYtMDZkNC00NWY3LWE1MGQtYjRjZmYxYzcwMDMwIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8",
+    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMjU3MTM1NTItNmMxNC00OWJlLTgzNjctMjM1MTAxZDczZTU1IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   }
 ]
