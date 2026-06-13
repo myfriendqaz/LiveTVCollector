@@ -1890,34 +1890,40 @@
     "img": "https://i.imgur.com/p02AEOF.png"
   },
   {
-    "name": "FIFA World Cup 2026 1",
+    "name": "UNIFI World Cup 2026 1",
     "type": "WORLD CUP 2026",
     "url": "https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa1&provider=mytech",
     "img": "https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-1.png"
   },
   {
-    "name": "FIFA World Cup 2026 2",
+    "name": "UNIFI World Cup 2026 2",
     "type": "WORLD CUP 2026",
     "url": "https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa2&provider=mytech",
     "img": "https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-2.png"
   },
   {
-    "name": "FIFA World Cup 2026 3",
+    "name": "UNIFI World Cup 2026 3",
     "type": "WORLD CUP 2026",
     "url": "https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa3&provider=mytech",
     "img": "https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-3.png"
   },
   {
-    "name": "SUKAN RTM",
+    "name": "RTM WORLD CUP 2026 1",
     "type": "WORLD CUP 2026",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4",
-    "img": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png"
+    "url": "https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd",
+    "img": "https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-1-Dolby.png"
   },
   {
-    "name": "TV OKEY",
+    "name": "RTM WORLD CUP 2026 2",
     "type": "WORLD CUP 2026",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
-    "img": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png"
+    "url": "https://d30aylox5wvifh.cloudfront.net/live/media0/wc2/DASH/wc2.mpd",
+    "img": "https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-2-Dolby.png"
+  },
+  {
+    "name": "RTM WORLD CUP 2026 3",
+    "type": "WORLD CUP 2026",
+    "url": "https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd",
+    "img": "https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-3-Dolby.png"
   },
   {
     "name": "ASTRO ARENA",
@@ -2086,6 +2092,12 @@
     "type": "SPORTS",
     "url": "https://get.perfecttv.net/myunifi.mpd?username=vip_pjgkj04t&password=sM53WzmS&channel=spoTV2&kid=1af079fb-8e1d-43d8-90c1-d804431ad84c",
     "img": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPOTV2.png"
+  },
+  {
+    "name": "SUKAN RTM",
+    "type": "SPORTS",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4",
+    "img": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png"
   },
   {
     "name": "TVRI SPORT",
@@ -2344,6 +2356,12 @@
     "type": "MALAYSIA🇲🇾",
     "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/index.m3u8",
     "img": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Tv%20Ikim.png"
+  },
+  {
+    "name": "TV OKEY",
+    "type": "MALAYSIA🇲🇾",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
+    "img": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png"
   },
   {
     "name": "TV OKEY",

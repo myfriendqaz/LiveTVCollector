@@ -629,16 +629,18 @@ https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="Uncategorized",Korean Central Television / Đài Truyền Hình Trung uơng Triều Tiên (KCTV)
 https://tv.intchoson.com/kctv/main_stream.m3u8
-#EXTINF:-1 tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-1.png" group-title="WORLD CUP 2026",FIFA World Cup 2026 1
+#EXTINF:-1 tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-1.png" group-title="WORLD CUP 2026",UNIFI World Cup 2026 1
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa1&provider=mytech
-#EXTINF:-1 tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-2.png" group-title="WORLD CUP 2026",FIFA World Cup 2026 2
+#EXTINF:-1 tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-2.png" group-title="WORLD CUP 2026",UNIFI World Cup 2026 2
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa2&provider=mytech
-#EXTINF:-1 tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-3.png" group-title="WORLD CUP 2026",FIFA World Cup 2026 3
+#EXTINF:-1 tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-3.png" group-title="WORLD CUP 2026",UNIFI World Cup 2026 3
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa3&provider=mytech
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png" group-title="WORLD CUP 2026",SUKAN RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png" group-title="WORLD CUP 2026",TV OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-1-Dolby.png" group-title="WORLD CUP 2026",RTM WORLD CUP 2026 1
+https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-2-Dolby.png" group-title="WORLD CUP 2026",RTM WORLD CUP 2026 2
+https://d30aylox5wvifh.cloudfront.net/live/media0/wc2/DASH/wc2.mpd
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-3-Dolby.png" group-title="WORLD CUP 2026",RTM WORLD CUP 2026 3
+https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena.png" group-title="SPORTS",ASTRO ARENA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%202.png" group-title="SPORTS",ASTRO ARENA 2
@@ -695,6 +697,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 https://get.perfecttv.net/myunifi.mpd?username=vip_pjgkj04t&password=sM53WzmS&channel=spoTV&kid=5b593bd5-30f1-403a-8f3e-b9b2cd9236c8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPOTV2.png" group-title="SPORTS",SPOTV2
 https://get.perfecttv.net/myunifi.mpd?username=vip_pjgkj04t&password=sM53WzmS&channel=spoTV2&kid=1af079fb-8e1d-43d8-90c1-d804431ad84c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png" group-title="SPORTS",SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/TVRI%20Sport.webp" group-title="SPORTS",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Unifi%20Sports.png" group-title="SPORTS",UNIFI SPORTS
@@ -781,6 +785,8 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Tv%20Ikim.png" group-title="MALAYSIA🇲🇾",TV IKIM
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png" group-title="MALAYSIA🇲🇾",TV OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png" group-title="MALAYSIA🇲🇾",TV OKEY
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/TVS.png" group-title="MALAYSIA🇲🇾",TVS

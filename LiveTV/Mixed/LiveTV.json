@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-12 23:27:11",
+  "date": "2026-06-13 07:35:36",
   "channels": {
     "film": [
       {
@@ -2248,39 +2248,46 @@
     ],
     "WORLD CUP 2026": [
       {
-        "name": "FIFA World Cup 2026 1",
+        "name": "UNIFI World Cup 2026 1",
         "logo": "https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-1.png",
         "group": "WORLD CUP 2026",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa1&provider=mytech"
       },
       {
-        "name": "FIFA World Cup 2026 2",
+        "name": "UNIFI World Cup 2026 2",
         "logo": "https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-2.png",
         "group": "WORLD CUP 2026",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa2&provider=mytech"
       },
       {
-        "name": "FIFA World Cup 2026 3",
+        "name": "UNIFI World Cup 2026 3",
         "logo": "https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-3.png",
         "group": "WORLD CUP 2026",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://sghost.mobileads.uno/uni5/uni5.mpd?id=fifa3&provider=mytech"
       },
       {
-        "name": "SUKAN RTM",
-        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png",
+        "name": "RTM WORLD CUP 2026 1",
+        "logo": "https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-1-Dolby.png",
         "group": "WORLD CUP 2026",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4"
+        "url": "https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd"
       },
       {
-        "name": "TV OKEY",
-        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png",
+        "name": "RTM WORLD CUP 2026 2",
+        "logo": "https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-2-Dolby.png",
         "group": "WORLD CUP 2026",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3"
+        "url": "https://d30aylox5wvifh.cloudfront.net/live/media0/wc2/DASH/wc2.mpd"
+      },
+      {
+        "name": "RTM WORLD CUP 2026 3",
+        "logo": "https://rtm-images.glueapi.io/fit-in/640x320/system/FIFA-WC-3-Dolby.png",
+        "group": "WORLD CUP 2026",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd"
       }
     ],
     "SPORTS": [
@@ -2479,6 +2486,13 @@
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://get.perfecttv.net/myunifi.mpd?username=vip_pjgkj04t&password=sM53WzmS&channel=spoTV2&kid=1af079fb-8e1d-43d8-90c1-d804431ad84c"
+      },
+      {
+        "name": "SUKAN RTM",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4"
       },
       {
         "name": "TVRI SPORT",
@@ -2784,6 +2798,13 @@
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/index.m3u8"
+      },
+      {
+        "name": "TV OKEY",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/MALAYSIA-LOGO-NEW/refs/heads/main/Okey.png",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3"
       },
       {
         "name": "TV OKEY",
