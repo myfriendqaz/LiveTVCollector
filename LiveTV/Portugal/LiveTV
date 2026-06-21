@@ -216,6 +216,18 @@
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVMI.png"
   },
   {
+    "name": "Muzangala TV",
+    "type": "TV",
+    "url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
+    "img": "https://i.imgur.com/fBeaJoS.png"
+  },
+  {
+    "name": "TV BRICS Portuguese",
+    "type": "TV",
+    "url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://i.imgur.com/vLpm8tN.png"
+  },
+  {
     "name": "MyTime Movie Network (BR)",
     "type": "TV",
     "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
@@ -558,6 +570,18 @@
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png"
   },
   {
+    "name": "3Cat",
+    "type": "TV",
+    "url": "https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/960px-TV3CAT.svg.png"
+  },
+  {
+    "name": "3Cat Info",
+    "type": "TV",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8",
+    "img": "https://statics.3cat.cat/img/logos/3CatInfo_negre.svg"
+  },
+  {
     "name": "Cubavisión Internacional",
     "type": "TV",
     "url": "https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8",
@@ -574,6 +598,42 @@
     "type": "TV",
     "url": "https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png"
+  },
+  {
+    "name": "EBS English",
+    "type": "TV",
+    "url": "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8",
+    "img": "https://i.imgur.com/5wLJzb0.png"
+  },
+  {
+    "name": "EBS 1",
+    "type": "TV",
+    "url": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/960px-EBS_1TV_Logo.svg.png"
+  },
+  {
+    "name": "EBS 2",
+    "type": "TV",
+    "url": "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/960px-EBS_2TV_Logo.svg.png"
+  },
+  {
+    "name": "EBS Plus 1",
+    "type": "TV",
+    "url": "https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8",
+    "img": "https://i.imgur.com/aCeuhon.png"
+  },
+  {
+    "name": "EBS Plus 2",
+    "type": "TV",
+    "url": "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8",
+    "img": "https://i.imgur.com/aCeuhon.png"
+  },
+  {
+    "name": "EBS Kids",
+    "type": "TV",
+    "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+    "img": "https://i.imgur.com/62oo8Bx.png"
   },
   {
     "name": "Rakuten TV Family Movies",
@@ -6506,7 +6566,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDI2IDU6MjM6MiBBTSZoYXNoX3ZhbHVlPWpiUlNyTG8ya1NWc2RlTGttL3lxM1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01NDc2ZjljMy0zZjRjLTQzZjUtOTFkZS02NTAwZWMxZTQyOWQ=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDI2IDI6Mzg6MTcgUE0maGFzaF92YWx1ZT1neCtpVkVyb3VNdlNmYjFCalJPckFRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZWMzMTZkYTUtYmRlNC00YjgxLWFiZjMtOWRkNGVhMTA4MWIw/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -6518,7 +6578,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDI2IDU6MjM6MCBBTSZoYXNoX3ZhbHVlPXpIZWxWNDRGWlpZMzFpTGRzcWxqMEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xNWU1NjI5Ni1lMmE5LTQ3NGQtODRjYy05MjgzNzVjM2FlNGE=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDI2IDI6Mzg6MTYgUE0maGFzaF92YWx1ZT0wdVFweFI2VmVaTnlCdC9LbjA0Q29RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTk0MDYyNWYtZWY5ZS00YjRiLWI2MWYtNWJlYWM3ZWVmNWI1/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -6614,7 +6674,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDI2IDU6MjM6MSBBTSZoYXNoX3ZhbHVlPVc5aFFnU0JQZWlvWTVOeFc2VlovdkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01MTBkOTAwOC1hYzA5LTQwOTAtODNiNy04NjlhN2M1NmVkNWU=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDI2IDI6Mzg6MTcgUE0maGFzaF92YWx1ZT1WRzRDcjhQYzlpQU1YcWkwdU8zMU9RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzA4YWZjZTYtNGYzZi00MWZjLThjZjEtOTM3NzA2ZGI5Y2Y3/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
@@ -8242,12 +8302,6 @@
     "type": " Music",
     "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8?profile=inspirationLinks.m3u8",
     "img": "https://onfm.pt/wp-content/uploads/2023/09/logo-on-fm.png"
-  },
-  {
-    "name": "Muzangala TV 🇦🇴",
-    "type": " Music",
-    "url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
-    "img": "https://i.imgur.com/fBeaJoS.png"
   },
   {
     "name": "Sol Musica 🇪🇸",
