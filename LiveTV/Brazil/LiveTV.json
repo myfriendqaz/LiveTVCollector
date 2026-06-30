@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-29 23:41:02",
+  "date": "2026-06-30 09:34:12",
   "channels": {
     "Uncategorized": [
       {
@@ -2148,6 +2148,13 @@
         "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8"
       },
       {
+        "name": "SBT Nacional (720p)",
+        "logo": "https://i.imgur.com/tc1ALuu.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8"
+      },
+      {
         "name": "SBT Nova Mutum",
         "logo": "https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png",
         "group": "Undefined",
@@ -3500,7 +3507,7 @@
       },
       {
         "name": "Pluto TV Star Trek",
-        "logo": "https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG_1753988616763.png",
+        "logo": "https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8"
@@ -3655,7 +3662,7 @@
       },
       {
         "name": "Pluto TV Karaokê por Stingray (720p)",
-        "logo": "https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png",
+        "logo": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8"
@@ -3696,6 +3703,29 @@
         "group": "Animation;Kids;Religious",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
+      }
+    ],
+    "Lifestyle": [
+      {
+        "name": "Loupe (1080p)",
+        "logo": "https://i.imgur.com/T6tsw0O.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8"
+      },
+      {
+        "name": "Pluto TV Cozinha",
+        "logo": "https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8"
+      },
+      {
+        "name": "Pluto TV Viagens",
+        "logo": "https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8"
       }
     ],
     "Classic": [
@@ -3760,22 +3790,6 @@
         "group": "Documentary;Series",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8"
-      }
-    ],
-    "Lifestyle": [
-      {
-        "name": "Pluto TV Cozinha",
-        "logo": "https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8"
-      },
-      {
-        "name": "Pluto TV Viagens",
-        "logo": "https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
-        "url": "https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8"
       }
     ],
     "Cooking;Lifestyle": [
