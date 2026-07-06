@@ -237,11 +237,6 @@ URL: https://cempedak-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/Aust
 Logo: https://i.imgur.com/5iu6wvo.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
-Name: BBC World 1 ON
-URL: https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
-Logo: https://i.imgur.com/5iu6wvo.jpeg
-Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
---------------------------------------------------
 
 Group: BOLA | COPA DEL REY
 Name: PREMIER SPORTS HD
@@ -3583,16 +3578,6 @@ URL: https://cempedak-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuT
 Logo: https://i.imgur.com/x17WfiT.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
-Name: PANDA TV[INDIHOME]
-URL: https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
-Logo: https://i.imgur.com/qZWFmQM.jpeg
-Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
---------------------------------------------------
-Name: KUNGFU TV[INDIHOME]
-URL: https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
-Logo: https://i.imgur.com/8nywOXc.jpeg
-Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
---------------------------------------------------
 
 Group: CHINA 
 Name: Anhui TV
@@ -4334,11 +4319,6 @@ Logo: https://mimipipi22.github.io/logo/entertainment/lifetime.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: K-PLUS
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
-Logo: https://mimipipi22.github.io/logo/entertainment/kplus.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: K-PLUS
 URL: https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 Logo: https://mimipipi22.github.io/logo/entertainment/kplus.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
@@ -4378,11 +4358,6 @@ URL: https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest_w11980824
 Logo: https://mimipipi22.github.io/logo/entertainment/maxstream.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: ALL PLAY ENT
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
-Logo: https://mimipipi22.github.io/logo/entertainment/allplayent.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
 Name: CHANNEL SERU!
 URL: https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
 Logo: https://mimipipi22.github.io/logo/entertainment/channelseru.jpg
@@ -4401,11 +4376,6 @@ Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/play
 Name: WE DO TV BIG STORIES
 URL: https://op-group1-swiftservehd-1.dens.tv/h/h69/wedotv_big_stories.m3u8?app_type=web&userid=lite&chname=wedotvBig_Stories
 Logo: https://mimipipi22.github.io/logo/entertainment/wedotvbigstories.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: ATV
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
-Logo: https://mimipipi22.github.io/logo/entertainment/atv.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: MOVIES NEWS
@@ -4901,6 +4871,146 @@ Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
 
 Group: Entertainment
+Name: AllPlay Ent
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+Logo: https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: AXN
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+Logo: https://images.indihometv.com/logo_axn_ver2.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: CCTV4
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
+Logo: https://images.indihometv.com/logo_cctv4_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Chinese Drama
+URL: https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
+Logo: https://images.indihometv.com/logo_chinesedrama_small.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Citra Drama
+URL: https://atemeshield1-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
+Logo: https://images.indihometv.com/logo_cdrama_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Citra Entertainment
+URL: https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F4-ENTERTAINMENT%2FCitra%20Entertainment%20HD-FirstMedia-Chl-379.jpg&w=128&q=100
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Dunia Lain
+URL: http://iptvid.my.id/avc/Mastam/mastam123/dunialain.m3u8
+Logo: https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: HITS
+URL: https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
+Logo: https://images.indihometv.com/logo_hits_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Insert
+URL: http://iptvid.my.id/avc/Mastam/mastam123/insert.m3u8
+Logo: https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: K-Plus
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+Logo: https://images.indihometv.com/logo_kplus_ver2.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: KBS World
+URL: https://atemeshield1-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
+Logo: https://images.indihometv.com/logo_kbsworld_ver2.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: KIX
+URL: https://atemeshield1-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
+Logo: https://images.indihometv.com/logo_kix_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Kungfu TV
+URL: https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
+Logo: https://images.indihometv.com/logo_kungfutv_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Lifetime
+URL: https://atemeshield1-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
+Logo: https://images.indihometv.com/logo_lifetime_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: New TV Comprehensive
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/newtvcomprehensive/manifest.mpd
+Logo: https://images.indihometv.com/assets/1705919539_NEWTVCOMPREHENSIVE-88-HD-WARNA.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: New TV Finance
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/newtvfinance/manifest.mpd
+Logo: https://images.indihometv.com/assets/1705920072_NEWTVFINANCE-88-HD-WARNA.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: New TV Variety
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/newtvvariety/manifest.mpd
+Logo: https://images.indihometv.com/assets/1705920559_NEWTVVARIETY-88-HD-WARNA.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: ONE
+URL: https://atemeshield1-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
+Logo: https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Rock Entertainment
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+Logo: https://images.indihometv.com/logo_blueant_small.png?v=2.5
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Shenzen
+URL: https://atemeshield1-voe.sysln.id/live/eds/ShenzenTV/mpd/ShenzenTV.mpd
+Logo: https://images.indihometv.com/logo_shenzen_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Sony MAX
+URL: https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
+Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F4-ENTERTAINMENT%2FSony_MAX.png&w=128&q=100
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: TV5Monde
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd
+Logo: https://images.indihometv.com/logo_tv5monde_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: TVB Xing He
+URL: https://atemeshield1-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
+Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F4-ENTERTAINMENT%2FTVB%20Xing%20He%20SD-FirstMedia-Chl-201.jpg&w=128&q=100
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: TVBS Asia
+URL: https://atemeshield1-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
+Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F4-ENTERTAINMENT%2FTVBS%20Asia%20SD-FirstMedia-Chl-211.jpg&w=1920&q=100
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: tvN
+URL: https://atemeshield1-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
+Logo: https://images.indihometv.com/logo_tvn_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Vision Prime
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Warner TV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+Logo: https://images.indihometv.com/logo_warner_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Zhejiang
+URL: https://atemeshield1-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd
+Logo: https://images.indihometv.com/logo_zhejiang_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
 Name: iNsert!
 URL: https://vod.insertlive.com/mc/definst/smil:http/mc/video/detiktv/videoservice/InsertLive/2023/10/25/377316e762f64a7d85bb6d8bbe5486d1.smil/chunklist_w1589969113_b1639852.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/9/9d/Insert_logo.svg/revision/latest/scale-to-width-down/250?cb=20220102144300
@@ -5257,11 +5367,6 @@ Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 Name: Cinemachi Xtra HD 1 ON
 URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 Logo: https://i.imgur.com/8XlZkXf.jpeg
-Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
---------------------------------------------------
-Name: Flik ON
-URL: https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
-Logo: https://i.imgur.com/GOJiQSM.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
 Name: HITS NOW ON
@@ -7481,11 +7586,6 @@ URL: https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff04901
 Logo: https://mimipipi22.github.io/logo/kids/cartoontvclassic.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: FUN PLANET
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
-Logo: https://mimipipi22.github.io/logo/kids/funplanet.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
 Name: DUNIA ANAK
 URL: https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 Logo: https://mimipipi22.github.io/logo/kids/duniaanak.jpg
@@ -8498,6 +8598,96 @@ URL: https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/640px-EBS_KIDS.svg.png
 Source: https://raw.githubusercontent.com/djonyttnt/mytvnet/refs/heads/main/nonton
 --------------------------------------------------
+Name: Animax
+URL: https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+Logo: https://images.indihometv.com/logo_animax_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Aniplus
+URL: https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
+Logo: https://images.indihometv.com/logo_aniplus_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Buddy Star
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_403.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Cartoonito
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+Logo: https://images.indihometv.com/assets/1705331415_THUMBNAIL-88-CARTOONITO.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: CBeebies
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Da Vinci
+URL: https://cdn08jtedge.indihometv.com/dassdvr/134/davinci720_dash/manifest.mpd
+Logo: https://images.indihometv.com/logo_davinci_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: DreamWorks
+URL: https://atemeshield1-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
+Logo: https://images.indihometv.com/logo_dreamworks_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Dunia Anak
+URL: http://iptvid.my.id/avc/Mastam/mastam123/duniaanak.m3u8
+Logo: https://images.indihometv.com/logo_duniaanak_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: FunPlanet
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+Logo: https://images.indihometv.com/assets/FUNPLANET-OTT-88.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Hip Hip Horee!
+URL: https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=7052&type=hls
+Logo: https://thumbor.prod.vidiocdn.com/EOkH5JDfHzAnCeGKEXiY12G36Qw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Horee!
+URL: https://atemeshield1-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
+Logo: https://images.indihometv.com/logo_horee_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Kids TV
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_46.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Mentari TV
+URL: https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=8237&type=hls
+Logo: https://images.indihometv.com/logo_mentaritv_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Moonbug
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+Logo: https://images.indihometv.com/logo_moonbug_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: My Kidz
+URL: https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+Logo: https://images.indihometv.com/logo_mykids_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Nick Jr.
+URL: https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
+Logo: https://images.indihometv.com/logo_nickjr_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Nickelodeon
+URL: https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
+Logo: https://images.indihometv.com/logo_nickelodeon_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Zoomoo
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
+Logo: https://thumbor.prod.vidiocdn.com/vQdbJZqHtzPPXckjO0Hy8yy-3_0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
 Name: Nickelodeon 🟢
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
 Logo: https://mncvision.id/userfiles/image/channel/channel_49.png
@@ -8546,11 +8736,6 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: Pingfong TV
 URL: https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/a/a2/Pinkfong_2014_Stacked_Logo.png/revision/latest?cb=20210729153453
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: Hip Hip Horeeee!
-URL: https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=7052&type=hls
-Logo: https://static.wikia.nocookie.net/logopedia/images/1/12/Hip_Hip_Horee!.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: Hip Hip Horee!
@@ -9386,6 +9571,76 @@ Source: https://iptv-org.github.io/iptv/countries/id.m3u
 
 Group: Knowledge
 Name: Animal Planet
+URL: https://atemeshield1-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+Logo: https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: BBC Earth
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: CGTN Documentary
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
+Logo: https://images.indihometv.com/logo_cgtndocumentary_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Crime Investigation
+URL: https://atemeshield1-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
+Logo: https://images.indihometv.com/logo_crimeinvest_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Curiosity
+URL: https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+Logo: https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Discovery Channel
+URL: https://atemeshield1-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+Logo: https://images.indihometv.com/logo_disco_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: DMAX
+URL: https://atemeshield1-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F7-LIFESTYLE%2FDMAX%20HD-FirstMedia-Chl-347.jpg&w=128&q=100
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Global Trekker
+URL: https://atemeshield1-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekkerHD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_201.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: History
+URL: https://atemeshield1-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
+Logo: https://images.indihometv.com/logo_history_ver3.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Love Nature
+URL: https://atemeshield1-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
+Logo: https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Outdoor Channel
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_460.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Panda TV
+URL: https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
+Logo: https://images.indihometv.com/logo_pandatv_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Phoenix Chinese
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/phoenixchinese/manifest.mpd
+Logo: https://images.indihometv.com/assets/1717557969_88-PHOENIXCHINESE-WARNA.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: TechStorm
+URL: https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm_dash/manifest.mpd
+Logo: https://images.indihometv.com/logo_techstorm_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Animal Planet
 URL: http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/320px-2018_Animal_Planet_logo.svg.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
@@ -9458,11 +9713,6 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: Love Nature
 URL: https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 Logo: https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: Curiosity
-URL: https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
-Logo: https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: Nat Geo People HD
@@ -9696,6 +9946,41 @@ Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
 
 Group: Lifestyle
+Name: Asian Food Network
+URL: https://atemeshield1-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
+Logo: https://images.indihometv.com/logo_afc_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: ATV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
+Logo: https://images.indihometv.com/logo_atv_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: FashionTV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
+Logo: https://images.indihometv.com/logo_fashiontv_ver2.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Food Network
+URL: https://atemeshield1-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
+Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F7-LIFESTYLE%2FFood%20Network%20HD-FirstMedia-Chl-355.jpg&w=128&q=100
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Food Travel
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/OKTVnow/sa_dash_vmx/OKTVnow.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_95.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: HGTV
+URL: https://atemeshield1-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+Logo: https://images.indihometv.com/logo_hgtv_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: TLC
+URL: https://atemeshield1-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
+Logo: https://images.indihometv.com/logo_tlc_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
 Name: MyZen TV
 URL: https://maldivesn.net/hilaytv/myzen4k
 Logo: https://8upload.com/image/67dfddd2bddff/myzen.png
@@ -9845,6 +10130,153 @@ Name: like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Lifestyle",Dens Pl
 URL: https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8
 Logo: https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
+--------------------------------------------------
+
+Group: Local
+Name: RCTI
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+Logo: https://images.indihometv.com/assets/logo_rcti_hd.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: MNCTV
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+Logo: https://images.indihometv.com/assets/logo_mnc_hd.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: GTV
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+Logo: https://images.indihometv.com/assets/logo_gtv_hd.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Antara
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
+Logo: https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: ANTV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+Logo: https://images.indihometv.com/logo_antvnew_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Bali TV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
+Logo: https://images.indihometv.com/logo_balitv_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: BTV
+URL: https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+Logo: https://images.indihometv.com/assets/1735661605_88-BTV.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: CNBC Indonesia
+URL: https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+Logo: https://images.indihometv.com/logo_cnbcindonesia_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: CNN Indonesia
+URL: https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+Logo: https://images.indihometv.com/logo_cnnindonesia_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: IDX Channel
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
+Logo: https://images.indihometv.com/logo_idx_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Indosiar
+URL: https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+Logo: https://images.indihometv.com/logo_indosiar_ver3.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: iNews
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+Logo: https://images.indihometv.com/logo_inews_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Jakarta GlobeNews Channel
+URL: https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
+Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FJakarta%20Globe%20News%20Channel%20HD-FirstMedia-Chl-302.jpg&w=1920&q=100
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: JakTV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
+Logo: https://images.indihometv.com/logo_jaktv_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Jawa Pos TV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
+Logo: https://images.indihometv.com/assets/1706756492_JAWAPOSTV-88-HD.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: JTV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+Logo: https://images.indihometv.com/logo_jtv_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Kompas TV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+Logo: https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: MDTV
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+Logo: https://images.indihometv.com/assets/1740642278_MDTV-88-WARNA.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Metro TV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+Logo: https://images.indihometv.com/logo_metrotv_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Moji
+URL: https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+Logo: https://images.indihometv.com/logo_ochannel_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Nusantara TV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+Logo: https://images.indihometv.com/logo_nusantaratv_small.png?v=1.1
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: RRI NET
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/RRI_NET_HD/manifest.mpd
+Logo: https://images.indihometv.com/logo_rri_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: RTV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+Logo: https://images.indihometv.com/logo_rtv_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: SCTV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+Logo: https://images.indihometv.com/logo_sctv_ver3.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: SindoNews
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+Logo: https://images.indihometv.com/assets/THUMBNAIL-88-SINDONEWSTV.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Trans7
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
+Logo: https://images.indihometv.com/logo_trans7_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: TransTV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
+Logo: https://images.indihometv.com/logo_transtv_ver2.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: TVOne
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+Logo: https://images.indihometv.com/logo_tvonenew_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: TVRI
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
+Logo: https://images.indihometv.com/logo_tvri_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
 --------------------------------------------------
 
 Group: MALAYSIA
@@ -10520,11 +10952,6 @@ Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/play
 Name: MUSIK INDONESIA
 URL: https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 Logo: https://mimipipi22.github.io/logo/music/musikindonesia.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: PRAMBORS TV
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
-Logo: https://mimipipi22.github.io/logo/music/prambors.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: NOW 70s
@@ -11670,6 +12097,141 @@ URL: https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&use
 Logo: https://images.indihometv.com/logo_aniplus_small1.png?v=2.0.0.13
 Source: https://raw.githubusercontent.com/djonyttnt/mytvnet/refs/heads/main/nonton
 --------------------------------------------------
+Name: Bioskop Indonesia
+URL: https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
+Logo: https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: CCM
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_22.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Celestial Movies Indonesia
+URL: https://atemeshield1-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
+Logo: https://images.indihometv.com/logo_celestialmovie_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Cinema World
+URL: https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld_dash/manifest.mpd
+Logo: https://images.indihometv.com/logo_cinemaworldnew_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Citra Bioskop
+URL: https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F9-MOVIES%2FCitra%20Bioskop%20HD-FirstMedia-Chl-376.jpg&w=128&q=100
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Flik
+URL: https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
+Logo: https://images.indihometv.com/logo_flik_ver2.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Galaxy
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+Logo: https://images.indihometv.com/logo_galaxy_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Galaxy Premium
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+Logo: https://images.indihometv.com/logo_galaxypremium_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: HITS Movies
+URL: https://atemeshield1-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
+Logo: https://images.indihometv.com/logo_hitsmovie_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: IMC
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+Logo: https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: My Cinema
+URL: https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
+Logo: https://images.indihometv.com/logo_mycinema_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: My Cinema Asia
+URL: https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
+Logo: https://images.indihometv.com/logo_new-mycinemaasia_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: My Family
+URL: https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+Logo: https://images.indihometv.com/logo_myfamily_ver2.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Rock Action
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+Logo: https://images.indihometv.com/logo_blueantextreme_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Studio Universal
+URL: https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+Logo: https://images.indihometv.com/assets/1725346944_STUDIOUNIVERSAL-OTT-88-WARNA.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Thrill
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+Logo: https://images.indihometv.com/logo_thrill_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: tvN Movies
+URL: https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
+Logo: https://images.indihometv.com/logo_tvnmovies_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Zee Bioskop
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
+Logo: https://images.indihometv.com/logo_zbioskop_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Cineedge
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_402.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Originals
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_401.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Superrix
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_404.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Uniques
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_405.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: CINEMAX
+URL: https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/2156.m3u8
+Logo: https://vmp-cms.telkomsel.com/sites/default/files/entry/0_2yj5giid/landscape_carousel_xxhdpi.jpg
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: HBO
+URL: https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/210.m3u8
+Logo: https://vmp-cms.telkomsel.com/sites/default/files/entry/0_vae5o3nc/landscape_carousel_xxhdpi.jpg
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: HBO Family
+URL: https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/592.m3u8
+Logo: https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/landscape_carousel_xxhdpi.jpg
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: HBO Hits
+URL: https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/591.m3u8
+Logo: https://vmp-cms.telkomsel.com/sites/default/files/entry/0_dx9zvcn8/landscape_carousel_xxhdpi.jpg
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: HBO Signature
+URL: https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/873.m3u8
+Logo: https://vmp-cms.telkomsel.com/sites/default/files/entry/0_t4w6p88r/landscape_carousel_xxhdpi.jpg
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
 Name: Studio Universal
 URL: https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 Logo: https://w7.pngwing.com/pngs/185/656/png-transparent-universal-studios-logo-universal-orlando-universal-studios-hollywood-universal-s-logo-comcast-studio-miscellaneous-studio-globe.png
@@ -11925,11 +12487,6 @@ URL: https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-
 Logo: https://mimipipi22.github.io/logo/movies/cinemax.jpg
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: Warner TV
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
-Logo: https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
 Name: HBO
 URL: http://103.58.160.157:8278/720-HBO/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -12165,16 +12722,6 @@ URL: https://op-flashcon-digdayahd-1.dens.tv/h/h219/index.m3u8
 Logo: https://i.ibb.co.com/1GsXBNwz/K.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: TvN movies HD
-URL: https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
-Logo: https://i.ibb.co.com/6cwkGPk2/TVNM.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: HITS
-URL: https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
-Logo: https://i.ibb.co.com/ccgPWYGK/HITS.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
 Name: HITS MOVIES
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 Logo: https://i.ibb.co.com/7tPf37Yn/HITSM.png
@@ -12248,16 +12795,6 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: Citra Bioskop
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 Logo: https://i.ibb.co.com/5VqGmYr/CB.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: Chinese Drama (INDIHOME)
-URL: https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
-Logo: https://i.ibb.co.com/ym0tywNv/CD.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: Studio Universal (INDIHOME)
-URL: https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
-Logo: https://i.ibb.co.com/CpBVkcrZ/SU.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: Dunia Sinema
@@ -12747,6 +13284,31 @@ Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
 
 Group: Music
+Name: Citra Dangdut
+URL: https://atemeshield1-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
+Logo: https://images.indihometv.com/logo_citradangdut_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: MTV 90s
+URL: https://atemeshield1-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_149.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: MTV Live
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
+Logo: https://images.indihometv.com/logo_mtvlive_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Musik Indonesia
+URL: https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest.mpd
+Logo: https://images.indihometv.com/logo_musikindo_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Prambors
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
+Logo: https://images.indihometv.com/logo_pramborstv_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
 Name: Prambors K-Hits
 URL: https://cdn11jtedge.indihometv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?encp=EzArhuontGkQDWM-5V6wFQ&uid=&expp=1696945091
 Logo: https://shorturl.at/epLM3
@@ -13034,11 +13596,6 @@ URL: https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 Logo: https://i.imgur.com/tdlUrDv.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
-Name: GTV 1 ON
-URL: https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-Logo: https://i.imgur.com/padzXjE.jpeg
-Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
---------------------------------------------------
 Name: GTV 2 ON
 URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 Logo: https://i.imgur.com/padzXjE.jpeg
@@ -13064,11 +13621,6 @@ URL: https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD
 Logo: https://i.imgur.com/JXLOOxS.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
-Name: BTV 🇮🇩
-URL: https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-Logo: https://i.imgur.com/sHTGdK6.jpeg
-Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
---------------------------------------------------
 Name: Metro TV
 URL: http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
 Logo: https://i.imgur.com/ydZkp17.jpeg
@@ -13076,11 +13628,6 @@ Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
 Name: Moji HD 1 ON
 URL: https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-Logo: https://i.imgur.com/6y8Bum2.jpeg
-Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
---------------------------------------------------
-Name: MOJI TV ON 4
-URL: https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 Logo: https://i.imgur.com/6y8Bum2.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
@@ -14197,11 +14744,6 @@ URL: https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af7
 Logo: https://i.imgur.com/h1q2r4l.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: CNBC Indonesia
-URL: https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-Logo: https://i.imgur.com/XKEJwhD.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
 Name: CNN Indonesia
 URL: https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w528835010_b384000_sleng.m3u8
 Logo: https://i.imgur.com/lU0ESEv.png
@@ -14294,6 +14836,96 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 --------------------------------------------------
 
 Group: News
+Name: ABC Australia
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
+Logo: https://images.indihometv.com/logo_abcaustralia_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Al Jazeera Arabic
+URL: https://atemeshield1-voe.sysln.id/live/eds/AlJzrArab/mpd/AlJzrArab.mpd
+Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FAljazeera%20Arabic%20SD-FirstMedia-Chl-245.jpg&w=128&q=100
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Al Jazeera English
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
+Logo: https://images.indihometv.com/logo_aljazeera_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Arirang
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
+Logo: https://images.indihometv.com/logo_arirang_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: BBC News
+URL: https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_332.jpg
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Bloomberg
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
+Logo: https://images.indihometv.com/logo_bloomberg_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Channel News Asia
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
+Logo: https://images.indihometv.com/logo_newsasia_small.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: CGTN
+URL: https://atemeshield1-voe.sysln.id/live/eds/CGTN/mpd/CGTN.mpd
+Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FCGTN%20SD-FirstMedia-Chl-210.jpg&w=1920&q=100
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: CNBC Asia
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+Logo: https://images.indihometv.com/logo_cnbcasias_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: CNN International
+URL: https://atemeshield1-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
+Logo: https://images.indihometv.com/logo_cnninternational_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: DW English
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
+Logo: https://images.indihometv.com/logo_dwtv_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Euronews
+URL: https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mpd/EURONEWS.mpd
+Logo: https://images.indihometv.com/logo_euronews_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Fox News Channel
+URL: https://atemeshield1-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: France24
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
+Logo: https://images.indihometv.com/logo_france24_small.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: NHK World Japan
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
+Logo: https://images.indihometv.com/logo_nhkworld_small.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Phoenix InfoNews
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd
+Logo: https://images.indihometv.com/assets/1717557665_88-PHOENIXINFONEWS-WARNA.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: SEA Today
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
+Logo: https://images.indihometv.com/logo_seatoday_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: TVBS News
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/TVBS_NEWS/manifest.mpd
+Logo: https://images.indihometv.com/logo_tvbsnews_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
 Name: TVRI World
 URL: http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
 Logo: https://i.imgur.com/zfElMa0.png
@@ -15774,11 +16406,6 @@ URL: https://dokko1new.iosplayer.ru/dokko1/premium595/mono.m3u8
 Logo: https://i.imgur.com/XDDHZzi.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
-Name: Eurosport Asia
-URL: https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
-Logo: https://i.imgur.com/XDDHZzi.jpeg
-Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
---------------------------------------------------
 Name: Fox Sports 1
 URL: http://117tv.icu:8080/live/X5xRz0/944877/1846.m3u8
 Logo:  https://i.imgur.com/XDDHZzi.jpeg 
@@ -16353,16 +16980,6 @@ URL: https://fta1-cdn-flr.visionplus.id/out/v1/980cfe26ff00479c97eb8057a1129c7f/
 Logo: https://mimipipi22.github.io/logo/religion/tvmu.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: MUITV
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
-Logo: https://mimipipi22.github.io/logo/religion/muitv.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: MTATV
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
-Logo: https://images.indihometv.com/assets/88_MTATV_2025_03_17_14_56_40.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
 Name: MQTV
 URL: https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
 Logo: https://mimipipi22.github.io/logo/religion/mqtv.jpg
@@ -16396,11 +17013,6 @@ Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/play
 Name: REFORMED 21
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mediampd/Reformed21HD.mpd
 Logo: https://mimipipi22.github.io/logo/religion/reformed21.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: U-CHANNEL
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
-Logo: https://mimipipi22.github.io/logo/religion/uchannel.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: HOPE
@@ -16437,6 +17049,58 @@ Name: HIJRAH TV
 URL: https://flv.intechmedia.net/live/ch8.m3u8|user-agent=Mozilla/5.0
 Logo: https://youtv.live/data/channel/hijrahtv.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+
+Group: Religi
+Name: Al Quran Al Kareem
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
+Logo: https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: DAAI TV
+URL: https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
+Logo: https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: MQTV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/MQTV_HD/manifest.mpd
+Logo: https://images.indihometv.com/logo_mqtv_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: MTATV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
+Logo: https://images.indihometv.com/logo_mtatv_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: MUI TV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
+Logo: https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Rodja TV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+Logo: https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Tawaf TV
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+Logo: https://images.indihometv.com/logo_tawaftvbaru_small.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: TV9 NU
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
+Logo: https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: TVMu
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
+Logo: https://images.indihometv.com/logo_muhammadiyahtv_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: UChannel
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
+Logo: https://images.indihometv.com/logo_uchannel_small1.png?v=2.0.0.13
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
 --------------------------------------------------
 
 Group: Religi 🕋
@@ -18079,6 +18743,66 @@ Name: unifi Sports 1
 URL: https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 Logo: https://warningfm.github.io/v3/img/fEuREpo.png?v=1.0.0.1
 Source: https://raw.githubusercontent.com/djonyttnt/mytvnet/refs/heads/main/nonton
+--------------------------------------------------
+Name: beIN Sports 1
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_417.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: beIN Sports 2
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_418.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: beIN Sports 3
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_419.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: EUROSPORT
+URL: https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+Logo: https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F12-SPORTS%2FEurosport%20SD-FirstMedia-Chl-151.jpg&w=1920&q=100
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Fight Sports
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+Logo: https://images.indihometv.com/logo_fightsport_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Horizon Sports
+URL: http://iptvid.my.id/avc/Mastam/mastam123/horizonsport.m3u8
+Logo: https://images.indihometv.com/logo_horizonsport_ver2.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: NBA TV
+URL: https://cdn08jtedge.indihometv.com/dassdvr/133/nba_dash/manifest.mpd
+Logo: https://images.indihometv.com/logo_nba_ver1.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Soccer Channel
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_420.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Sportstars
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_421.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: Sportstars 2
+URL: https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_422.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: SPOTV
+URL: https://atemeshield1-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+Logo: https://images.indihometv.com/assets/1719765710_88-SPOTV.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
+--------------------------------------------------
+Name: SPOTV 2
+URL: https://atemeshield1-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+Logo: https://images.indihometv.com/assets/1719765786_88-SPOTV-2.png
+Source: https://raw.githubusercontent.com/moasisantonio/Moasis/refs/heads/main/moasisantonio.m3u
 --------------------------------------------------
 Name: NBA TV
 URL: https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
@@ -22718,11 +23442,6 @@ URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c5
 Logo: https://static.mncnow.id/images/channel/cda6a457/7e41_r32.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: JAK TV
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
-Logo: https://www.mncvision.id/userfiles/image/channel/channel_113.jpg
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
 Name: Jogja TV
 URL: http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/id/thumb/5/58/Jogjatv3d.png/1200px-Jogjatv3d.png
@@ -22830,11 +23549,6 @@ URL: http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_106.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: SindoNews
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
-Logo: https://www.mncvision.id/userfiles/image/channel/channel_84.png
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
 Name: Mentari TV
 URL: http://202.80.222.20/cdn/iptv/Tvod/001/channel2000152/1024.m3u8
 Logo: https://images.indihometv.com/logo_mentaritv_small.png
@@ -22858,11 +23572,6 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 Name: DAAI TV
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
 Logo: https://github.com/eepunx/canlog/raw/refs/heads/main/daai.png
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
-Name: JTV
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
-Logo: https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Hanacaraka
@@ -27068,21 +27777,6 @@ Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/play
 Name: TVBS ASIA
 URL: https://atemeshield1-voe.sysln.id/live/eds/TVBSAsia/mediampd/TVBSAsia.mpd
 Logo: https://mimipipi22.github.io/logo/international/tvbsasia.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: NEW TV COMPREHENSIVE
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/newtvcomprehensive/manifest.mpd
-Logo: https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvcompre.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: NEW TV FINANCE
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/newtvfinance/manifest.mpd
-Logo: https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvfinance.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: NEW TV VARIETY
-URL: https://cdn10jtedge.indihometv.com/atm/DASH/newtvvariety/manifest.mpd
-Logo: https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvvariety.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: Dongguan Life Information
