@@ -408,6 +408,12 @@
     "img": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083459294.png"
   },
   {
+    "name": "Cartoon Network",
+    "type": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "BBC Cbeebies",
     "type": "Kids",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
@@ -417,12 +423,6 @@
     "name": "PBS Kids",
     "type": "Kids",
     "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Cartoon Network",
-    "type": "Kids",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -440,7 +440,7 @@
   {
     "name": "0. Baby Shark TV",
     "type": "Kids",
-    "url": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8",
+    "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/c/c7/Pinkfong_Baby_Shark.svg"
   },
   {
@@ -864,12 +864,6 @@
     "img": "https://i.imgur.com/gXsddRK.png"
   },
   {
-    "name": "Nickelodeon (576p)",
-    "type": "Kids",
-    "url": "http://149.71.34.166:8000/play/a00u/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Discovery Bangla",
     "type": "Documentary",
     "url": "http://103.180.212.191:3500/live/573.m3u8",
@@ -934,12 +928,6 @@
     "type": "Documentary",
     "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png"
-  },
-  {
-    "name": "REAL WILD",
-    "type": "Documentary",
-    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Insight",
@@ -1658,7 +1646,7 @@
   {
     "name": "Channel S",
     "type": "Bangla",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8",
+    "url": "https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxT37QeLoNwrMrzrL8NUx_sA4tyZw0hnHoqF5RhwENo_TOP2Z29HYAMAk&s=10"
   },
   {
@@ -1668,16 +1656,16 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png"
   },
   {
+    "name": "Ekushay TV",
+    "type": "Bangla",
+    "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"
+  },
+  {
     "name": "Enter10 Bangla HD",
     "type": "Bangla",
     "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"
-  },
-  {
-    "name": "GALAXY TV BD",
-    "type": "Bangla",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/playlist.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToBEGtz-KJJMZjLpOBeiY5ysuz_30JRxwlFEMhPuk_EUPUi0MohCzf391z&s=10"
   },
   {
     "name": "Jankhar TV",
@@ -1722,16 +1710,16 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/e/e1/NTV_Bangladesh.svg"
   },
   {
+    "name": "NTV TV UK",
+    "type": "Bangla",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/e/e1/NTV_Bangladesh.svg"
+  },
+  {
     "name": "Orange Bangla TV",
     "type": "Bangla",
     "url": "https://cdn-4.pishow.tv/live/1499/master.m3u8",
     "img": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/Orange_Bangla_logo_%282018%29.png"
-  },
-  {
-    "name": "Rajdhani TV",
-    "type": "Bangla",
-    "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8",
-    "img": "https://rajdhanitv.online/assets/images/logo/1757970614logo%20footer.png"
   },
   {
     "name": "SONY AATH HD",
@@ -1744,12 +1732,6 @@
     "type": "Bangla",
     "url": "https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8",
     "img": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg"
-  },
-  {
-    "name": "TIKANA TV",
-    "type": "Bangla",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8",
-    "img": "https://yt3.googleusercontent.com/AbXfwy0BwAB4yjwV4gkMmSZizuTv30M9kZjO7V33LLvpy7CRVxK523zdvnZ3oTMtanUf9tHe=s900-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "Time Televis HD",
@@ -1926,15 +1908,15 @@
     "img": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085327477.png"
   },
   {
-    "name": "Mardaani 3",
-    "type": "Movies",
-    "url": "http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip.mp4",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Test",
     "type": "Movies",
     "url": "http://103.225.94.27/Infobase/hdd-3/Hindi%20Dub/Test%20(2025)%201080p%20WEBDL.mp4",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Mardaani 3",
+    "type": "Movies",
+    "url": "http://103.225.94.27/Infobase/hdd-3/hindi/Mardaani%203%20(2026)%201080p%20DVDRip.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2184,6 +2166,12 @@
     "img": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png"
   },
   {
+    "name": "Fallback Channel",
+    "type": "Sports",
+    "url": "https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8",
+    "img": "https://abusaeeidx.github.io/Support/images/offline.jpg"
+  },
+  {
     "name": "DD Sports",
     "type": "Sports",
     "url": "https://cdn-6.pishow.tv/live/13/master.m3u8",
@@ -2216,7 +2204,7 @@
   {
     "name": "---FIFA(Go3 Sport 1)---",
     "type": "Sports",
-    "url": "http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/18001/index.m3u8",
+    "url": "http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/18000/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2230,12 +2218,6 @@
     "type": "Sports",
     "url": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts",
     "img": "https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png"
-  },
-  {
-    "name": "---FIFA(TVP Sports)---",
-    "type": "Sports",
-    "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
-    "img": "https://imglink.cc/cdn/RY7jBwPKAr.jpg"
   },
   {
     "name": "---Live(T Sports HD)---",
@@ -2280,6 +2262,12 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg"
   },
   {
+    "name": "FB | A SPOR",
+    "type": "Sports",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8",
+    "img": "https://i.ibb.co/xSjB51j/aspor.png"
+  },
+  {
     "name": "FB | Bahrain Sports 1",
     "type": "Sports",
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
@@ -2294,7 +2282,7 @@
   {
     "name": "FB | FIFA+",
     "type": "Sports",
-    "url": "https://ba3e2e93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8?ads.wurl_channel=1781&ads.wurl_name=FIFAPlusEnglish&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
+    "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png"
   },
   {
@@ -2314,12 +2302,6 @@
     "type": "Sports",
     "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
     "img": "https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9"
-  },
-  {
-    "name": "FB | ORF Sport+ HD",
-    "type": "Sports",
-    "url": "http://212.186.45.34:9981/stream/channelid/906723447?profile=pass",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/ORF_Sport_%2B_Logo_2024.svg/2560px-ORF_Sport_%2B_Logo_2024.svg.png"
   },
   {
     "name": "FIGHT | FIGHT NETWORK",
@@ -2486,7 +2468,7 @@
   {
     "name": "MIXER | Trace Sports Stars",
     "type": "Sports",
-    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+    "url": "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/4/4f/Trace_Sport_Stars_%282022%29.svg"
   },
   {
@@ -2598,21 +2580,15 @@
     "img": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086478755.png"
   },
   {
-    "name": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg\" group-title=\"Live Event\", Day 1 vs Hurstbourne Country Club (ISCO Championship 2026)",
-    "type": "Live Event",
-    "url": "https://bd-mc-fblive.fancode.com/mumbai/4246547_english_hls_239f5ad1fa25703_1ta-di_h264/index.m3u8",
-    "img": "https://www.fancode.com/skillup-uploads/cms-media/ISCO-Championship_fc-web.jpg"
-  },
-  {
-    "name": "w_300,q_85/zUGrjZ4BuUSiBsg_1BeE/posters/bf5a8ad8-3996-44f8-80cb-df33f4d53d0f.png\",[BD] FIFA WC CHANNEL 1",
+    "name": "w_300,q_85/zUGrjZ4BuUSiBsg_1BeE/posters/0a81ea83-3a34-41d2-ad81-293acc85a45a.png\",[BD] FIFA WC CHANNEL 1",
     "type": "[LIVE] BDIX ♛",
-    "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783642542~Starts=1783635342~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmE2YTBlMzktNjgxNi00ODNiLTg4ZDktYWZhZTAzN2IwMDZjIn0~Signature=RQSaN4pYxNpcMnE46P8vrXsBSXprpIwVce50K0HOLU4t44soK5Wi6NOTQH8f3d_bWrk8PYZbE3_MIRindnRLAw",
-    "img": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/zUGrjZ4BuUSiBsg_1BeE/posters/bf5a8ad8-3996-44f8-80cb-df33f4d53d0f.png"
+    "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783727693~Starts=1783720493~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmE2YTBlMzktNjgxNi00ODNiLTg4ZDktYWZhZTAzN2IwMDZjIn0~Signature=AhqbFtku8KlyGH-y3fkw2Mjg5zrnqqrIvsuKDLX3KosCpM29vEFowA4T0s60zX3X9Iul7VsR5KuZblmBAxmKBw",
+    "img": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/zUGrjZ4BuUSiBsg_1BeE/posters/0a81ea83-3a34-41d2-ad81-293acc85a45a.png"
   },
   {
     "name": "w_300,q_85/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png\",[BD] WC Match Recap",
     "type": "[LIVE] BDIX ♛",
-    "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/index.m3u8?edge-cache-token=Expires=1783642544~Starts=1783635344~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmE2YTBlMzktNjgxNi00ODNiLTg4ZDktYWZhZTAzN2IwMDZjIn0~Signature=IebsJyxNDEVQji6du85L44Zw29TiYWMKe82TzBHYH6KcpiX5iKRlAzAQ1ucIeZPxkCl1bZgdJOYI7bXDeWgTAA",
+    "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/index.m3u8?edge-cache-token=Expires=1783727695~Starts=1783720495~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmE2YTBlMzktNjgxNi00ODNiLTg4ZDktYWZhZTAzN2IwMDZjIn0~Signature=i_L0iY0rYG_IUxK8835X1n01JoGMAy0nO2654R5K9BaHLCU5v7uATG3ScOp51zKR2PpMNejzQogpPP_34nMnDA",
     "img": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png"
   },
   {
@@ -3012,12 +2988,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel S",
-    "type": "Unknown",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "My TV",
     "type": "Unknown",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8",
@@ -3027,6 +2997,18 @@
     "name": "Gazi TV",
     "type": "Unknown",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Channel S",
+    "type": "Unknown",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "NAN TV",
+    "type": "Unknown",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3054,9 +3036,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Live Quran TV",
-    "type": "Cricket ",
-    "url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8",
+    "name": "Bein Sports Tekrar",
+    "type": "FIFA World Cup 2026",
+    "url": "https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3078,12 +3060,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Arabica TV",
-    "type": "Bangladeshi ",
-    "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "pcv",
     "type": "Bangladeshi ",
     "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8",
@@ -3096,45 +3072,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "QURAN",
-    "type": "ISLAMIC CHANNELS",
-    "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Sunnah Tv",
     "type": "ISLAMIC CHANNELS",
     "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Saudi Quran",
+    "name": "QURAN",
     "type": "ISLAMIC CHANNELS",
-    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "AL SUNNAH TV",
-    "type": "ISLAMIC CHANNELS",
-    "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ALMASIRA MUBASHER",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "QURAN RADIOTV SMC",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Madani Tv",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+    "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3144,9 +3090,33 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Madani Tv",
+    "type": "ISLAMIC CHANNELS",
+    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "QURAN RADIOTV SMC",
+    "type": "ISLAMIC CHANNELS",
+    "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "AL SUNNAH TV",
+    "type": "ISLAMIC CHANNELS",
+    "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "AL EKHBARIA",
     "type": "ISLAMIC CHANNELS",
     "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "AL QAMAR",
+    "type": "ISLAMIC CHANNELS",
+    "url": "https://streamer3.premio.link/alqamar/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3162,18 +3132,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "AL QAMAR",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://streamer3.premio.link/alqamar/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BAHRAIN QURAN",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Travel XP English NZ",
     "type": "Infotainment Channels",
     "url": "https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8",
@@ -3183,24 +3141,6 @@
     "name": "Sochi 24 HD",
     "type": "Infotainment Channels",
     "url": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Amazon SAT",
-    "type": "Infotainment Channels",
-    "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "A SPOR",
-    "type": "Football",
-    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "T Global News (Canada)",
-    "type": "NEWS INTERNASIONAL",
-    "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3216,15 +3156,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Global News (US)",
+    "name": "T Global News (Canada)",
     "type": "NEWS INTERNASIONAL",
-    "url": "https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8",
+    "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "DW English",
+    "name": "Global News (US)",
     "type": "NEWS INTERNASIONAL",
-    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1",
+    "url": "https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3234,21 +3174,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "DW English",
+    "type": "NEWS INTERNASIONAL",
+    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "News Max 2",
     "type": "NEWS INTERNASIONAL",
     "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "NDTV English",
-    "type": "NEWS INTERNASIONAL",
-    "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "NDTV NEWS",
-    "type": "NEWS INTERNASIONAL",
-    "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3276,9 +3210,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Quran",
+    "type": "FM REDIO",
+    "url": "https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "France News 24",
     "type": "NEWS INTERNASIONAL TV",
     "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "TRT WORLD",
+    "type": "NEWS INTERNASIONAL TV",
+    "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3294,15 +3240,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Quran",
-    "type": "FM REDIO",
-    "url": "https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Al Quran Radio",
     "type": "Radio FM ",
     "url": "http://66.45.232.131:9994/;stream.mp3",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Channel 7",
+    "type": "Utrun Broadband",
+    "url": "http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3324,27 +3270,27 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Channel 7",
-    "type": "Utrun Broadband",
-    "url": "http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Gopal Bhar TV",
     "type": "CARTOON Drama",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Motu Patlu",
-    "type": "CARTOON Drama",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Tom & Jerry TV",
     "type": "CARTOON Drama",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Doraemon TV",
+    "type": "CARTOON Drama",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Motu Patlu",
+    "type": "CARTOON Drama",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3366,12 +3312,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Dhoom Music",
-    "type": "Kolkata Bangla Music",
-    "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "R Plus Gold",
     "type": "Kolkata Bangla",
     "url": "https://cdn-4.pishow.tv/live/1231/1231_1.m3u8",
@@ -3381,6 +3321,18 @@
     "name": "AAKASH AATH",
     "type": "Kolkata Bangla",
     "url": "https://cdn-4.pishow.tv/live/969/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Dhoom Music",
+    "type": "Kolkata Bangla Music",
+    "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Tom & Jarry",
+    "type": "KIDS",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3396,12 +3348,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Goldmines Bollywood",
-    "type": "Hindi Movies",
-    "url": "http://103.175.73.12:8080/live/52/52_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "B4U Kadak",
     "type": "Hindi Movies",
     "url": "https://cdn-2.pishow.tv/live/227/master.m3u8",
@@ -3414,21 +3360,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Tom & Jarry",
-    "type": "KIDS",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Freelancer",
-    "type": "English Movies",
-    "url": "http://premimum.online/movie/jen12345/jen54321/353751.mp4",
+    "name": "Food Food",
+    "type": "Information",
+    "url": "http://103.175.73.12:8080/live/143/143_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Greenland 2: Migration (2026) (Hindi)",
     "type": "English Movies",
     "url": "http://premimum.online/movie/jen12345/jen54321/717746.mp4",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Freelancer",
+    "type": "English Movies",
+    "url": "http://premimum.online/movie/jen12345/jen54321/353751.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3450,15 +3396,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Jana Nayagan (2026) (Hindi)",
-    "type": "Hindi Dabbing Movies",
-    "url": "http://premimum.online/movie/jen12345/jen54321/724489.mp4",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Food Food",
-    "type": "Information",
-    "url": "http://103.175.73.12:8080/live/143/143_0.m3u8",
+    "name": "9XM",
+    "type": "Hindi Music",
+    "url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3468,21 +3408,33 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "9XM",
-    "type": "Hindi Music",
-    "url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Music India",
     "type": "Hindi Music",
     "url": "http://103.175.73.12:8080/live/158/158_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Pritam and Pedro(S1E2)",
+    "name": "Jana Nayagan (2026) (Hindi)",
+    "type": "Hindi Dabbing Movies",
+    "url": "http://premimum.online/movie/jen12345/jen54321/724489.mp4",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Blast",
+    "type": "Hindi Dabbing Movies",
+    "url": "http://fastshare1.com/movie/25711345/late8airline/752198.mp4",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Ini Utharam",
+    "type": "Hindi Dabbing Movies",
+    "url": "http://fastshare1.com/movie/25711345/late8airline/752193.mp4",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Pritam and Pedro(S1E6)",
     "type": "Web Series",
-    "url": "https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E02%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "url": "https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E06%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3492,15 +3444,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Pritam and Pedro(S1E3)",
+    "name": "Pritam and Pedro(S1E2)",
     "type": "Web Series",
-    "url": "https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E03%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Pritam and Pedro(S1E4)",
-    "type": "Web Series",
-    "url": "https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E04%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "url": "https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E02%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3510,9 +3456,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Pritam and Pedro(S1E6)",
+    "name": "Pritam and Pedro(S1E4)",
     "type": "Web Series",
-    "url": "https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E06%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "url": "https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E04%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Pritam and Pedro(S1E3)",
+    "type": "Web Series",
+    "url": "https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E03%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3528,18 +3480,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Doraemon",
-    "type": "Bangla | 24/7",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BD | Channel 1",
-    "type": "Bangla News",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg"
-  },
-  {
     "name": "BD | Ekattor TV",
     "type": "Bangla News",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8",
@@ -3548,7 +3488,7 @@
   {
     "name": "BD | Jago News 24",
     "type": "Bangla News",
-    "url": "https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8",
+    "url": "https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8",
     "img": "https://cdn.jagonews24.com/media/common/logo.png"
   },
   {
@@ -3566,7 +3506,7 @@
   {
     "name": "IN | ABP Ananda",
     "type": "Bangla News",
-    "url": "https://amg01412-xiaomiasia-abpananda-xiaomi-lzyzw.amagi.tv/playlist/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8",
+    "url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/a/a2/Abp-ananda.png"
   },
   {
@@ -3584,7 +3524,7 @@
   {
     "name": "IN | Calcutta News",
     "type": "Bangla News",
-    "url": "https://legitpro.co.in/cnnnews/index.m3u8",
+    "url": "https://akdnetwork.co.in/live/cnnew/index.m3u8",
     "img": "https://assets.calcuttatelevisionnetwork.in/cn.png"
   },
   {
@@ -3674,7 +3614,7 @@
   {
     "name": "Bloomberg TV",
     "type": "International News",
-    "url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
+    "url": "https://www.bloomberg.com/media-manifest/streams/aus.m3u8",
     "img": "https://cordcutting.com/wp-content/uploads/2018/01/bloomberg-television-logo-300x150.png"
   },
   {
@@ -3720,12 +3660,6 @@
     "img": "https://yt3.googleusercontent.com/66gxol1mzEksrTJBYWD0dfPLqxrcN7n92CDVDzBiY_7fWD7afr4HPjKGp7ls1KgY5MECkEDt_g=s72-c-k-c0x00ffffff-no-rj"
   },
   {
-    "name": "DW News",
-    "type": "International News",
-    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8",
-    "img": "https://img.favpng.com/8/20/21/logo-deutsche-welle-dw-tv-dw-espa-ol-png-favpng-HaURNeixYqyctM1CSnmKA1kWk.jpg"
-  },
-  {
     "name": "Euronews English",
     "type": "International News",
     "url": "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
@@ -3746,7 +3680,7 @@
   {
     "name": "France 24 English",
     "type": "International News",
-    "url": "http://iptv.prosto.tv:7000/ch205/video.m3u8",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/0/02/France_24_2013.svg"
   },
   {
@@ -3754,12 +3688,6 @@
     "type": "International News",
     "url": "https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8",
     "img": "https://assets.rbl.ms/61228189/origin.png"
-  },
-  {
-    "name": "HLN",
-    "type": "International News",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
-    "img": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hln-us.png"
   },
   {
     "name": "NBC News NOW",
@@ -3784,12 +3712,6 @@
     "type": "International News",
     "url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8",
     "img": "https://s3.aynaott.com/storage/78b7ab973209ec06346cf8acfd8544cd"
-  },
-  {
-    "name": "TRT World",
-    "type": "International News",
-    "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
-    "img": "https://yt3.googleusercontent.com/luLQWmGFG4iDC1U_2JlzZ1mquci_sUdfZfFl4eWgBkDpW6tvZT0MEA4c4JebJdi9hCo518q1=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "WION",
@@ -3916,6 +3838,12 @@
     "type": "India",
     "url": "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8",
     "img": "https://www.epicon.in/img/nazara-logo.png"
+  },
+  {
+    "name": "ENT | Pardesi TV",
+    "type": "India",
+    "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
+    "img": "https://yt3.googleusercontent.com/ytc/AIdro_l6ng9Q3XSycBvkucH0HoN0EuEgF7f4ZwSlPSIofS4_X9A=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "ENT | Shemaroo TV",
@@ -4074,6 +4002,12 @@
     "img": "https://i.imgur.com/0xS5lNT.png"
   },
   {
+    "name": "MU | Saga Music",
+    "type": "India",
+    "url": "https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8",
+    "img": "https://a.jsrdn.com/hls/23146/saga-music/logo_20240322_183949_68.png"
+  },
+  {
     "name": "MU | Saga Music Haryanvi",
     "type": "India",
     "url": "https://amg01412-xiaomiasia-sagamusicharyanvi-xiaomi-0v34j.amagi.tv/playlist/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8",
@@ -4118,7 +4052,7 @@
   {
     "name": "NEWS | Aaj Tak HD",
     "type": "India",
-    "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8",
+    "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png"
   },
   {
@@ -4138,12 +4072,6 @@
     "type": "India",
     "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/5/5a/Amar_Ujala.jpeg"
-  },
-  {
-    "name": "NEWS | Awaaz India TV",
-    "type": "India",
-    "url": "http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
-    "img": "https://i.ytimg.com/vi/8BzmlfZm2xU/hqdefault.jpg"
   },
   {
     "name": "NEWS | Bharat 24",
@@ -4196,7 +4124,7 @@
   {
     "name": "NEWS | IBC 24",
     "type": "India",
-    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8",
+    "url": "https://cdn-3.pishow.tv/live/220/master.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/4/4b/Ibc24.png"
   },
   {
@@ -4222,6 +4150,12 @@
     "type": "India",
     "url": "https://legitpro.co.in/knews/index.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/0/02/K_News.jpeg"
+  },
+  {
+    "name": "NEWS | NDTV English",
+    "type": "India",
+    "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
+    "img": "https://yt3.googleusercontent.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9=s160-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "NEWS | NDTV Hindi",
@@ -4256,7 +4190,7 @@
   {
     "name": "NEWS | Republic TV",
     "type": "India",
-    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8",
+    "url": "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/f/fe/Republic-logo2.svg"
   },
   {
@@ -4314,16 +4248,16 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8NiNYa6Qg_MMAK8YsEY4eNOPTRN_dgOBsg&s"
   },
   {
-    "name": "ENT | Aaj Entertainment",
-    "type": "Pakistan",
-    "url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8",
-    "img": "https://i.imgur.com/WK5Cqap.png"
-  },
-  {
     "name": "ENT | aur LIFE HD",
     "type": "Pakistan",
     "url": "http://124.109.47.101/hls/stream1.m3u8",
     "img": "https://aurlife.tv/wp-content/uploads/2021/11/Aur-life-Logo-png.png"
+  },
+  {
+    "name": "ENT | Bol Entertainment",
+    "type": "Pakistan",
+    "url": "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8",
+    "img": "https://yt3.googleusercontent.com/E0ON7kC9AImxXYGXFUHZEwhPKYwDIZTPiBpyBBSH2MbT5CO3fSMw4qWlqHaHdF7QTrR0SOfilQ=s72-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "ENT | Tag TV",
@@ -4376,7 +4310,7 @@
   {
     "name": "Adventure Earth",
     "type": "Educational",
-    "url": "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "url": "https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8",
     "img": "https://www.sefiles.net/merchant/5511/images/site/logo_ae_300x80.png"
   },
   {
@@ -4550,7 +4484,7 @@
   {
     "name": "Mystery TV",
     "type": "Educational",
-    "url": "https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/ts-eu-w1-n2/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8",
+    "url": "https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000320_20250107T030722SQUARE.png"
   },
   {
@@ -4588,6 +4522,12 @@
     "type": "Educational",
     "url": "https://0a644b20819046a0935afa1cf6debf23.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_MechPlus/playlist.m3u8?ads.wurl_channel=1413&ads.wurl_name=MechPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500005ZG_20250107T030744SQUARE.png"
+  },
+  {
+    "name": "Safari TV Tamil",
+    "type": "Educational",
+    "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
+    "img": "https://www.news.keralatv.in/media/2018/11/Safari-Television-Added-on-Sun-Direct-692x376.jpg"
   },
   {
     "name": "w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp\",Sony BBC Earth HD",
@@ -4630,36 +4570,6 @@
     "type": "Educational",
     "url": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/ts-eu-w1-n2/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8",
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC300003UQ_20250107T025835SQUARE.png"
-  },
-  {
-    "name": "WB TV Deadliest Catch",
-    "type": "Educational",
-    "url": "https://mediapackage-azf2-source.fullscreen.nz/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "WB TV House Hunters",
-    "type": "Educational",
-    "url": "https://mediapackage-azf6-source.fullscreen.nz/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "WB TV Motorheads",
-    "type": "Educational",
-    "url": "https://mediapackage-azf1-source.fullscreen.nz/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "WB TV Paranormal",
-    "type": "Educational",
-    "url": "https://mediapackage-azf5-source.fullscreen.nz/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "WB TV True Crime",
-    "type": "Educational",
-    "url": "https://mediapackage-azf4-source.fullscreen.nz/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Weather Spy",
@@ -4732,6 +4642,12 @@
     "type": "Music",
     "url": "https://albportal.net/albkanalemusic.m3u8",
     "img": "https://imglink.cc/cdn/IYDn_LwwiV.png"
+  },
+  {
+    "name": "AR | Arabica TV",
+    "type": "Music",
+    "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
+    "img": " "
   },
   {
     "name": "AR | SEE TV",
@@ -4820,7 +4736,7 @@
   {
     "name": "EN | NOW 80's",
     "type": "Music",
-    "url": "https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8",
+    "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/c/cf/NOW_80s.png"
   },
   {
@@ -4868,7 +4784,7 @@
   {
     "name": "EN | Trace Urban",
     "type": "Music",
-    "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
+    "url": "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/3/3e/Trace_Urban.svg"
   },
   {
@@ -5072,7 +4988,7 @@
   {
     "name": "EN | Brat TV",
     "type": "International",
-    "url": "https://brat-samsung-us.amagi.tv/playlist.m3u8",
+    "url": "https://d14l10e3k15i6k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8qhn23nsa9o2l/Brat_TV.m3u8",
     "img": "https://provider-static.plex.tv/epg/cms/production/9d75cf3b-be95-4785-ab5a-3cfdd4994ab7/BratTV_PlexTV_Logo_DarkBG.png"
   },
   {
@@ -5172,12 +5088,6 @@
     "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2300002AI_20250107T031257SQUARE.png"
   },
   {
-    "name": "TVRI World",
-    "type": "International",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.com",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/9/91/TVRI_World_Old_Logo.png"
-  },
-  {
     "name": "Wipeout Xtra Powered by Banijay",
     "type": "International",
     "url": "https://d36nnn435goed2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skhf82opa3tf4/WipeoutXtraPoweredbyBanijay_GB.m3u8",
@@ -5220,6 +5130,12 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"
   },
   {
+    "name": "Al Quran Al Kareem TV",
+    "type": "Religious",
+    "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+    "img": "https://makkahlive.net//images/makkah-live-low-resolution-logo-color-on-transparent-background.png"
+  },
+  {
     "name": "Al-MahdiTV",
     "type": "Religious",
     "url": "https://iptv.almahditv.com/almahditv/playlist.m3u8",
@@ -5230,6 +5146,12 @@
     "type": "Religious",
     "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
     "img": "https://www.jagobd.com/wp-content/uploads/2019/04/azantvs.jpg"
+  },
+  {
+    "name": "BAHRAIN QURAN",
+    "type": "Religious",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
+    "img": "https://i.ibb.co/cygNtwH/bahrain-quaran.png"
   },
   {
     "name": "Channel Win",
@@ -5260,6 +5182,12 @@
     "type": "Religious",
     "url": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8",
     "img": "https://www.ibn-tv.co.tz/img/IBN-NewLogo.png"
+  },
+  {
+    "name": "Live Quran TV",
+    "type": "Religious",
+    "url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8",
+    "img": " "
   },
   {
     "name": "Makka TV",
@@ -12738,228 +12666,6 @@
     "img": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg"
   },
   {
-    "name": "A Great Awakening (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/A%20Great%20Awakening%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/A%20Great%20Awakening%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg"
-  },
-  {
-    "name": "A Love Like This (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/A%20Love%20Like%20This%20%282026%29/A.Love.Like.This.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/pcD5V2RfnvoNUYQibmvLhiLAsmV.jpg"
-  },
-  {
-    "name": "A Marvel Television Special Presentation The Punisher One Last Kill (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/A%20Marvel%20Television%20Special%20Presentation%20The%20Punisher%20One%20Last%20Kill%20%282026%29/A.Marvel.Television.Special.Presentation.The.Punisher.One.Last.Kill.2026.2160p.4K.WEB.x265.10bit.AAC5.1-%5BYTS.BZ%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg"
-  },
-  {
-    "name": "Dibu Martinez El Pibe Que Ataja El Tiempo (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Dibu%20Martinez%20El%20Pibe%20Que%20Ataja%20El%20Tiempo%20%282026%29/Dibu.Martinez.El.Pibe.Que.Ataja.El.Tiempo.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/xjBwm6dIt3TMRPK0CFDrMVmt5TG.jpg"
-  },
-  {
-    "name": "Flavia (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Flavia%20%282026%29/Flavia.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/xwm7TGTmQcM2PkVvMxTjpYYk600.jpg"
-  },
-  {
-    "name": "Fury In The Shadows (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Fury%20In%20The%20Shadows%20%282026%29/Fury.In.The.Shadows.2026.2160p.4K.WEB.x265.10bit.AAC5.1-%5BYTS.BZ%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/kQ8s2JPGtYFXTwwWfvAVo7QOpGG.jpg"
-  },
-  {
-    "name": "Fuze (2025) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/Fuze%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Fuze%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg"
-  },
-  {
-    "name": "Hokum (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/Hokum%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Hokum%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
-  },
-  {
-    "name": "Hostage (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Hostage%20%282026%29/Hostage.2026.1080p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/s7KeGIKkqxynD90JYGdUQ2eirKQ.jpg"
-  },
-  {
-    "name": "Iron Lung (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/Iron%20Lung%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Iron%20Lung%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
-  },
-  {
-    "name": "Is God Is (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/Is%20God%20Is%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Is%20God%20Is%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/c3nN8XnbYfj2ZEBcNqqlTbtLiQy.jpg"
-  },
-  {
-    "name": "Italianna (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Italianna%20%282026%29/Italianna.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg"
-  },
-  {
-    "name": "Jack Ryan Ghost War (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/Jack%20Ryan%20Ghost%20War%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D/Jack%20Ryan%20Ghost%20War%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg"
-  },
-  {
-    "name": "Kizim (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Kizim%20%282026%29/Kizim.2026.1080p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/momX2Ff7WcZ6TR63WoMm95SU7wU.jpg"
-  },
-  {
-    "name": "Ladies First (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/Ladies%20First%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ladies%20First%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg"
-  },
-  {
-    "name": "Lure (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Lure%20%282026%29/Lure.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/zwGIXXauPHkGCEgDc13raAsG4Uk.jpg"
-  },
-  {
-    "name": "Marty Life Is Short (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Marty%20Life%20Is%20Short%20%282026%29/Marty.Life.Is.Short.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/z4QdUukg4FnbcwM6qeP6ZCoQZhf.jpg"
-  },
-  {
-    "name": "Milky Subway The Galactic Limited Express To The Theater (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Milky%20Subway%20The%20Galactic%20Limited%20Express%20To%20The%20Theater%20%282026%29/Milky.Subway.The.Galactic.Limited.Express.To.The.Theater.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/brQf6Odu4S6WzfVLuXLbOcbsOP2.jpg"
-  },
-  {
-    "name": "Miss You Love You (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Miss%20You%20Love%20You%20%282026%29/Miss.You.Love.You.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/aVt8ubqnuBU8R5MVNbuf9OTy8sa.jpg"
-  },
-  {
-    "name": "Mortal Kombat II (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/Mortal%20Kombat%20II%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D/Mortal%20Kombat%20II%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg"
-  },
-  {
-    "name": "Obsession (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/Obsession%20%282026%29%20English%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Obsession%20%282026%29%20English%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
-  },
-  {
-    "name": "Office Romance (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/Office%20Romance%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Office%20Romance%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg"
-  },
-  {
-    "name": "On The Hunt (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/On%20The%20Hunt%20%282026%29/On.The.Hunt.2026.1080p.BluRay.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/gkscqnZZrCT5lLsniw1KNL9iiJ0.jpg"
-  },
-  {
-    "name": "Over Your Dead Body (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/Over%20Your%20Dead%20Body%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Over%20Your%20Dead%20Body%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg"
-  },
-  {
-    "name": "Project Hail Mary (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/Project.Hail.Mary.2026.1080p.WEBRip.x264%20%5BDDN%5D/Project.Hail.Mary.2026.1080p.WEBRip.x264%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
-  },
-  {
-    "name": "Ready Or Not Here I Come (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/Ready%20Or%20Not%20Here%20I%20Come%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ready%20Or%20Not%20Here%20I%20Come%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
-  },
-  {
-    "name": "Reminders Of Him (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Reminders%20Of%20Him%20%282026%29/Reminders.Of.Him.2026.BLURAY.1080p.BluRay.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg"
-  },
-  {
-    "name": "Seven Snipers (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/Seven%20Snipers%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Seven%20Snipers%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg"
-  },
-  {
-    "name": "Sold To Death (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Sold%20To%20Death%20%282026%29/Sold.To.Death.2026.720p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/qtdqhgYtvfzrKMGl8nGdH8MfjH1.jpg"
-  },
-  {
-    "name": "The 51st AFI Life Achievement Award A Tribute To Eddie Murphy (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/The%2051st%20AFI%20Life%20Achievement%20Award%20A%20Tribute%20To%20Eddie%20Murphy%20%282026%29/The.51st.AFI.Life.Achievement.Award.A.Tribute.To.Eddie.Murphy.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/pxWhmE1NDCXsxDbLV1UYALVMlMk.jpg"
-  },
-  {
-    "name": "The Crash (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/The%20Crash%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D/The%20Crash%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg"
-  },
-  {
-    "name": "The Drama (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/The%20Drama%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D/The%20Drama%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg"
-  },
-  {
-    "name": "The Magic Faraway Tree (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/The%20Magic%20Faraway%20Tree%20%282026%29/The.Magic.Faraway.Tree.2026.1080p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg"
-  },
-  {
-    "name": "The Mandalorian and Grogu (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/The%20Mandalorian%20and%20Grogu%20%282026%29%201080p%20HDTS%20x264%20%5BDDN%5D/The%20Mandalorian%20and%20Grogu%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
-  },
-  {
-    "name": "The Mummy (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://ftp.ctgfun.com/English/The%20Mummy%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D/The%20Mummy%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg"
-  },
-  {
-    "name": "Velhos Bandidos (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Velhos%20Bandidos%20%282026%29/Velhos.Bandidos.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/eYZUzJMumKoUPX5Q40xBsgFs6dY.jpg"
-  },
-  {
-    "name": "Xiong Chu Mo Nian Nian You Xiong (2026) 🆕",
-    "type": "Movies - English",
-    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Xiong%20Chu%20Mo%20Nian%20Nian%20You%20Xiong%20%282026%29/Xiong.Chu.Mo.Nian.Nian.You.Xiong.2026.1080p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/4MFMZRDTWngjVCQILVkg2JaT7kL.jpg"
-  },
-  {
     "name": "28 Years Later The Bone Temple (2026)",
     "type": "Movies - English",
     "url": "https://cds4.discoveryftp.net/Movies/English/2026/28%20Years%20Later%20The%20Bone%20Temple/28%20Years%20Later%20-%20The%20Bone%20Temple%202026%202160p%20AMZN%20WEB-DL%20HEVC%20x265%20%5BHindi%20AMZN%20DDP%205.1%20640kbps%20%2B%20English%20DDP%20Atmos%205.1%5D%20ESub-Dual.mkv?md5=K2OuKv7C8AUJNCEuOipzZg&expires=1777844363",
@@ -12984,10 +12690,28 @@
     "img": "https://image.tmdb.org/t/p/w500/kyfsiPQsJxdgf8gOtYkUhwojN6l.jpg"
   },
   {
+    "name": "A Great Awakening (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/A%20Great%20Awakening%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/A%20Great%20Awakening%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/dXeeDRLGpTX1U97lWBAwQeeplsW.jpg"
+  },
+  {
     "name": "A Knight Of The Seven Kingdoms ( (2026)",
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2025/A%20Knight%20of%20the%20Seven%20Kingdoms%20%282026/A%20Knight%20of%20the%20Seven%20Kingdoms%20%282026%29%20S01%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv",
     "img": "https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "name": "A Love Like This (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/A%20Love%20Like%20This%20%282026%29/A.Love.Like.This.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/pcD5V2RfnvoNUYQibmvLhiLAsmV.jpg"
+  },
+  {
+    "name": "A Marvel Television Special Presentation The Punisher One Last Kill (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/A%20Marvel%20Television%20Special%20Presentation%20The%20Punisher%20One%20Last%20Kill%20%282026%29/A.Marvel.Television.Special.Presentation.The.Punisher.One.Last.Kill.2026.2160p.4K.WEB.x265.10bit.AAC5.1-%5BYTS.BZ%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg"
   },
   {
     "name": "A Scream In The Dark (2026)",
@@ -13086,6 +12810,12 @@
     "img": "https://image.tmdb.org/t/p/w500/uhyhWRzgCSiVfY0Ighgz9ujP85T.jpg"
   },
   {
+    "name": "Dibu Martinez El Pibe Que Ataja El Tiempo (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Dibu%20Martinez%20El%20Pibe%20Que%20Ataja%20El%20Tiempo%20%282026%29/Dibu.Martinez.El.Pibe.Que.Ataja.El.Tiempo.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/xjBwm6dIt3TMRPK0CFDrMVmt5TG.jpg"
+  },
+  {
     "name": "Disolution (2026)",
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Disolution%202026/Disolution%20%282026%29%201080p%20WEBRip.mp4",
@@ -13128,6 +12858,12 @@
     "img": "https://cds4.discoveryftp.net/Movies/English/2026/Firebreak/poster.jpg?md5=vhwVNWTzdccox5Xkh5EJcQ&expires=1777844364"
   },
   {
+    "name": "Flavia (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Flavia%20%282026%29/Flavia.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/xwm7TGTmQcM2PkVvMxTjpYYk600.jpg"
+  },
+  {
     "name": "Forbidden Fruits (2026)",
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2020/Forbidden%20Fruits%20%282026%29/Forbidden%20Fruits%20%282026%29%201080p%20CAMRip.mp4",
@@ -13138,6 +12874,12 @@
     "type": "Movies - English",
     "url": "https://cds4.discoveryftp.net/Movies/English/2026/Funky/Funky.2026.720p.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x264-Dual.mkv?md5=ShnEiXDmeG8pOW4QuQhBXA&expires=1777844363",
     "img": "https://cds4.discoveryftp.net/Movies/English/2026/Funky/poster.jpg?md5=DU43EaVRker8mhLmU3JrXA&expires=1777844363"
+  },
+  {
+    "name": "Fury In The Shadows (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Fury%20In%20The%20Shadows%20%282026%29/Fury.In.The.Shadows.2026.2160p.4K.WEB.x265.10bit.AAC5.1-%5BYTS.BZ%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/kQ8s2JPGtYFXTwwWfvAVo7QOpGG.jpg"
   },
   {
     "name": "GOAT (2026)",
@@ -13200,6 +12942,12 @@
     "img": "https://image.tmdb.org/t/p/w500/vAqBu2i3Lh19L9Mp7phpFdNoxCD.jpg"
   },
   {
+    "name": "Hokum (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/Hokum%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Hokum%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
+  },
+  {
     "name": "Holy Days (2026)",
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Holy%20Days%20%282026%29/Holy.Days.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
@@ -13210,6 +12958,12 @@
     "type": "Movies - English",
     "url": "http://ftp.ctgfun.com/English/Hoppers.2026.1080p.WEBRip.x264.%20%5BDDN%5D/Hoppers.2026.1080p.WEBRip.x264.%20%5BDDN%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+  },
+  {
+    "name": "Hostage (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Hostage%20%282026%29/Hostage.2026.1080p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/s7KeGIKkqxynD90JYGdUQ2eirKQ.jpg"
   },
   {
     "name": "How To Make A Killing (2026)",
@@ -13248,6 +13002,30 @@
     "img": "https://image.tmdb.org/t/p/w500/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg"
   },
   {
+    "name": "Iron Lung (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/Iron%20Lung%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Iron%20Lung%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
+  },
+  {
+    "name": "Is God Is (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/Is%20God%20Is%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Is%20God%20Is%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/c3nN8XnbYfj2ZEBcNqqlTbtLiQy.jpg"
+  },
+  {
+    "name": "Italianna (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Italianna%20%282026%29/Italianna.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg"
+  },
+  {
+    "name": "Jack Ryan Ghost War (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/Jack%20Ryan%20Ghost%20War%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D/Jack%20Ryan%20Ghost%20War%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg"
+  },
+  {
     "name": "Joe's College Road Trip (2026)",
     "type": "Movies - English",
     "url": "https://cds4.discoveryftp.net/Movies/English/2026/Joe%27s%20College%20Road%20Trip/Joes.College.Road.Trip.2026.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-Dual.mkv?md5=KGUI06kBASGNGnwe-jfzLQ&expires=1777844363",
@@ -13258,6 +13036,18 @@
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2025/Killer%20Whale%20%282026%29/Killer.Whale.2026.720p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg"
+  },
+  {
+    "name": "Kizim (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Kizim%20%282026%29/Kizim.2026.1080p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/momX2Ff7WcZ6TR63WoMm95SU7wU.jpg"
+  },
+  {
+    "name": "Ladies First (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/Ladies%20First%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ladies%20First%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg"
   },
   {
     "name": "Lazarus The Awakening (2026)",
@@ -13290,6 +13080,18 @@
     "img": "https://cds4.discoveryftp.net/Movies/English/2026/Love%20Me%20Love%20Me/poster.jpg?md5=iJeyOXqbTXhqdX9hP3JkRA&expires=1777844363"
   },
   {
+    "name": "Lure (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Lure%20%282026%29/Lure.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/zwGIXXauPHkGCEgDc13raAsG4Uk.jpg"
+  },
+  {
+    "name": "Marty Life Is Short (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Marty%20Life%20Is%20Short%20%282026%29/Marty.Life.Is.Short.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/z4QdUukg4FnbcwM6qeP6ZCoQZhf.jpg"
+  },
+  {
     "name": "Mike & Nick & Nick & Alice (2026)",
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Mike%20%26%20Nick%20%26%20Nick%20%26%20Alice%20%282026%29/Mike%20%26%20Nick%20%26%20Nick%20%26%20Alice%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mp4",
@@ -13302,10 +13104,28 @@
     "img": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg"
   },
   {
+    "name": "Milky Subway The Galactic Limited Express To The Theater (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Milky%20Subway%20The%20Galactic%20Limited%20Express%20To%20The%20Theater%20%282026%29/Milky.Subway.The.Galactic.Limited.Express.To.The.Theater.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/brQf6Odu4S6WzfVLuXLbOcbsOP2.jpg"
+  },
+  {
     "name": "Misdirection (2026)",
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Misdirection%20%282026%29/Misdirection.2026.720p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/z7padnoIDHbmxPdqEHryhqlaVqc.jpg"
+  },
+  {
+    "name": "Miss You Love You (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Miss%20You%20Love%20You%20%282026%29/Miss.You.Love.You.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/aVt8ubqnuBU8R5MVNbuf9OTy8sa.jpg"
+  },
+  {
+    "name": "Mortal Kombat II (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/Mortal%20Kombat%20II%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D/Mortal%20Kombat%20II%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg"
   },
   {
     "name": "Mudborn (Ni Wa Wa) (2026)",
@@ -13330,6 +13150,24 @@
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/No%20Ordinary%20Heist%20%282026%29/No.Ordinary.Heist.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/eA2uQxSMqyljAtt920084tDrw6G.jpg"
+  },
+  {
+    "name": "Obsession (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/Obsession%20%282026%29%20English%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Obsession%20%282026%29%20English%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+  },
+  {
+    "name": "Office Romance (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/Office%20Romance%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Office%20Romance%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg"
+  },
+  {
+    "name": "On The Hunt (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/On%20The%20Hunt%20%282026%29/On.The.Hunt.2026.1080p.BluRay.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/gkscqnZZrCT5lLsniw1KNL9iiJ0.jpg"
   },
   {
     "name": "One Mile (2026)",
@@ -13360,6 +13198,12 @@
     "type": "Movies - English",
     "url": "http://ftp.ctgfun.com/English/Outcome.2026.1080p.WEBRip.x264%20%5BDDN%5D/Outcome.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg"
+  },
+  {
+    "name": "Over Your Dead Body (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/Over%20Your%20Dead%20Body%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Over%20Your%20Dead%20Body%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg"
   },
   {
     "name": "Peaky Blinders The Immortal Man (2026)",
@@ -13404,6 +13248,12 @@
     "img": "https://cds4.discoveryftp.net/Movies/English/2026/Primate/poster.jpg?md5=IjIXz5bceDSkFoh_qFov6g&expires=1777844364"
   },
   {
+    "name": "Project Hail Mary (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/Project.Hail.Mary.2026.1080p.WEBRip.x264%20%5BDDN%5D/Project.Hail.Mary.2026.1080p.WEBRip.x264%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
+  },
+  {
     "name": "Psycho Killer (2026)",
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Psycho%20Killer%20%282026%29/Psycho.Killer.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
@@ -13422,6 +13272,12 @@
     "img": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg"
   },
   {
+    "name": "Ready Or Not Here I Come (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/Ready%20Or%20Not%20Here%20I%20Come%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ready%20Or%20Not%20Here%20I%20Come%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+  },
+  {
     "name": "Red Riding (2026)",
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Red%20Riding%20%282026%29/Red.Riding.2026.mp4",
@@ -13438,6 +13294,12 @@
     "type": "Movies - English",
     "url": "https://cds4.discoveryftp.net/Movies/English/2026/Relationship%20Goals/Relationship.Goals.2026.2160p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com.mkv?md5=048uLM5oY3EcHM1BBdHOpg&expires=1777844364",
     "img": "https://cds4.discoveryftp.net/Movies/English/2026/Relationship%20Goals/poster.jpg?md5=sO6v2effnGwowpvRTxfPWA&expires=1777844364"
+  },
+  {
+    "name": "Reminders Of Him (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Reminders%20Of%20Him%20%282026%29/Reminders.Of.Him.2026.BLURAY.1080p.BluRay.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg"
   },
   {
     "name": "Return To Silent Hill (2026)",
@@ -13488,6 +13350,12 @@
     "img": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
   },
   {
+    "name": "Seven Snipers (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/Seven%20Snipers%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Seven%20Snipers%20%282026%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg"
+  },
+  {
     "name": "Shelter (2026)",
     "type": "Movies - English",
     "url": "http://ftp.ctgfun.com/English/Shelter.2026.1080p.WEBRip.x264%20%5BDDN%5D/Shelter.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
@@ -13504,6 +13372,12 @@
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Sniper%20No%20Nation%20%282026%29/Sniper.No.Nation.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/3T9nAX0jAp0iT18ex25BlZEpRDb.jpg"
+  },
+  {
+    "name": "Sold To Death (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Sold%20To%20Death%20%282026%29/Sold.To.Death.2026.720p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/qtdqhgYtvfzrKMGl8nGdH8MfjH1.jpg"
   },
   {
     "name": "Solo Mio (2026)",
@@ -13536,6 +13410,12 @@
     "img": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg"
   },
   {
+    "name": "The 51st AFI Life Achievement Award A Tribute To Eddie Murphy (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/The%2051st%20AFI%20Life%20Achievement%20Award%20A%20Tribute%20To%20Eddie%20Murphy%20%282026%29/The.51st.AFI.Life.Achievement.Award.A.Tribute.To.Eddie.Murphy.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/pxWhmE1NDCXsxDbLV1UYALVMlMk.jpg"
+  },
+  {
     "name": "The Bluff (2026)",
     "type": "Movies - English",
     "url": "https://cds4.discoveryftp.net/Movies/English/2026/The%20Bluff/The.Bluff.2026.2160p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-Dual.mkv?md5=TpVjSZLJ6NiEohWmvtp41w&expires=1777844364",
@@ -13552,6 +13432,18 @@
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/The%20Caretaker%20%282026%29/The.Caretaker.2026.720p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/8F17c3kSwVF8StoKVVk7JVxGiBU.jpg"
+  },
+  {
+    "name": "The Crash (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/The%20Crash%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D/The%20Crash%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg"
+  },
+  {
+    "name": "The Drama (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/The%20Drama%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D/The%20Drama%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg"
   },
   {
     "name": "The Dreadful (2026)",
@@ -13596,6 +13488,18 @@
     "img": "https://image.tmdb.org/t/p/w500/29Jdsak3SrwGds5k1t43kH6Khed.jpg"
   },
   {
+    "name": "The Magic Faraway Tree (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/The%20Magic%20Faraway%20Tree%20%282026%29/The.Magic.Faraway.Tree.2026.1080p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/udXvLxC5gAqN8SinemyFBEcHpTf.jpg"
+  },
+  {
+    "name": "The Mandalorian and Grogu (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/The%20Mandalorian%20and%20Grogu%20%282026%29%201080p%20HDTS%20x264%20%5BDDN%5D/The%20Mandalorian%20and%20Grogu%20%282026%29%20English%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
+  },
+  {
     "name": "The Moment (2026)",
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/The%20Moment%20%282026%29/The%20Moment%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mp4",
@@ -13606,6 +13510,12 @@
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/The%20Mortuary%20Assistant%20%282026%29/The.Mortuary.Assistant.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg"
+  },
+  {
+    "name": "The Mummy (2026)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/The%20Mummy%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D/The%20Mummy%20%282026%29%201080p%20WEBRip%20x264%20%5BDDN%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg"
   },
   {
     "name": "The Muppet Show (2026)",
@@ -13674,6 +13584,12 @@
     "img": "https://image.tmdb.org/t/p/w500/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg"
   },
   {
+    "name": "Velhos Bandidos (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Velhos%20Bandidos%20%282026%29/Velhos.Bandidos.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/eYZUzJMumKoUPX5Q40xBsgFs6dY.jpg"
+  },
+  {
     "name": "Wardriver (2026)",
     "type": "Movies - English",
     "url": "http://ftp.ctgfun.com/English/Wardriver.2026.1080p.WEBRip.x264%20%5BDDN%5D/Wardriver.2026.1080p.WEBRip.x264%20%5BDDN%5D.mp4",
@@ -13690,6 +13606,12 @@
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Wuthering%20Heights%20%282026%29/Wuthering.Heights.2026.720p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/7gEcoCve3lmPOIPRp54K73b6rDv.jpg"
+  },
+  {
+    "name": "Xiong Chu Mo Nian Nian You Xiong (2026)",
+    "type": "Movies - English",
+    "url": "http://cinehub24.com/ftp/Movies/hollywood/2026/Xiong%20Chu%20Mo%20Nian%20Nian%20You%20Xiong%20%282026%29/Xiong.Chu.Mo.Nian.Nian.You.Xiong.2026.1080p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/4MFMZRDTWngjVCQILVkg2JaT7kL.jpg"
   },
   {
     "name": "100 Dni Do Matury (2025)",
@@ -15034,6 +14956,12 @@
     "type": "Movies - English",
     "url": "http://cinehub24.com/ftp/Movies/hollywood/2025/Full%20Moon%20%282025%29/Full.Moon.2025.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/uNkrLZJYy7lghKT6k8YMu58CNWQ.jpg"
+  },
+  {
+    "name": "Fuze (2025)",
+    "type": "Movies - English",
+    "url": "http://ftp.ctgfun.com/English/Fuze%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Fuze%20%282025%29%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg"
   },
   {
     "name": "G20 (2025)",
@@ -118866,300 +118794,6 @@
     "img": "https://image.tmdb.org/t/p/w500/kHFvqy0pPGdPjjBo513JS0WkDa1.jpg"
   },
   {
-    "name": "29 (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/29%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/29%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg"
-  },
-  {
-    "name": "0,380,562_.jpg\",Aliens Ka Aagman (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Aliens%20Ka%20Aagman%20%282026%29/MovieLinkBD.com%20-%20The.Great.Grand.SuperHero.2026.1080p.Hindi.AAC.HDTC.h264.mp4",
-    "img": "https://m.media-amazon.com/images/M/MV5BMDQ2YTgxMzAtMTE1OS00Y2RkLWFhMzAtYWEyY2ZjNTY0YTQ3XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg"
-  },
-  {
-    "name": "Anaganaga (2025) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Anaganaga%20%282025%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Anaganaga%20%282025%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/ssgArgj7qbtZDd8r5P5b7ruVYU4.jpg"
-  },
-  {
-    "name": "Bhartha Mahasayulaku Wignyapthi (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Bhartha%20Mahasayulaku%20Wignyapthi%20%282026%29%20Hindi%20Telegu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bhartha%20Mahasayulaku%20Wignyapthi%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/3QoTnvsbIAAWVXpfHzQKeEQhUi7.jpg"
-  },
-  {
-    "name": "Dacoit Ek Prem Katha (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Dacoit%20Ek%20Prem%20Katha%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Dacoit%20Ek%20Prem%20Katha%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/530ELGtiZKTUpyxEvP2ufzz8bJB.jpg"
-  },
-  {
-    "name": "Drishyam-3 (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Drishyam-3%20%282026%29%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Drishyam-3%20%282026%29%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/iSBVjFjxvG94ypIi13Mdomz4j52.jpg"
-  },
-  {
-    "name": "Gaayapadda Simham (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Gaayapadda%20Simham%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Gaayapadda%20Simham%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/dx40U1uLHwBpdbVxIMC57jyIAaf.jpg"
-  },
-  {
-    "name": "Ghost Stories (2020) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Ghost%20Stories%202020/Ghost%20Stories%202020%20WebRip%20Hindi%20720p%20x264%20AAC%205.1%20ESub%20-%20MovieLinkBD.com..mkv",
-    "img": "https://image.tmdb.org/t/p/w500/2b1Y6NbZenY45DgC5CwncoLkpo.jpg"
-  },
-  {
-    "name": "Indian Institute Of Zombies (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Indian%20Institute%20of%20Zombies%20%282026%29/MovieLinkBD.com%20-%20Indian.Institute.of.Zombies.2026.1080p.Hindi.AAC.HDTC.h264.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/zSiNbahfCoezs5LQYNtJrvczngM.jpg"
-  },
-  {
-    "name": "Indiana Jones 4 And The Kingdom Of The Crystal Skul (2008) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Indiana%20Jones%204%20and%20the%20Kingdom%20of%20the%20Crystal%20Skul%20%282008%29/Indiana.Jones.And.The.Kingdom.of.the.Crystal.Skull.2008.%5BMovieLinkBD.Com%5D%20720p.BluRay.HIN-ENG.x264.ESubs.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg"
-  },
-  {
-    "name": "Indiana Jones And The Dial Of Destiny (2023) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Indiana%20Jones%20and%20the%20Dial%20of%20Destiny%20%282023%29/Indiana.Jones.and.the.Dial.of.Destiny.2023%20%5BMovieLinkBD.Com%5D.%20720p.10Bit.BluRay.Hindi.English.Esubs..mp4",
-    "img": "https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg"
-  },
-  {
-    "name": "Indiana Jones And The Last Crusade (1989) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Indiana%20Jones%20and%20the%20Last%20Crusade%20%281989%29/Indiana%20Jones%203%20and%20The%20Last%20Crusade%201989%20BluRay%20Dual%20Audio%20%5BHindi%205.1%20%2B%20English%205.1%5D%20720p%20x264%20AAC%20ESub%20-%20MovieLinkBD.com.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg"
-  },
-  {
-    "name": "Indiana Jones And The Temple Of Doom (1984) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Indiana%20Jones%20and%20the%20Temple%20of%20Doom%20%281984%29/Indiana.Jones.And.The.Temple.Of.Doom.1984.720P.Bluray.Hindi.English.Msubs.MovieLinkBD.com..mp4",
-    "img": "https://image.tmdb.org/t/p/w500/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg"
-  },
-  {
-    "name": "Inferno (2016) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Inferno%20%282016%29/Inferno.2016.720p.Dual%5BHindi-English%5D.AAC.h264.ESub.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/cnqvFvjAaV28F1tU7986VVg0WP7.jpg"
-  },
-  {
-    "name": "Influencer (2022) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Influencer%20%282022%29/MovieLinkBD.com%20-%20Influencer.2022.720p.Dual%5BHindi-English%5D.AAC.BluRay.h264.ESub.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/mtXV301BF7pqwvRjsWhQo6sD10F.jpg"
-  },
-  {
-    "name": "Jurassic World (2015) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Jurassic%20World%20%282015%29/Jurassic.World.2015.1080p.Bluray.Hindi.English.Esubs.MovieLinkBD.com..mp4",
-    "img": "https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg"
-  },
-  {
-    "name": "Jurassic World Fallen Kingdom (2018) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Jurassic%20World%20Fallen%20Kingdom%20%282018%29/Jurassic.World.Fallen.Kingdom.%282018%29.1080p.Bluray.Dual.Audio.%28Hin.Eng%29.MovieLinkBD.com.%5D.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg"
-  },
-  {
-    "name": "Kaalidas 2 (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Kaalidas%202%20%282026%29/SouthFreak.COM%20-%20Kaalidas%202%202026%20Dual%20Audio%20Hindi%20%28ORG%29%201080p%20WEB-DL%20x264%20ESubs.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/fq2eQegiFy6JxyM2S2ctm9RbB2G.jpg"
-  },
-  {
-    "name": "Kaalidas-2 (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Kaalidas-2%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kaalidas-2%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/fq2eQegiFy6JxyM2S2ctm9RbB2G.jpg"
-  },
-  {
-    "name": "Kara (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Kara%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kara%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/6U6i4qhgHR1MWkUb6OGQwNpqcZC.jpg"
-  },
-  {
-    "name": "Karikaada (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Karikaada%20%282026%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Karikaada%20%282026%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/tL0skwRWivuNZHQD89baWynksct.jpg"
-  },
-  {
-    "name": "Kattalan (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Kattalan%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kattalan%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/9OA6y2GdbXuJ5PAMMMawNBIkrZA.jpg"
-  },
-  {
-    "name": "Krishnavataram P1-The Heart (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Krishnavataram%20P1-The%20Heart%20%282026%29%20Hindi%20Tamil%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Krishnavataram%20P1-The%20Heart%20%282026%29%20Hindi%20Tamil%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Lake George (2025) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Lake%20George%20%282025%29/Lake%20George%20%282025%29%20Hindi%20Dubbed%20Movie%201080p%20HDRip-1080p%28HDFun%29.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/7nqwvs1DORz65GtV7MeNBfqBxQW.jpg"
-  },
-  {
-    "name": "Lechindi Mahila Lokam (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Lechindi%20Mahila%20Lokam%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Lechindi%20Mahila%20Lokam%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/c2t1rNPSGPZMQKuaNJU6od6QqAU.jpg"
-  },
-  {
-    "name": "LIK Love Insurance Kompany (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/LIK%20Love%20Insurance%20Kompany%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/LIK%20Love%20Insurance%20Kompany%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg"
-  },
-  {
-    "name": "Lord Curzon Ki Haveli (2023) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Lord%20Curzon%20Ki%20Haveli%20%282023%29/MovieLinkBD.com%20-%20Lord.Curzon.Ki.Haveli.2023.1080p.Hindi.EAC3.WEB-DL.HEVC.h265.ESub.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/3Hvhy3cVYCTWXvHDSX4XlCFfrec.jpg"
-  },
-  {
-    "name": "Love Insurance Kompany (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Love%20Insurance%20Kompany%20%282026%29/CINEFREAK.TOP%20-%20Love%20Insurance%20Kompany%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg"
-  },
-  {
-    "name": "Madhuvidhu (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Madhuvidhu%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Madhuvidhu%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/jVSnpXklfxi3FchGqweRMvrC8Gd.jpg"
-  },
-  {
-    "name": "Mark (2025) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Mark%20%282025%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mark%20%282025%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg"
-  },
-  {
-    "name": "Marty Supreme (2025) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Marty%20Supreme%20%282025%29/MovieLinkBD.com%20-%20Marty.Supreme.2025.720p.Multi%5BHindi-English-Tamil-Telugu%5D.AAC.BluRay.h264.ESub.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
-  },
-  {
-    "name": "Mcoca (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Mcoca%20%282026%29%20Hindi%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mcoca%20%282026%29%20Hindi%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/9T4j2xFJHUComly4vP9CgytuS6t.jpg"
-  },
-  {
-    "name": "Minority Report (2002) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Minority%20Report%20%282002%29/Minority.Report.2002.720p.BluRay.Hindi.Eng.MovieLinkBD.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg"
-  },
-  {
-    "name": "Motu Patlu Ka Goa Dhammal (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Motu%20Patlu%20Ka%20Goa%20Dhammal%20%282026%29/MovieLinkBD.com%20-%20Motu.Patlu.Ka.Goa.Dhamaal.2026.1080p.Multi%5BHindi-Bangla-Tamil-Telugu-Malayalam-Kannada-Marathi%5D.AAC.HEVC.h265.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/8gsLgugWG74ofCOh5HZQXSEPUK.jpg"
-  },
-  {
-    "name": "My Dearest Assassin (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/My%20Dearest%20Assassin%20%282026%29/My%20Dearest%20Assassin%202026%20NF%20Dual%20Audio%20Hindi%20%28ORG%29%20SouthFreak.com%201080p%20WEB-DL%20x264%20ESubs%20%281%29.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg"
-  },
-  {
-    "name": "Nawabs Cafe A story of Chaiwala (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Nawabs%20Cafe%20A%20story%20of%20Chaiwala%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Nawabs%20Cafe%20A%20story%20of%20Chaiwala%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/mZ3By7MbNzMx2ANQ9MdYnwMYlQ3.jpg"
-  },
-  {
-    "name": "No Place To Be Single (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/No%20Place%20to%20Be%20Single%20%282026%29/No%20Place%20to%20Be%20Single%20%282026%29%20Hindi%20Dubbed%20Movie%201080p%20HDRip-1080p%28HDFun%29.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/nsROal9WTDvbB7ITBZZGrVOlz5z.jpg"
-  },
-  {
-    "name": "Obsess (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Obsess%20%282026%29/MovieLinkBD.com%20-%20Obsess.2026.720p.Hindi.AAC.HDTC.h264.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
-  },
-  {
-    "name": "Patriot (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Patriot%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Patriot%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/4cK4Js7yg8wL2YeZh7DWuoz1bgZ.jpg"
-  },
-  {
-    "name": "Peddi (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Peddi%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Peddi%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg"
-  },
-  {
-    "name": "Project Y (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Project%20Y%20%282026%29/Project_Y_2026_Hindi_Dubbed_Full_Movie_1080p_WEB-DL-%28Jalshamoviez.in%29.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/1KMG1inDAnKaGZ1W8Ac3wn6bdXu.jpg"
-  },
-  {
-    "name": "Raiders Of The Lost Ark (1981) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Raiders%20of%20the%20Lost%20Ark%20%281981%29/Indiana.Jones.And.The.Raiders.Of.The.Lost.Ark.1981.720P.Hindi.English.Esub.MovieLinkBD%20%281%29.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg"
-  },
-  {
-    "name": "Return Of The Suryavanshi Yodha (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Return%20of%20the%20Suryavanshi%20Yodha%20%282026%29/MovieLinkBD.com%20-%20Chhota.Bheem.and.Little.Singham.Return.of.the.Suryavanshi.Yodha.Part.1080p.Multi%5BHindi-Tamil-Telugu-Malayalam-Kannada-Marathi%5D.AAC.HEVC.h265.mp4",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Satan The Dark (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Satan%20-%20The%20Dark%20%282026%29/The%20Dark%20Satan%202026%20AMZN%20Dual%20Audio%20Hindi%20%28ORG%29%20SouthFreak.com%201080p%20WEB-DL%20x264%20ESubs.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/uFjy89xe1Us6iRfdsKAn05Y1XGX.jpg"
-  },
-  {
-    "name": "Speed Demon (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Speed%20Demon%20%282026%29/Speed%20Demon%202025%20Dual%20Audio%20Hindi%20ORG%20SouthFreak.com%201080p%20WEB-DL%20x264%20ESubs%20%281%29.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/1qeO6qbbOXFkwN19aCWQAlmpbHQ.jpg"
-  },
-  {
-    "name": "Suddenly In The Dark (1981) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/Suddenly%20in%20the%20Dark%20%281981%29/MovieLinkBD.com%20-%20Suddenly.in.the.Dark.1981.720p.Dual%5BHindi-Korean%5D.AAC.BluRay.h264.ESub.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/oQaqUUJmJSWHZJg5Vky3b2A1RkU.jpg"
-  },
-  {
-    "name": "The Marked Woman (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/The%20Marked%20Woman%20%282026%29/The%20Marked%20Woman%202026%20NF%20Dual%20Audio%20Hindi%20%28ORG%29%20SouthFreak.com%201080p%20WEB-DL%20x264%20Multi%20Subs.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg"
-  },
-  {
-    "name": "TN (2026) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/TN%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/TN%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
-    "img": "https://image.tmdb.org/t/p/w500/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg"
-  },
-  {
-    "name": "War Machine (2017) 🆕",
-    "type": "Movies - Hindi Dubbed",
-    "url": "http://cinehub24.com/ftp/Movies/hindidub/War%20Machine%20%282017%29/MovieLinkBD.com%20-%20War.Machine.2017.720p.Hindi.AAC.WEB-DL.h264.mp4",
-    "img": "https://image.tmdb.org/t/p/w500/bU2Q2rCH5VFrJNKSyx6wSmQZFsX.jpg"
-  },
-  {
     "name": "105 Minutes (2026)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://cinehub24.com/ftp/Movies/hindidub/105%20Minutes%20%282026%29/105%20Minutes%20%282026%29.mp4",
@@ -119172,10 +118806,22 @@
     "img": "https://image.tmdb.org/t/p/w500/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg"
   },
   {
+    "name": "29 (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/29%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/29%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg"
+  },
+  {
     "name": "Aadu-3 (2026)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Aadu-3%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Aadu-3%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/3yqreNY1f4iOXX0vBAqY64ZvxiV.jpg"
+  },
+  {
+    "name": "0,380,562_.jpg\",Aliens Ka Aagman (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Aliens%20Ka%20Aagman%20%282026%29/MovieLinkBD.com%20-%20The.Great.Grand.SuperHero.2026.1080p.Hindi.AAC.HDTC.h264.mp4",
+    "img": "https://m.media-amazon.com/images/M/MV5BMDQ2YTgxMzAtMTE1OS00Y2RkLWFhMzAtYWEyY2ZjNTY0YTQ3XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg"
   },
   {
     "name": "Anaganaga Oka Raju (2026)",
@@ -119188,6 +118834,12 @@
     "type": "Movies - Hindi Dubbed",
     "url": "http://cds1.discoveryftp.net/Movies/Tamil/2026/Anantha/Anantha.2026.4K-2160p.SDR.JHS.WEB-DL.Hindi.DDP5.1-Telugu.DDP5.1.HEVC.x265-Dual.mkv?md5=Uuk1rsmNXjmpSk3b2EbGEA&expires=1777845510",
     "img": "https://cds1.discoveryftp.net/Movies/Tamil/2026/Anantha/poster.jpg"
+  },
+  {
+    "name": "Bhartha Mahasayulaku Wignyapthi (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Bhartha%20Mahasayulaku%20Wignyapthi%20%282026%29%20Hindi%20Telegu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Bhartha%20Mahasayulaku%20Wignyapthi%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/3QoTnvsbIAAWVXpfHzQKeEQhUi7.jpg"
   },
   {
     "name": "Biker (2026)",
@@ -119220,16 +118872,34 @@
     "img": "https://image.tmdb.org/t/p/w500/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg"
   },
   {
+    "name": "Dacoit Ek Prem Katha (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Dacoit%20Ek%20Prem%20Katha%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Dacoit%20Ek%20Prem%20Katha%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/530ELGtiZKTUpyxEvP2ufzz8bJB.jpg"
+  },
+  {
     "name": "Dear Radhi (2026)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://cinehub24.com/ftp/Movies/hindidub/Dear%20Radhi%202026/Dear%20Radhi%202026.mp4",
     "img": "https://image.tmdb.org/t/p/w500/9m7Bq47NxPxbJrkzu3QaDiv1D1W.jpg"
   },
   {
+    "name": "Drishyam-3 (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Drishyam-3%20%282026%29%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Drishyam-3%20%282026%29%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/iSBVjFjxvG94ypIi13Mdomz4j52.jpg"
+  },
+  {
     "name": "Fantasy Life (2026)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://cinehub24.com/ftp/Movies/hindidub/Fantasy%20Life%20%282026%29/Fantasy_Life_2026_Hindi_Dubbed_Full_Movie_1080p_WEB-DL-%28Jalshamoviez.in%29.mp4",
     "img": "https://image.tmdb.org/t/p/w500/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg"
+  },
+  {
+    "name": "Gaayapadda Simham (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Gaayapadda%20Simham%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Gaayapadda%20Simham%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/dx40U1uLHwBpdbVxIMC57jyIAaf.jpg"
   },
   {
     "name": "God Father (2026)",
@@ -119250,6 +118920,12 @@
     "img": "https://cds1.discoveryftp.net/Movies/Tamil/2026/Hotspot%202%20Much/poster.jpg"
   },
   {
+    "name": "Indian Institute Of Zombies (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Indian%20Institute%20of%20Zombies%20%282026%29/MovieLinkBD.com%20-%20Indian.Institute.of.Zombies.2026.1080p.Hindi.AAC.HDTC.h264.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/zSiNbahfCoezs5LQYNtJrvczngM.jpg"
+  },
+  {
     "name": "Jana Nayagan (2026)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://cinehub24.com/ftp/Movies/hindidub/Jana%20Nayagan%20%282026%29/Jana_Nayagan_2026_South_Hindi_HQ_Dubbed_Full_Movie_1080p_WEB-DL-%28Jalshamoviez.in%29.mp4",
@@ -119268,16 +118944,76 @@
     "img": "https://cds1.discoveryftp.net/Movies/Tamil/2026/Jockey/poster.jpg"
   },
   {
+    "name": "Kaalidas 2 (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Kaalidas%202%20%282026%29/SouthFreak.COM%20-%20Kaalidas%202%202026%20Dual%20Audio%20Hindi%20%28ORG%29%201080p%20WEB-DL%20x264%20ESubs.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/fq2eQegiFy6JxyM2S2ctm9RbB2G.jpg"
+  },
+  {
+    "name": "Kaalidas-2 (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Kaalidas-2%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kaalidas-2%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/fq2eQegiFy6JxyM2S2ctm9RbB2G.jpg"
+  },
+  {
+    "name": "Kara (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Kara%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kara%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/6U6i4qhgHR1MWkUb6OGQwNpqcZC.jpg"
+  },
+  {
+    "name": "Karikaada (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Karikaada%20%282026%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Karikaada%20%282026%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/tL0skwRWivuNZHQD89baWynksct.jpg"
+  },
+  {
+    "name": "Kattalan (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Kattalan%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Kattalan%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/9OA6y2GdbXuJ5PAMMMawNBIkrZA.jpg"
+  },
+  {
+    "name": "Krishnavataram P1-The Heart (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Krishnavataram%20P1-The%20Heart%20%282026%29%20Hindi%20Tamil%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Krishnavataram%20P1-The%20Heart%20%282026%29%20Hindi%20Tamil%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Kumari Srimathi S01E01 E07 (2026)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://103.225.94.27/Infobase/hdd-2/Hindi%20Dub2.0/Kumari%20Srimathi%20S01E01-E07.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Lechindi Mahila Lokam (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Lechindi%20Mahila%20Lokam%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Lechindi%20Mahila%20Lokam%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/c2t1rNPSGPZMQKuaNJU6od6QqAU.jpg"
+  },
+  {
+    "name": "LIK Love Insurance Kompany (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/LIK%20Love%20Insurance%20Kompany%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/LIK%20Love%20Insurance%20Kompany%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg"
+  },
+  {
+    "name": "Love Insurance Kompany (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Love%20Insurance%20Kompany%20%282026%29/CINEFREAK.TOP%20-%20Love%20Insurance%20Kompany%20%282026%29%20WEB-DL%20%5BHindi-Tamil%5D%201080p%20ESub.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg"
+  },
+  {
     "name": "Made in Korea (2026)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://cds1.discoveryftp.net/Movies/Tamil/2026/Made%20in%20Korea/Made.in.Korea.2026.1080p.WEB-DL.Hindi.5.1-Tamil.5.1.ESub.x264-Dual.mkv?md5=nblM1EVf8PREQgfI4UmVww&expires=1777845510",
     "img": "https://cds1.discoveryftp.net/Movies/Tamil/2026/Made%20in%20Korea/poster.jpg"
+  },
+  {
+    "name": "Madhuvidhu (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Madhuvidhu%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Madhuvidhu%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/jVSnpXklfxi3FchGqweRMvrC8Gd.jpg"
   },
   {
     "name": "Main Woh Aur Fuji (2026)",
@@ -119304,16 +119040,34 @@
     "img": "https://image.tmdb.org/t/p/w500/umlG9mq5Zw8LACRpD2FQDB7WLSa.jpg"
   },
   {
+    "name": "Mcoca (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Mcoca%20%282026%29%20Hindi%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mcoca%20%282026%29%20Hindi%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/9T4j2xFJHUComly4vP9CgytuS6t.jpg"
+  },
+  {
     "name": "Mohiniyattam (2026)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://cinehub24.com/ftp/Movies/hindidub/Mohiniyattam%20%282026%29/Bharathanyam_2_Mohiniyattam_2026_South_Hindi_Dubbed_Full_Movie_1080p_WEB-DL-%28Jalshamoviez.in%29.mp4",
     "img": "https://image.tmdb.org/t/p/w500/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg"
   },
   {
+    "name": "Motu Patlu Ka Goa Dhammal (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Motu%20Patlu%20Ka%20Goa%20Dhammal%20%282026%29/MovieLinkBD.com%20-%20Motu.Patlu.Ka.Goa.Dhamaal.2026.1080p.Multi%5BHindi-Bangla-Tamil-Telugu-Malayalam-Kannada-Marathi%5D.AAC.HEVC.h265.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/8gsLgugWG74ofCOh5HZQXSEPUK.jpg"
+  },
+  {
     "name": "Mrithyunjay (2026)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Mrithyunjay%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mrithyunjay%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg"
+  },
+  {
+    "name": "My Dearest Assassin (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/My%20Dearest%20Assassin%20%282026%29/My%20Dearest%20Assassin%202026%20NF%20Dual%20Audio%20Hindi%20%28ORG%29%20SouthFreak.com%201080p%20WEB-DL%20x264%20ESubs%20%281%29.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg"
   },
   {
     "name": "My Lord (2026)",
@@ -119328,16 +119082,34 @@
     "img": "https://cds1.discoveryftp.net/Movies/Tamil/2026/Nari%20Nari%20Naduma%20Murari/poster.jpg"
   },
   {
+    "name": "Nawabs Cafe A story of Chaiwala (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Nawabs%20Cafe%20A%20story%20of%20Chaiwala%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Nawabs%20Cafe%20A%20story%20of%20Chaiwala%20%282026%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/mZ3By7MbNzMx2ANQ9MdYnwMYlQ3.jpg"
+  },
+  {
     "name": "Nee Forever (2026)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Nee%20Forever%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Nee%20Forever%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/qEYp2LgileilGofZVVLL8Juuh2G.jpg"
   },
   {
+    "name": "No Place To Be Single (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/No%20Place%20to%20Be%20Single%20%282026%29/No%20Place%20to%20Be%20Single%20%282026%29%20Hindi%20Dubbed%20Movie%201080p%20HDRip-1080p%28HDFun%29.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/nsROal9WTDvbB7ITBZZGrVOlz5z.jpg"
+  },
+  {
     "name": "Noah Kahan Out Of Body (2026)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://cinehub24.com/ftp/Movies/hindidub/Noah%20Kahan%20Out%20of%20Body%20%282026%29/Out%20of%20Body%20%282026%29%20Hollywood%20Hindi%20Dubbed%20Movie%201080p%20HDRip-1080p%28HDFun%29.mp4",
     "img": "https://image.tmdb.org/t/p/w500/8VtZAonOgK8hae7FwOZCSg7XmCu.jpg"
+  },
+  {
+    "name": "Obsess (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Obsess%20%282026%29/MovieLinkBD.com%20-%20Obsess.2026.720p.Hindi.AAC.HDTC.h264.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
   },
   {
     "name": "Pallichattambi (2026)",
@@ -119358,16 +119130,40 @@
     "img": "https://cds1.discoveryftp.net/Movies/Tamil/2026/Parasakthi/poster.jpg"
   },
   {
+    "name": "Patriot (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Patriot%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Patriot%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/4cK4Js7yg8wL2YeZh7DWuoz1bgZ.jpg"
+  },
+  {
+    "name": "Peddi (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Peddi%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D/Peddi%20%282026%29%20Hindi%20720p%20HDTS%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg"
+  },
+  {
     "name": "Prathichaya (2026)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Prathichaya%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Prathichaya%20%282026%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg"
   },
   {
+    "name": "Project Y (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Project%20Y%20%282026%29/Project_Y_2026_Hindi_Dubbed_Full_Movie_1080p_WEB-DL-%28Jalshamoviez.in%29.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/1KMG1inDAnKaGZ1W8Ac3wn6bdXu.jpg"
+  },
+  {
     "name": "Remarkably Bright Creatures (2026)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://cinehub24.com/ftp/Movies/hindidub/Remarkably%20Bright%20Creatures%20%282026%29/Remarkably_Bright_Creatures_2026_Hindi_Dubbed_Full_Movie_1080p_WEB-DL-%28Jalshamoviez.in%29.mp4",
     "img": "https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg"
+  },
+  {
+    "name": "Return Of The Suryavanshi Yodha (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Return%20of%20the%20Suryavanshi%20Yodha%20%282026%29/MovieLinkBD.com%20-%20Chhota.Bheem.and.Little.Singham.Return.of.the.Suryavanshi.Yodha.Part.1080p.Multi%5BHindi-Tamil-Telugu-Malayalam-Kannada-Marathi%5D.AAC.HEVC.h265.mp4",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Revenge (Venganza) ( Spanish) (2026)",
@@ -119388,16 +119184,40 @@
     "img": "https://m.media-amazon.com/images/M/MV5BZGY0OGZjMjAtNzY3Mi00MTU4LWIyMTEtZDE5NzY2MDFlNzY4XkEyXkFqcGc@._V1_SX300.jpg"
   },
   {
+    "name": "Satan The Dark (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Satan%20-%20The%20Dark%20%282026%29/The%20Dark%20Satan%202026%20AMZN%20Dual%20Audio%20Hindi%20%28ORG%29%20SouthFreak.com%201080p%20WEB-DL%20x264%20ESubs.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/uFjy89xe1Us6iRfdsKAn05Y1XGX.jpg"
+  },
+  {
+    "name": "Speed Demon (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Speed%20Demon%20%282026%29/Speed%20Demon%202025%20Dual%20Audio%20Hindi%20ORG%20SouthFreak.com%201080p%20WEB-DL%20x264%20ESubs%20%281%29.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/1qeO6qbbOXFkwN19aCWQAlmpbHQ.jpg"
+  },
+  {
     "name": "Suyodhana (2026)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://cinehub24.com/ftp/Movies/hindidub/Suyodhana%20%282026%29/MovieLinkBD.com%20-%20Suyodhana.2026.1080p.Dual%5BHindi-Telugu%5D.AAC.h264.ESub.mkv",
     "img": "https://image.tmdb.org/t/p/w500/s56x3fGTN6J1jbBMBDnLY7t4iyU.jpg"
   },
   {
+    "name": "The Marked Woman (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/The%20Marked%20Woman%20%282026%29/The%20Marked%20Woman%202026%20NF%20Dual%20Audio%20Hindi%20%28ORG%29%20SouthFreak.com%201080p%20WEB-DL%20x264%20Multi%20Subs.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg"
+  },
+  {
     "name": "The Rajasaab (2026)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://cds1.discoveryftp.net/Movies/Tamil/2026/The%20Rajasaab/The.Raja.Saab.2026.4K-2160p.SDR.JHS.WEB-DL.Hindi-Multi.DDPA5.1.HEVC.x265-Dual.mkv?md5=9kE1SrFxuHwFLSQM1T-AGw&expires=1777845510",
     "img": "https://cds1.discoveryftp.net/Movies/Tamil/2026/The%20Rajasaab/poster.jpg"
+  },
+  {
+    "name": "TN (2026)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/TN%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/TN%20%282026%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg"
   },
   {
     "name": "Untold Jail Blazers (2026)",
@@ -119554,6 +119374,12 @@
     "type": "Movies - Hindi Dubbed",
     "url": "http://cinehub24.com/ftp/Movies/hindidub/Anaconda%20%282025%29/Anaconda.mp4",
     "img": "https://image.tmdb.org/t/p/w500/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg"
+  },
+  {
+    "name": "Anaganaga (2025)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Anaganaga%20%282025%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Anaganaga%20%282025%29%20Hindi%20Telugu%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/ssgArgj7qbtZDd8r5P5b7ruVYU4.jpg"
   },
   {
     "name": "Andhra King Taluka (2025)",
@@ -120300,6 +120126,12 @@
     "img": "https://image.tmdb.org/t/p/w500/aFogllaRGlAhk1nqvVGFpZpl4qU.jpg"
   },
   {
+    "name": "Lake George (2025)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Lake%20George%20%282025%29/Lake%20George%20%282025%29%20Hindi%20Dubbed%20Movie%201080p%20HDRip-1080p%28HDFun%29.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/7nqwvs1DORz65GtV7MeNBfqBxQW.jpg"
+  },
+  {
     "name": "Lara (2025)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Lara%20%282025%29%20Tamil%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5BDDN%5D/Lara%20%282025%29%20Tamil%20HQ%20PreDVD%20-%20720p%20-%20x264%20%5BDDN%5D.mp4",
@@ -120424,6 +120256,18 @@
     "type": "Movies - Hindi Dubbed",
     "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Maranamass%20%282025%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Maranamass%20%282025%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/erU6DGyYGEFrnE4reiGX3pytU2e.jpg"
+  },
+  {
+    "name": "Mark (2025)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Mark%20%282025%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Mark%20%282025%29%20Hindi%20Kannada%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mkv",
+    "img": "https://image.tmdb.org/t/p/w500/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg"
+  },
+  {
+    "name": "Marty Supreme (2025)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Marty%20Supreme%20%282025%29/MovieLinkBD.com%20-%20Marty.Supreme.2025.720p.Multi%5BHindi-English-Tamil-Telugu%5D.AAC.BluRay.h264.ESub.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
   },
   {
     "name": "Mass Jathara (2025)",
@@ -123948,6 +123792,12 @@
     "img": "https://image.tmdb.org/t/p/w500/bQddqjvARsJjxrnC9FyTE7iA0uG.jpg"
   },
   {
+    "name": "Indiana Jones And The Dial Of Destiny (2023)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Indiana%20Jones%20and%20the%20Dial%20of%20Destiny%20%282023%29/Indiana.Jones.and.the.Dial.of.Destiny.2023%20%5BMovieLinkBD.Com%5D.%20720p.10Bit.BluRay.Hindi.English.Esubs..mp4",
+    "img": "https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg"
+  },
+  {
     "name": "Infested (2023)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://cinehub24.com/ftp/Movies/hindidub/Infested%20%282023%29/Infested.mp4",
@@ -124162,6 +124012,12 @@
     "type": "Movies - Hindi Dubbed",
     "url": "http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Locker%20%282023%29%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Locker%20%282023%29%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4",
     "img": "https://image.tmdb.org/t/p/w500/io2dfBJhasvGbgkCX9cCGVOiA99.jpg"
+  },
+  {
+    "name": "Lord Curzon Ki Haveli (2023)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Lord%20Curzon%20Ki%20Haveli%20%282023%29/MovieLinkBD.com%20-%20Lord.Curzon.Ki.Haveli.2023.1080p.Hindi.EAC3.WEB-DL.HEVC.h265.ESub.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/3Hvhy3cVYCTWXvHDSX4XlCFfrec.jpg"
   },
   {
     "name": "Maamannan (2023)",
@@ -125566,6 +125422,12 @@
     "type": "Movies - Hindi Dubbed",
     "url": "http://cinehub24.com/ftp/Movies/hindidub/I%20Came%20By%20%282022%29/I%20Came%20By%20%282022%29.mp4",
     "img": "https://image.tmdb.org/t/p/w500/pFB9jZDl52jBNbMPVSlISXD1ggS.jpg"
+  },
+  {
+    "name": "Influencer (2022)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Influencer%20%282022%29/MovieLinkBD.com%20-%20Influencer.2022.720p.Dual%5BHindi-English%5D.AAC.BluRay.h264.ESub.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/mtXV301BF7pqwvRjsWhQo6sD10F.jpg"
   },
   {
     "name": "James (2022)",
@@ -127530,6 +127392,12 @@
     "img": "https://cds1.discoveryftp.net/Movies/Tamil/2020/Gatham/poster.jpg"
   },
   {
+    "name": "Ghost Stories (2020)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Ghost%20Stories%202020/Ghost%20Stories%202020%20WebRip%20Hindi%20720p%20x264%20AAC%205.1%20ESub%20-%20MovieLinkBD.com..mkv",
+    "img": "https://image.tmdb.org/t/p/w500/2b1Y6NbZenY45DgC5CwncoLkpo.jpg"
+  },
+  {
     "name": "Guvva Gorinka (2020)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://103.225.94.27/Infobase/hdd-1/HINDI%20DUBBED/Guvva%20Gorinka%20(2020)%201080p%20WEBRip.mp4",
@@ -128410,6 +128278,12 @@
     "type": "Movies - Hindi Dubbed",
     "url": "http://cds1.discoveryftp.net/Movies/Tamil/2018/Junga/Junga.2018.UNCUT.1080p.WEB-DL.Hindi.5.1-Tamil.5.1.ESub.x264-Dual.mkv?md5=KAhSIg7mIwXSxBS3CAzTww&expires=1777845521",
     "img": "https://cds1.discoveryftp.net/Movies/Tamil/2018/Junga/poster.jpg"
+  },
+  {
+    "name": "Jurassic World Fallen Kingdom (2018)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Jurassic%20World%20Fallen%20Kingdom%20%282018%29/Jurassic.World.Fallen.Kingdom.%282018%29.1080p.Bluray.Dual.Audio.%28Hin.Eng%29.MovieLinkBD.com.%5D.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg"
   },
   {
     "name": "Juvva (2018)",
@@ -129408,6 +129282,12 @@
     "img": "https://cds1.discoveryftp.net/Movies/Tamil/2017/Vunnadhi%20Okate%20Zindagi/poster.jpg"
   },
   {
+    "name": "War Machine (2017)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/War%20Machine%20%282017%29/MovieLinkBD.com%20-%20War.Machine.2017.720p.Hindi.AAC.WEB-DL.h264.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/bU2Q2rCH5VFrJNKSyx6wSmQZFsX.jpg"
+  },
+  {
     "name": "Winner (2017)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://cds1.discoveryftp.net/Movies/Tamil/2017/Winner/Winner%20%282017%29%20720p%20UNCUT%20HDRip%20x264%20Eng%20Subs%20%5BDual%20Audio%5D%20%5BHindi%20DD%202.0%20-%20Telugu%20DD%205.1%5D.mkv?md5=HmHS81aQmG4Ni5yOgORGbQ&expires=1777845529",
@@ -129610,6 +129490,12 @@
     "type": "Movies - Hindi Dubbed",
     "url": "http://cds1.discoveryftp.net/Movies/Tamil/2016/IDI%20Inspector%20Dawood%20Ibrahim/Fauladi%20Policewala%20-%20IDI%202016%20Dual%20WebRip%20Hindi%201080p.mkv?md5=wcgHt0tYKKjv6bd1QrBW_w&expires=1777845536",
     "img": "https://cds1.discoveryftp.net/Movies/Tamil/2016/IDI%20Inspector%20Dawood%20Ibrahim/poster.jpg"
+  },
+  {
+    "name": "Inferno (2016)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Inferno%20%282016%29/Inferno.2016.720p.Dual%5BHindi-English%5D.AAC.h264.ESub.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/cnqvFvjAaV28F1tU7986VVg0WP7.jpg"
   },
   {
     "name": "Iraivi (2016)",
@@ -130210,6 +130096,12 @@
     "type": "Movies - Hindi Dubbed",
     "url": "http://cds1.discoveryftp.net/Movies/Tamil/2015/Jil/Jil%20%282015%29%20720p%20UNCUT%20HDRip%20x264%20Eng%20Subs%20%5BDual%20Audio%5D%20%5BHindi%20DD%202.0%20-%20Telugu%20DD%205.1%5D.mkv?md5=QZtOMO8XMksMojf3YHh2Zw&expires=1777845540",
     "img": "https://cds1.discoveryftp.net/Movies/Tamil/2015/Jil/poster.jpg"
+  },
+  {
+    "name": "Jurassic World (2015)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Jurassic%20World%20%282015%29/Jurassic.World.2015.1080p.Bluray.Hindi.English.Esubs.MovieLinkBD.com..mp4",
+    "img": "https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg"
   },
   {
     "name": "Kaaki Sattai (2015)",
@@ -132228,6 +132120,12 @@
     "img": "https://image.tmdb.org/t/p/w500/p2SeFLxPU0fZno9XTYgx3w8IZAX.jpg"
   },
   {
+    "name": "Indiana Jones 4 And The Kingdom Of The Crystal Skul (2008)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Indiana%20Jones%204%20and%20the%20Kingdom%20of%20the%20Crystal%20Skul%20%282008%29/Indiana.Jones.And.The.Kingdom.of.the.Crystal.Skull.2008.%5BMovieLinkBD.Com%5D%20720p.BluRay.HIN-ENG.x264.ESubs.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg"
+  },
+  {
     "name": "Kill Kill Faster Faster (2008)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://cinehub24.com/ftp/Movies/hindidub/Kill%20Kill%20Faster%20Faster%20%282008%29/Kill%20Kill%20Faster%20Faster.mp4",
@@ -132576,6 +132474,12 @@
     "img": "https://image.tmdb.org/t/p/w500/AdLg3zOxCcyWQYKSK86q20dibq.jpg"
   },
   {
+    "name": "Minority Report (2002)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Minority%20Report%20%282002%29/Minority.Report.2002.720p.BluRay.Hindi.Eng.MovieLinkBD.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg"
+  },
+  {
     "name": "Outside The Law (2002)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://cinehub24.com/ftp/Movies/hindidub/Outside%20the%20Law%20%282002%29/Outside%20the%20Law.mp4",
@@ -132738,10 +132642,34 @@
     "img": "https://image.tmdb.org/t/p/w500/zxJAqSdJTc9YaGKVq2SfJDVVVco.jpg"
   },
   {
+    "name": "Indiana Jones And The Last Crusade (1989)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Indiana%20Jones%20and%20the%20Last%20Crusade%20%281989%29/Indiana%20Jones%203%20and%20The%20Last%20Crusade%201989%20BluRay%20Dual%20Audio%20%5BHindi%205.1%20%2B%20English%205.1%5D%20720p%20x264%20AAC%20ESub%20-%20MovieLinkBD.com.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg"
+  },
+  {
     "name": "Slugs (1988)",
     "type": "Movies - Hindi Dubbed",
     "url": "http://cinehub24.com/ftp/Movies/hindidub/Slugs%20%281988%29/Slugs.mp4",
     "img": "https://image.tmdb.org/t/p/w500/lkUYI3fy8d2Z613UwaGcofmT4p.jpg"
+  },
+  {
+    "name": "Indiana Jones And The Temple Of Doom (1984)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Indiana%20Jones%20and%20the%20Temple%20of%20Doom%20%281984%29/Indiana.Jones.And.The.Temple.Of.Doom.1984.720P.Bluray.Hindi.English.Msubs.MovieLinkBD.com..mp4",
+    "img": "https://image.tmdb.org/t/p/w500/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg"
+  },
+  {
+    "name": "Raiders Of The Lost Ark (1981)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Raiders%20of%20the%20Lost%20Ark%20%281981%29/Indiana.Jones.And.The.Raiders.Of.The.Lost.Ark.1981.720P.Hindi.English.Esub.MovieLinkBD%20%281%29.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg"
+  },
+  {
+    "name": "Suddenly In The Dark (1981)",
+    "type": "Movies - Hindi Dubbed",
+    "url": "http://cinehub24.com/ftp/Movies/hindidub/Suddenly%20in%20the%20Dark%20%281981%29/MovieLinkBD.com%20-%20Suddenly.in.the.Dark.1981.720p.Dual%5BHindi-Korean%5D.AAC.BluRay.h264.ESub.mp4",
+    "img": "https://image.tmdb.org/t/p/w500/oQaqUUJmJSWHZJg5Vky3b2A1RkU.jpg"
   },
   {
     "name": "13 Teen (2026)",
@@ -161950,6 +161878,12 @@
     "type": "Undefined",
     "url": "https://tvsen6.aynaott.com/BTVNews/index.m3u8",
     "img": "https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1735648543857_Poster.jpg&w=3840&q=75"
+  },
+  {
+    "name": "Channel S (576p)",
+    "type": "Culture",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8",
+    "img": "https://i.imgur.com/hJxFLvF.png"
   },
   {
     "name": "Ekhon TV (1080p)",
