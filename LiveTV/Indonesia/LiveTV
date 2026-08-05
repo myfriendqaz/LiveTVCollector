@@ -3294,6 +3294,12 @@
     "img": "https://i.ibb.co.com/P5xs9ZF/ziggosport6.png"
   },
   {
+    "name": "CT SPORT 🇸🇰",
+    "type": "Sports",
+    "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd",
+    "img": "https://mimipipi22.github.io/logo/antik/ctsport.jpg"
+  },
+  {
     "name": "JOJ SPORT 🇸🇰",
     "type": "Sports",
     "url": "https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd",
@@ -12024,66 +12030,6 @@
     "img": "https://images.indihometv.com/logo_uchannel_small1.png?v=2.0.0.13"
   },
   {
-    "name": "RTB Go",
-    "type": "PialaDunia 2026",
-    "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229",
-    "img": "https://i.imgur.com/CGlzsD5.png"
-  },
-  {
-    "name": "Fox Sports 1",
-    "type": "PialaDunia 2026",
-    "url": "https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd",
-    "img": "https://iili.io/KYJqv0G.png"
-  },
-  {
-    "name": "FUSSBALLTV 1",
-    "type": "PialaDunia 2026",
-    "url": "http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&extension=m3u8",
-    "img": "https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png"
-  },
-  {
-    "name": "CazeTV",
-    "type": "PialaDunia 2026",
-    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/CazeTV.m3u8",
-    "img": "https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png"
-  },
-  {
-    "name": "TVP Sport",
-    "type": "PialaDunia 2026",
-    "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
-    "img": "https://iptvboss.xyz/logos/Poland/TVPSport.pl.png"
-  },
-  {
-    "name": "CT SPORT",
-    "type": "PialaDunia 2026",
-    "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png"
-  },
-  {
-    "name": "RTM",
-    "type": "PialaDunia 2026",
-    "url": "http://iptv.kilas7.com:80/kaukia/asdfrewq/31",
-    "img": "https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png"
-  },
-  {
-    "name": "BBC 1",
-    "type": "PialaDunia 2026",
-    "url": "https://xemzi.short.gy/1000001",
-    "img": "https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png"
-  },
-  {
-    "name": "BBC 2",
-    "type": "PialaDunia 2026",
-    "url": "https://xemzi.short.gy/1000002",
-    "img": "https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png"
-  },
-  {
-    "name": "kian",
-    "type": "PialaDunia 2026",
-    "url": "http://93.93.113.95:25461/TV-Berati/XtreamCodes/494",
-    "img": "https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png"
-  },
-  {
     "name": "RCTI",
     "type": "TV Nasional Indonesia",
     "url": "https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti",
@@ -12114,10 +12060,16 @@
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_115.png"
   },
   {
-    "name": "Indosiar",
+    "name": "Indosiar Vidio",
     "type": "TV Nasional Indonesia",
     "url": "https://tvratu.my.id/vid/index.mpd?id=205&type=dash",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png"
+    "img": "https://mimipipi22.github.io/logo/nasional/indosiar.jpg"
+  },
+  {
+    "name": "Indosiar",
+    "type": "TV Nasional Indonesia",
+    "url": "http://202.169.224.202:8800/udp/239.9.1.25:1234",
+    "img": "https://iili.io/JMp3wV1.png/1280px-INDOSIAR_Logo.png"
   },
   {
     "name": "SCTV",
@@ -12140,7 +12092,7 @@
   {
     "name": "TV ONE HD",
     "type": "TV Nasional Indonesia",
-    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd",
+    "url": "http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8",
     "img": "https://i.imgur.com/Ys0M82m.jpeg"
   },
   {
@@ -15628,12 +15580,6 @@
     "type": "INDONESIA TV",
     "url": "https://tvratu.my.id/vid/index.mpd?id=204&type=dash",
     "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/sctv.png"
-  },
-  {
-    "name": "03. INDOSIAR V",
-    "type": "INDONESIA TV",
-    "url": "http://202.169.224.202:8800/udp/239.9.1.25:1234",
-    "img": "https://raw.githubusercontent.com/abidinrj/logo/refs/heads/main/indosiar.png"
   },
   {
     "name": "26. MOJI TV",
@@ -19912,12 +19858,6 @@
     "type": "Nasional 🇮🇩",
     "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8",
     "img": "https://i.imgur.com/o9Xg7V4.png"
-  },
-  {
-    "name": "TVR Parlemen",
-    "type": "Nasional 🇮🇩",
-    "url": "http://103.18.181.69:1935/golive/livestream/playlist.m3u8",
-    "img": "https://i.imgur.com/JtN4fgn.png"
   },
   {
     "name": "TVRI Nasional",
@@ -30336,6 +30276,12 @@
     "img": "https://raisely-images.imgix.net/uploads/ca-5-be-4-b-0-33-d-7-47-e-8-8-af-8-35-f-7-c-419-cbec-png-099577.png?fm=jpg"
   },
   {
+    "name": "PIALA DUNIA (TVP SPORT-POLAND)",
+    "type": "World CUP",
+    "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+    "img": "https://raisely-images.imgix.net/uploads/ca-5-be-4-b-0-33-d-7-47-e-8-8-af-8-35-f-7-c-419-cbec-png-099577.png?fm=jpg"
+  },
+  {
     "name": "PIALA DUNIA (TVRI)",
     "type": "World CUP",
     "url": "https://digital.tsender57.workers.dev/bc82b623e5/play/a05u/index.m3u8",
@@ -30531,6 +30477,18 @@
     "name": "TSN 5 (CANADA)",
     "type": "World CUP",
     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png"
+  },
+  {
+    "name": "BBC ONE (UNITED KINGDOM)",
+    "type": "World CUP",
+    "url": "https://xemzi.short.gy/1000001",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png"
+  },
+  {
+    "name": "BBC TWO (UNITED KINGDOM)",
+    "type": "World CUP",
+    "url": "https://xemzi.short.gy/1000002",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png"
   },
   {
@@ -30820,6 +30778,30 @@
     "type": "World CUP",
     "url": "https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/FOX_SPORTS_1_TV/index.m3u8",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoNz6L9nDGTphcEIYSC7A4olw4XaVUwjfkyPhWHyZRDFs8MeaRRseeIF0i9t5o17cKlEeLMnZcTdHuDp__Jgrv6prMJ1EcujiV5IeH4KV5ejOuFPoUgXf6qJ4y4r61xTGalcc2b36sar88qyAQYP26BSbT1kwaCPszLGNAqLKXvKOAVFUosU1pJ0bD4Bq/s700/FIFA%20WC%202026%201.gif"
+  },
+  {
+    "name": "RCTI",
+    "type": "TV BackUP",
+    "url": "https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1785933375~hmac=24be47440678e8f69645a2c72f655f54d9890f57443f8364bb66fe10155821a5",
+    "img": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png"
+  },
+  {
+    "name": "MNCTV",
+    "type": "TV BackUP",
+    "url": "https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1785933375~hmac=b0901612bd5902d8301b092b2c355821cf93946a6dc8b7cab1acf42becd1dc90",
+    "img": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png"
+  },
+  {
+    "name": "GTV",
+    "type": "TV BackUP",
+    "url": "https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1785933376~hmac=e2d85425d08770685db16ef32ae6abbe67db2953c48781e375fc3d1981bf282e",
+    "img": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png"
+  },
+  {
+    "name": "iNews",
+    "type": "TV BackUP",
+    "url": "https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1785933376~hmac=ec4f5aefd67b94599cfab359ac9fa4b8ab0e6719d36b5c42061c2d9663471427",
+    "img": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png"
   },
   {
     "name": "ANTV",
@@ -31236,6 +31218,12 @@
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvsA0eX0cYe_h_rs0Kq5EzuceKR9ebt0KLkdunqy3HnNSp9hEI5HGzYO9omOJNdXREpDP3Pv2iUh6p0Og761HTBAZDc6OAelCOnwkR2n9s-qqUBdv_71jMhSV24i8tIZn0aiDaP4_tXRkwKeSMIJoMW2H1MBPbeImXFPvchRoQPyxRq3SNw-6olichhXKj/s700/MOJI.png"
   },
   {
+    "name": "TVONE V+",
+    "type": "TV BackUP",
+    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTKuPVKXn_RBQ5ebV179yuSLUL_U3NWSo80n5SjEF420QzmQhyQZlz1fz_lOjIOLc0MXZfSnzUYddjzhGYy6WaoJm99hV2YZVmAd26zLuq65PwusxbnxUDR55FcxjKvNuOYMdz00HQGcWvmNt-5o9SK9bPynzFnA8l0CrZDlgxxK19tWIzKQm5hpwfWb3/s700/TVONE.png"
+  },
+  {
     "name": "METRO TV MC",
     "type": "TV BackUP",
     "url": "https://edge-medcom.streamized.net/live-edge/smil:metro.smil/playlist.m3u8",
@@ -31300,6 +31288,12 @@
     "type": "TV BackUP",
     "url": "https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTUvjGJuQr4iX_T6xiHIKNQmxNy_Sl4Tc8Ns7qgp6SxRr3xCh1aTiS-H0gPLsLTFQMAGGrdse86IuX1VPhdu5scP4c5GFh0AmE9CD3vUlz5DlVM6-Kl3OSM_c8YON3NFnYLKCjE0JNHZeirShyVVjX9bmdRRU2eDUoKZ6s942Mwk8ZUJQVqVbfLIKgmq2S/s700/SINDO%20NEWS%20TV.png"
+  },
+  {
+    "name": "TVR PARLEMEN",
+    "type": "TV BackUP",
+    "url": "http://103.18.181.69:1935/golive/livestream/playlist.m3u8",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2403UeJ10gquJWdTP361RZdej2P0DW9NroMYfw2uoQxFudZXNNVxKEs14W2RLdtzWdTGCPwCu-AYHUhNUZmgjTAUl4mqI0iHytsS4xzG5DS5tdPcNtHfBczSI8NIpaVzcG2YCZ5UQ-dR657pDeR1sIYzMfCvyWf2mOwZcEoedissuV4Q9yh2QqZYWJ-ob/s700/TV%20PARLEMEN.png"
   },
   {
     "name": "ASTHA TV",
