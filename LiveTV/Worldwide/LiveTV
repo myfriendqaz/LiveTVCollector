@@ -18,6 +18,12 @@
     "img": "https://i.postimg.cc/C1dGFTqM/adrenalina_pura_tv.jpg"
   },
   {
+    "name": "Amazon Sat",
+    "type": "Variedades",
+    "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
+    "img": "https://i.imgur.com/7rjCS5i.png"
+  },
+  {
     "name": "Araruna TV",
     "type": "Variedades",
     "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8",
@@ -324,12 +330,6 @@
     "img": "https://i.postimg.cc/T1xygSJ5/geekdot.jpg"
   },
   {
-    "name": "GLN TV",
-    "type": "Variedades",
-    "url": "https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8",
-    "img": "https://i.postimg.cc/dtQJdVfY/glntv.png"
-  },
-  {
     "name": "Globo SP",
     "type": "Variedades",
     "url": "https://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8",
@@ -462,6 +462,12 @@
     "img": "https://i.postimg.cc/g20BQHxg/melody_tv.jpg"
   },
   {
+    "name": "Ministério Infantil TV",
+    "type": "Variedades",
+    "url": "https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8",
+    "img": "https://i.postimg.cc/GtrgvgjN/ministerio_infantil.jpg"
+  },
+  {
     "name": "Moviesphere Brasil",
     "type": "Variedades",
     "url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8",
@@ -496,18 +502,6 @@
     "type": "Variedades",
     "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
     "img": "https://i.postimg.cc/t70kcjXC/nicktoons.jpg"
-  },
-  {
-    "name": "Nova Era TV",
-    "type": "Variedades",
-    "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
-    "img": "https://i.imgur.com/IK3F9Uq.png"
-  },
-  {
-    "name": "Nova TVI Petrópolis",
-    "type": "Variedades",
-    "url": "https://stmv8.samcast.com.br/novatvi2098/novatvi2098/playlist.m3u8",
-    "img": "https://pa-str.srvsite.com/arquivos/7140/cabecalho-7140-20240911033310.png"
   },
   {
     "name": "Novelas Prime",
@@ -744,6 +738,12 @@
     "img": "https://i.imgur.com/O02TF2r.png"
   },
   {
+    "name": "Rede Globo Alternativo 2",
+    "type": "Variedades",
+    "url": "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8",
+    "img": "https://i.imgur.com/O02TF2r.png"
+  },
+  {
     "name": "Rede Mariana",
     "type": "Variedades",
     "url": "https://stmv2.srvif.com/redemariana/redemariana/playlist.m3u8",
@@ -864,12 +864,6 @@
     "img": "https://i.postimg.cc/3RkmXnVb/sbt.png"
   },
   {
-    "name": "SBT Cuiaba",
-    "type": "Variedades",
-    "url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8",
-    "img": "https://i.imgur.com/EZJWQ3i.png"
-  },
-  {
     "name": "SBT Interior",
     "type": "Variedades",
     "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
@@ -964,6 +958,12 @@
     "type": "Variedades",
     "url": "http://186.219.52.187:80/sesc_tv/index.m3u8",
     "img": "https://i.imgur.com/Mu8O6CV.png"
+  },
+  {
+    "name": "SIC TV",
+    "type": "Variedades",
+    "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8",
+    "img": "https://i.imgur.com/mHxQyB2.png"
   },
   {
     "name": "Sonata TV",
@@ -1212,6 +1212,12 @@
     "img": "https://i.postimg.cc/Y0hqrm8X/tv-cidade.png"
   },
   {
+    "name": "TV Cidade Verde Cuiaba",
+    "type": "Variedades",
+    "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8",
+    "img": "https://i.imgur.com/e67h04h.png"
+  },
+  {
     "name": "TV Cidade- Afiliada à TV Gazeta",
     "type": "Variedades",
     "url": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
@@ -1308,6 +1314,12 @@
     "img": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
   },
   {
+    "name": "TV Cultura Alternativo 9",
+    "type": "Variedades",
+    "url": "http://45.177.114.115:80/TV_CULTURA/index.m3u8",
+    "img": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
+  },
+  {
     "name": "TV Cultural HD",
     "type": "Variedades",
     "url": "https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8",
@@ -1348,6 +1360,12 @@
     "type": "Variedades",
     "url": "https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8",
     "img": "https://i.postimg.cc/9fW8VhLV/gln-tv-capa.jpg"
+  },
+  {
+    "name": "TV Fronteira",
+    "type": "Variedades",
+    "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8",
+    "img": "https://i.imgur.com/NtcoW6G.png"
   },
   {
     "name": "TV Futuro",
@@ -1728,10 +1746,10 @@
     "img": "https://i.imgur.com/duy6waL.png"
   },
   {
-    "name": "TV Show Fortaleza",
+    "name": "TV Singular",
     "type": "Variedades",
-    "url": "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8",
-    "img": "https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png"
+    "url": "https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1486298669.m3u8",
+    "img": "https://i.postimg.cc/SsRjXYqd/lingular-tv-logo2.png"
   },
   {
     "name": "TV Sul Bahia",
@@ -1828,12 +1846,6 @@
     "type": "Variedades",
     "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
     "img": "https://i.imgur.com/zoHBxn1.png"
-  },
-  {
-    "name": "Ultra TV",
-    "type": "Variedades",
-    "url": "https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8",
-    "img": "https://i.postimg.cc/RhK7vDL2/ultra-tv.jpg"
   },
   {
     "name": "Veja +",
@@ -1938,6 +1950,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png"
   },
   {
+    "name": "CINDIE TV Alternativo 1",
+    "type": "Filmes",
+    "url": "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8",
+    "img": "https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png"
+  },
+  {
     "name": "MyTime Movie Network Brazil",
     "type": "Filmes",
     "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
@@ -2006,7 +2024,7 @@
   {
     "name": "Chaves 24H",
     "type": "Séries",
-    "url": "https://fa723fc1b171.sae12.playlist.live-video.net/v1/playlist/Cq8FQrimVY3w1AhZkVm4KqMEm3YqNT5Il79SfU5SynuzZvk2uBsAJLUM4MZGLo-9YSn0gKNyxaLqF3-4V_8rHqBgAYKO7JqTGK_WeJ7r3q6UbFbDDTfyHNMPZXSy3pZoMzDTiN8_ujGGo6mpbOeRZW4DB42MtshS7xHfROynHOBCeFAnHLxhvqW0fzh1Q6gUquXsiCnT-PhBpBsEUA_NPcMkW-SUD_jQhIgVAp1VXd6iqUeWoKrwZyLkpvdNZKVRpP-uJZ5WGtAfHuWVwy47_NWT7btJ9KnPPiGtbr3qOn5Pzx0bE6ax5cWAYvFh3wQTm4f7k3bKvisRooo-J0ipC1uBBoR7tqnymtIwpbSrkHtFxt-w9ngw5frsadWLta2Ii4HYhK0lIkwX6WYu-Kk6tEOuWZRlSUO3qDk14HjQ7rrVl2EowPdaB9PPrpkuuHbgu5o8DQVHYg4lQeenOP_rconPpa-fsdcYfnFPTlUCtiP49wKlnHP21A5774862qqoi_FrQk-2Fyp5GWuuNhHu6zdtg0UdTG4M3IckbH7gLmvuqjj8CDRPNHFAlAljTZYa4QMMZk8Xa9-WKZzr7bkHxoGS68EVBuZju-nltZ77_Pm94kckEObprEGR3UirElIpsnRKhbzx0qC19FHpCbYAvXCKgNYjNglAq012uXmWzEddYW6R3MRpiKF2YmMC-8EUvaVBBDYGBqk9SS3vx8V8Yethq2ye6NadCAg98GHRCwg0_MP-bQtot6_8wnxIG4LVG_QsgprZrXcm_lI_s47bvDZmbjpaWWWx0SWV544bR8kDgeXClHZQ1m4FYH7DYPfRN8vStR9bW4Fi_IQwR6rCUB961vV9LWzs02N_nez6v_EZdvtSUmaAFVuytTiZ2fECxvBSTp8q5gCT0r2fVJb5Gx0DGgwSRVy-uvE9uZrEj-kgASoJdXMtZWFzdC0yMOYP.m3u8",
+    "url": "https://fa723fc1b171.sae12.playlist.live-video.net/v1/playlist/CrEF2uhdulDlNzIrar19Tpx10Fhc8Gq1IKQLG7L4AGH5CDMGfREyUBAZZY_j7xjq0uEv-zzbfbdjXp3zpQSdMgtQguVo_m0NaqTbeORL8JXqgrTaCrIcMEEw0-Cxk_BGoIFkxbcTgiKLXl8I8qAE7exB7nIaIxnrfmoIw6tnhDdjZ_wAYyLt_92OkusiHUkPBLRP3j4q6Lu0yWt8Rl2n4nJ1LWQvSHhnqtxwnlo1TacLpkJJN3L26vmgyyoryp_lnzMVFGHoG8feYYk4_h3w1HzroOqYBMnAnY8bh_jN2M7GMw39OwcLy291DR3uow3b0yuilXqcBHl5VGzzkl1e3Y9CBzh1StcvnFWUMhlVIfM-FlaY6knG-v8Cz0PdKtTypnz99yN7LFcWqwJ8Vp9GmYarIK8PGHLwG-luOa7r-yPEUycQ5oJMNAZZDtoy2lO0uoEJkpeEhYxX9NS7diceDQgGWEnQOBPYUJW0D0Vb9cEBngqic4EnOIE1ewabSDMYrYfzLYyq3syd2iuC8s3Aj9DBDfoFnEYoUPQnlpfaEW1aEuPzg_lHzJyyqvVkC8jT7rG1YsCKP1b5EYGSKcuCJsXtePBEfEAnOyhGmu6jD3ioSEPLuWWuDLg48nl8-PAVxgmKinRDFw3t9c0AW1tJlnDtJfx86qSg4FoRPmubiPrPQ5z2v3x3ig9jWNgULqyhxnQos4MYPLMTRCHnCCvy_f2Q3PzvnK95TiwJZ58Y1vZjDorBMn_Gxw0MnXkXw4UbiHqNxA3Y6X4rcO5XzPzpSF-lbLaE6uQHgQvXauTAqoWKnv_AwWAs3AXk4ATl2XbP_QHvN7-9Cl3NZ7KjJamTpH_sXE_FbVN0e8R4y-wXW3Mge_0kslv7amR6X5xH3qsJwGnCpHokY18abjS7v9GvmQyg5FMaDCkn0BK56oH6cFNazSABKgl1cy1lYXN0LTIw5w8.m3u8",
     "img": "https://static-cdn.jtvnw.net/jtv_user_pictures/ddca22fb-c604-4609-b129-6613ac861ed5-profile_image-70x70.png"
   },
   {
@@ -2024,7 +2042,7 @@
   {
     "name": "Séries #1",
     "type": "Séries",
-    "url": "https://sae13.playlist.ttvnw.net/v1/playlist/CtIEWl5JP-uVhddcNo-nAzkRsXGwamgsKrDZvHKgse7hsq4M9KSE__wYKjE0IlLMNXwDqY3WyxvKNDRZHaoA2KPIHxGHyJjuEU5e_q8eleYTRHmhOnHCKNZ4yzf2czDNNjngyWREyErtuDUzIHNHOySqDiHVeyOWIRMeUejjv0OD5iAWh9B_IdRc7pNH8FPk9dPFQHUSlIIdr010jOXgSfTIBOAbD5104zmGfcd3-A8lp4sHQ8zapsKu8030zAH5Bvr_cwtbdJ9LtXulCPRa4wYoaqXOamekHf2ttnZkNChFXwnlq11UY6RMPkTPmiSo8JBmcBYR3xMCsn5X9j35tmY2j0-1vpn_3YBH3FhmMWgI4MeHfzF0TNa1EfI8k_1uNErWTEPsq4e0aEJM40aGPegRspLvu3zfCaXPFBwawQlM9TdqNARrBiC2aJfWSCsq0xNuhcv5khmA1JjB6crVDT5239HLAwPuCMDeND7aV793Vxa8BUgoMGOk4rFlq7TFfcFr6A_vDjxSqC6PsapTXrYJvDVg0AZv3c8Uy7JAPenbjGaHfv6iAn2BfQQwNEB-MZP5ZxyEFRv49ftqibLowfB6MYg8opZyHIaDo0P2omIABTcx4VY0wPUNoGrG9UuLv2CBYTJ-xE3Sb-IAX0Bf94ZFSmDAmiXbOSVAoP0UKcOnurzZjDm9SGnK6UKMoIsOalrpsgd302MO0vbj8Pwnsw78QXFJTZPdeoKVUbDWQIByApqUgb-rAg7ZFg5ph8bD7kXdHRn7fC41Bd58_0OgPDbdLzkiGgzmXkcguLJQ2upKqm4gASoJdXMtZWFzdC0yMOYP.m3u8",
+    "url": "https://sae12.playlist.ttvnw.net/v1/playlist/CtMEqnEZCR-lUM13EQGh44QBYxIG1j7A85-zCCKLJjVR_cz5Z2w9lXsQ4E9hMVa-nNYMA5n4CMWefwGV0XpK36s02lezjgE_kpZE9z2-YrTaXKMPts7XKZvXCQSCifTeKEuyhUHAyHT0Ze_ZDM0mntfX7mTwXN1_Kmg8Nvtq2GEalfvNpiOeFnwSf6b4VjU260cbq1ny4Mg4gjoSpynI5WEfWDXeEbX_Q_YYqmvJCfuZfyyiGFhp0JAotLyDLvN9LeJqR3xgFE5utIV4ayPF0Soif18PEIv4Rdo1ceyaK7mY7ZuCIKmzW8Z3ElqXpsbIB4nZzxDUgD8amJi1v-mQkcPi6VmL8VSo-I3iJOpiI8vDrIpp8iJNce3zloE1S5c2bKV_TCvw1nTCeLBjmGTdf4uZ8sJj1V3eN50t3ZPBTbMxXBbxvHMBnyZS1sp_6julTC1XYClcfNYH6Sswes7vZpQeOmTHcrVhQOF0tqT_3LGhOysNTxDR93bISo-VMM_NccMAufsAApChGuMclxiMshqqjoT5I5YH3oc8-Odws-OGKo_jps7DVolJb3um-DXNNNbvVl9OVX0TyggX6_7rDQLyrI9SnpdKz3_wih0LnH11dV3TE-bjTtlvu47NJaK_gcVQ-61ggsI0J_BZNKqgXmorTqcAM97Cc1a6uDamzVBQu8hbQIJRMF7ya0PU5Iz80ffdv1OJuoYcBESGPNicYHgkzqDGcXq3v3UGGY0lPlzI9DkUjBQSY4dsBjVrHNaR1_bTFa_aM4jhT3ui_noKK3BkUGz1DhoM9iG_WZAgyYnnRSwrIAEqCXVzLWVhc3QtMjDnDw.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2640,6 +2658,12 @@
     "img": "https://i.imgur.com/mttSwgO.png"
   },
   {
+    "name": "Rede Gospel Alternativo 1",
+    "type": "Religião",
+    "url": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8",
+    "img": "https://i.imgur.com/mttSwgO.png"
+  },
+  {
     "name": "Rede Gospel Alternativo 2",
     "type": "Religião",
     "url": "http://45.190.28.50/REDE_GOSPEL_HD/index.m3u8",
@@ -3000,6 +3024,12 @@
     "img": "https://i.imgur.com/MtQWAHv.png"
   },
   {
+    "name": "Unisul TV",
+    "type": "Educação",
+    "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
+    "img": "https://i.imgur.com/N0TvAFz.png"
+  },
+  {
     "name": "FashionTV",
     "type": "Estilo de Vida",
     "url": "http://45.190.28.50/FASHION_TV_HD/index.m3u8",
@@ -3208,12 +3238,6 @@
     "type": "Legislativo",
     "url": "http://186.219.52.187:80/tv_camara/index.m3u8",
     "img": "https://i.imgur.com/Sdou1Ab.png"
-  },
-  {
-    "name": "KpopTV Play",
-    "type": "Música",
-    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8",
-    "img": "https://i.imgur.com/Tf0vweF.png"
   },
   {
     "name": "Music Box Brazil",
