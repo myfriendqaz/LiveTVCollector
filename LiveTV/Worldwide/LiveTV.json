@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-13 06:27:15",
+  "date": "2026-08-13 22:12:11",
   "channels": {
     "Variedades": [
       {
@@ -395,13 +395,6 @@
         "url": "https://stream.ichibansys.com:3764/hybrid/play.m3u8"
       },
       {
-        "name": "GLN TV",
-        "logo": "https://i.postimg.cc/dtQJdVfY/glntv.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8"
-      },
-      {
         "name": "Globo SP",
         "logo": "https://i.postimg.cc/TY6wHCzf/redeglobo.jpg",
         "group": "Variedades",
@@ -612,13 +605,6 @@
         "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8"
       },
       {
-        "name": "Nova TVI Petrópolis",
-        "logo": "https://pa-str.srvsite.com/arquivos/7140/cabecalho-7140-20240911033310.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stmv8.samcast.com.br/novatvi2098/novatvi2098/playlist.m3u8"
-      },
-      {
         "name": "Novelas Prime",
         "logo": "https://i.postimg.cc/tgpDBYWT/novelas-prime.jpg",
         "group": "Variedades",
@@ -715,6 +701,20 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
+      },
+      {
+        "name": "RBTI Movies",
+        "logo": "https://i.postimg.cc/SQ3FcppQ/rbti.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://tv.rbti.tv.br/rbti2/index.m3u8"
+      },
+      {
+        "name": "RBTI+TV",
+        "logo": "https://i.postimg.cc/kGYKdhz1/canal-de-testes.jpg",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://tv.rbti.tv.br/rbti1/index.m3u8"
       },
       {
         "name": "RCTV Brasil",
@@ -1053,6 +1053,13 @@
         "url": "https://s1.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8"
       },
       {
+        "name": "SBT Interior",
+        "logo": "https://i.imgur.com/IkZfa4j.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
+      },
+      {
         "name": "SBT Nacional",
         "logo": "https://i.imgur.com/tc1ALuu.png",
         "group": "Variedades",
@@ -1184,6 +1191,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
+      },
+      {
+        "name": "TUBACAST TV+",
+        "logo": "https://i.postimg.cc/ZYp28CFk/tubacast.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://tv.rbti.tv.br/rbti4/index.m3u8"
       },
       {
         "name": "TV 100% Caipira",
@@ -1788,13 +1802,6 @@
         "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
       },
       {
-        "name": "TV Mais Brasil",
-        "logo": "https://i.postimg.cc/9XYT6hfP/tvmaisbrasil.jpg",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?hls_ctx=041j468u"
-      },
-      {
         "name": "TV Mais Marica",
         "logo": "https://i.imgur.com/lgCRX7q.png",
         "group": "Variedades",
@@ -2054,13 +2061,6 @@
         "url": "http://186.219.52.187/tv_senado/index.m3u8"
       },
       {
-        "name": "TV Show Fortaleza",
-        "logo": "https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8"
-      },
-      {
         "name": "TV Singular",
         "logo": "https://i.postimg.cc/SsRjXYqd/lingular-tv-logo2.png",
         "group": "Variedades",
@@ -2180,11 +2180,18 @@
         "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8"
       },
       {
-        "name": "Ultra TV",
-        "logo": "https://i.postimg.cc/RhK7vDL2/ultra-tv.jpg",
+        "name": "Uni TV",
+        "logo": "https://i.postimg.cc/FKf27hq2/uni-tv.jpg",
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8"
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/unitvms/playlist.m3u8"
+      },
+      {
+        "name": "Veja +",
+        "logo": "https://i.postimg.cc/4N4pC1D1/veja-mais.jpg",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://origin-fast.b-cdn.net/VEJA_PLUS/tracks-v1a1/mono.ts.m3u8?app_id=1&app_name=soplay&user_Id=1078638"
       },
       {
         "name": "VRT Channel",
@@ -2370,7 +2377,7 @@
         "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/ddca22fb-c604-4609-b129-6613ac861ed5-profile_image-70x70.png",
         "group": "Séries",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://fa723fc1b171.sae11.playlist.live-video.net/v1/playlist/CrIFCtmWKIahptNMU2tm5HIu4yWewx0f0Tj_gbkKBjjWFbfsKb1tYNv_Y4Z5-OXtKwphI5ma1jtwx8gx-5ZehoT19KrdHP9pfaJJ6md2kDAbjBUyzodGTYXwtOY1uwNnJToQCxGw2f4dJMud6CD8M9zskdOvBw-HJjHlaIEwKmPN-IPjdSr16UWbpapm2T6KnchkZ5_zOl2l1xDSCIH2Ij8LB_9bZl3_w2gSg8YUVrnjY8R2IQTVMYlo1eQEYTQR2ZZLy9qvABhEviFzHq0zwVo1K2JoMc9026qZn-Cp4LwQxvA8Nj62nBKd1ogc8rvrcwko22EWi3CopHq9I-Aspv3q80E1ap8uCEB12fLfdLf3bHdU7AcsNJm2tSF6S6ynYrml-YKdIbqlRuUtAF0EdUtAaYhbZi5BlGe_8DLgexMwyCEwKzYz-WOlkzsPP2rRvUA0Ymt_NfCSGbr-ulbp2lPg1XWAXUzdIUDHpPV-s1NM2yMO1oupNpZkoBHImad_GKliNlEv59H1elpeesRENUHZaChSrKmoALXQEJZBc7-6Lre2dU4EC_gOmqnaYfT7GusqiJi7XKRFqq3KJTKPH8waPBP1JQjzry95MFDbDpVEAF8WagldIUCI1H_RBG6TsJlaHof64Po6pKAffVJYXwxAUZbNakkT1iwj9LLriVdUqfLXPgryyYiQHDa46ESw6CjJ0TsYEUXDA-CHgokjWNbWERCkQcc_wbNscyqr748lmJD2k1cyZatc44F18ZAZTaznK2jbDuap5vJdwQ2d70XHXzyQwAa3wqTctTu1SRYqzt0x8w_s8b2txHJR8xjTg27ZYgHpW9TJ9wrvCyagw6GqLGffw2ggLnyuX5fkuO-XAHLVveubJu9QD99XSBqaOTm2CNZNmtb8-h4xaQhPVhPbY__sGgxp9FNser_bFQdF5ekgASoJdXMtZWFzdC0yMOkP.m3u8"
+        "url": "https://fa723fc1b171.sae11.playlist.live-video.net/v1/playlist/CrIFKOqpMHsjVH-9qJFjy2X8Z0PtvB2GQup-X5tVTDaG-4_s7PGmhs_KQINwnM9MEHmA0p9e5WnzXQl0prz7oIyBmlvi7z18mF_-pfYE9OxHrYi65_rjp_0jpUn62VOZUuH3BJ2EXlIH4zEP_kxvrT37Jy_4gVuELDtE25jzFgwbvKpjZZlIwc3vy9Uxar7z7ZKGJ7zNAjFS413q8t6CFYvH9xTWkUwlollbKhlNVnaaeS0mdPyK7uTwVvPqSEgvfgLpEX9G4PrcJdW9WzQlpELdtAlVX_YRZM9kTHPJqgRL8m41t9VXmNj2yQVXCiK79OyOQeAnfM-qVh0Oe4_jBxET46LWHeDlfKyLrzx36AAwmrxnlW5IGHUA7X8s8FgwBhtQDdlVoX9pbccgp8R5MtfIeB8N5u98xn2Hz__fghY_yyDeTUb3_U-lfdYIqSedCfcIECFiSfj5WEZzkrsd6j3gYIjy9ndgvTTMyeJ6PUrvxOSKs-IUOJhK7k2eQETdnsHdmD84epQy8saS00gRRqH2Xr3qtcHzRyK18Z8kXyzx1F38k9EieDdSjk937dlmpMzYolaykvtyND20n8xE8dt0RK0ZfuUF7neZUi1sYiY_12k7ZLITrWGYyxfLJUgHLLG73he5sgf8Xv7QHt0XUDg2dL4ImHeexnhGwmZ3-E-MyKtC2HdxouUxE2nSqxoTPdx8Gj_rPGwUfDVnxa4ujSAh2kCikZdJPEoowtnbkJiEQGD15rbTL_pKc-1LQENlhMMHo_qcYg5ZdKPOI5A1IeFQ64UR_YGk6Q1kdsjm4Gr2H_HcObz_vgt7aZkukIVVeo-6z0dLyHYLw1PVVDMLMSinXl1DcyqOxe7hruYsOpBGPstDQz8CDZIeqV3weub42G3rpsNAs1bNWO_4wnQX6wdwQb3YGgz2tZQWLgonaw7ZjdIgASoJdXMtZWFzdC0yMOkP.m3u8"
       },
       {
         "name": "Chespirito",
@@ -2391,7 +2398,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Séries",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://sae11.playlist.ttvnw.net/v1/playlist/CswEGmXbB7vSMuafIR6DG30tTLeVr29-Ls3qXUgcm1bnF5wwIEWKi9vqFruKjuM-daUSK_xh8dQRQHTARqAb2KsRUzhIm0Gl-xHwClWDEHYkFnIjyHFqKD-6tyIGcLDyxlenOcX3pvGFl5reWgI39_qX-3FvnNB5ucvR8dMynE0rWu_c38fzOSCPlpv87OikuQcOFALJftxKZmbTUOnhSfqXqVO5M1aQ21ONMQrHeqmwgn9COFtEOarS2nOXf4G0eN_tRjckcqoML7lyKM9b3rQ1rQeNzyFsGyo20ZCiYkH73nG2-CG3SPlV6UfX1Uol4b58v6JOgXrPg1HGloBoLTYmva-3_v8278qswyQxm8sd9TVND97tdUC4TUKBHdSzBXJMmjeEgiNdRgRG1P7dWe1sdSi3n8_grEfXEFmq0XN5v64xnwqG0D11HSl-sy9N-js8h3fDO0dWhIJpUkZEdXSWjvsCmO1XoK7mdMjDsg_HzXhNLljp2ncTTLNmIqpB6zJ8z9ubeDV9NMkws2o8slJ_TP8iB29lZn_VVQy2sYOienpOEMNk4ORRsxBcaNQ_j1KzSVO6zdeYcLrj_ueA_5djTYOMugUJ9rJpMGSg2z9DV-c7Hbk9G6Yjk8uQ4_dcQ0wpwCTHHF6UsZ0AhTUd5LXPqfSwanNA7W3g1IMrFbQRGb1NOApqh6TjZcosQ_GMRdXoLeMD1TQnp3LToVz9rzq8Xsq_qbtl_6ewpj42GfqvLHzAJJ4O8UKI_b6uNEtZZ66H_E6yZ1y2v1sF4rUvGgx2liDBH5FbrOZ9lsMgASoJdXMtZWFzdC0yMOkP.m3u8"
+        "url": "https://sae12.playlist.ttvnw.net/v1/playlist/CssEgUWr0IkxWzvFfcORGdNO3hwQX7QeBzFbpmqkkTbL4KdZk7ygBzgwO1hYj5bk1ds8kQ-zhWH2FldewAiP1Zx-_CpovkbMV_UH_9YSXhntQ7RfJIVQCWvuBXxJPi3fZkRbPCSN4xfs0JswOvflZZKscIF01thNh_h8hJ536DlLMhx7lecP_4lUvE2CoPWmxYG9we1T3qFSsf-wUaNtVXrGoytWLKI0sod99KW3eZSjaa6U77GgkSFbxXJpBaSm3-UhSSqmzQhW0069LAC2BRVBf5UkR1tsUru53LFH7bBxNP57jY4eFVoBcGII1NsG9A6Ax4xosBU1WLbKmznYt95kMT8OX_AOaBB_F3EaBMMQrrWR9CBqCSpWsnA9nGd22jkgL36oYpTmOCP_UcIpTcHk83NJDCJk5sOganxOLvUMjytMm1wFr-BDKZDxzhYPBgIswuwp2IqgnE05A6gtMJPA0Y3iOyuVI4MFMOnh4htr9g3wplLwPNN6O_Li1Mc3fnOmQMqI5uQJVVu1rFPNsPRSIgTeF-HWuW_qnTAQith1yLje_uZzPDdt6b26kK1smgh8MZ6A6EIC5Ed8dZ9Osv74y17-h4GuUMmu71zwuqEZUhsVVwEMYRh62VTmeqPzd0DTduAnevMKCLtz-1CWwEQWZqec9m4SVm261HbHTq_Rdki3SC_ExfGn_rp0DhxTl-E8PO8coq5Vgj3BmKWP_PwGs_Qvs72MKxkzTdH13V7Bb1ZPkWlRovCKH9c4qaY4NVM-nAfHXE5sJhdS8AUaDCOgEUn5OuTOHHTv_CABKgl1cy1lYXN0LTIw6Q8.m3u8"
       }
     ],
     "Infantil": [
@@ -2575,13 +2582,6 @@
         "group": "Notícia",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://170.83.49.66:8083/BANDNEWSHD/index.m3u8"
-      },
-      {
-        "name": "BandNews Alternativo 7",
-        "logo": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg",
-        "group": "Notícia",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://177.52.24.163/BAND-NEWS-HD/index.m3u8"
       },
       {
         "name": "BM&C News",
