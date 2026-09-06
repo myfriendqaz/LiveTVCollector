@@ -162,6 +162,12 @@
     "img": "https://i.postimg.cc/Y0hqrm8X/tv-cidade.png"
   },
   {
+    "name": "TV Cidade- Afiliada à TV Gazeta",
+    "type": "Recomendados",
+    "url": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
+    "img": "https://i.postimg.cc/3RYQT2Vx/tv-cidade-afiliada-gazeta.jpg"
+  },
+  {
     "name": "TV Com",
     "type": "Recomendados",
     "url": "https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8",
@@ -286,6 +292,12 @@
     "type": "TV Aberta",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
     "img": "https://i.postimg.cc/Gh8y0j93/tv-bandeirantes.jpg"
+  },
+  {
+    "name": "Gazeta",
+    "type": "TV Aberta",
+    "url": "https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1728739889.m3u8",
+    "img": "https://i.postimg.cc/tTf06J3D/tvgazeta-logo.jpg"
   },
   {
     "name": "Record",
@@ -1074,12 +1086,6 @@
     "img": "https://i.imgur.com/QFE6TiV.png"
   },
   {
-    "name": "TV Petropolis",
-    "type": "Variedades",
-    "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8",
-    "img": "https://web2.petropolis.rj.gov.br/imc/film-commission/uploads/profissional/perfil/785b645d9c574b4d88504a85dbd6ef37.png"
-  },
-  {
     "name": "TV Profissao",
     "type": "Variedades",
     "url": "https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8",
@@ -1486,12 +1492,6 @@
     "type": "Notícia",
     "url": "http://45.190.28.50/JP_NEWS/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png"
-  },
-  {
-    "name": "Plena TV",
-    "type": "Notícia",
-    "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
-    "img": "https://i.imgur.com/lH4RT7b.png"
   },
   {
     "name": "Record News",
@@ -2108,7 +2108,7 @@
   {
     "name": "A Casa da Coruja",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNTE5NDgubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzc0MTEubTN1OA.m3u8",
     "img": "http://gstaticontent.com/images/28cda78d0e5f72916a5e5dd8431a9499.jpg"
   },
   {
@@ -2214,12 +2214,6 @@
     "img": "http://24horas.cc:80/images/2fae61ebf80a4ae92c215995339cdb21.jpg"
   },
   {
-    "name": "A Pantera Cor de Rosa",
-    "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU1MzcubTN1OA.m3u8",
-    "img": "http://24horas.cc:80/images/fc613fe48151546515c9747ae28fe4a4.jpg"
-  },
-  {
     "name": "A Pequena Sereia",
     "type": "Canais de TV",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU1MzgubTN1OA.m3u8",
@@ -2286,9 +2280,9 @@
     "img": "http://24horas.cc:80/images/8afba20f0bab403aa1f4082a185c7186.jpg"
   },
   {
-    "name": "Adult Swim [FHD]",
+    "name": "Adult Swim [SD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yNTE5NTcubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yNTE5NTkubTN1OA.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2300,7 +2294,7 @@
   {
     "name": "Aeroporto Area Restrita",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNTA0OTAubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNTA0ODkubTN1OA.m3u8",
     "img": "http://gstaticontent.com/images/825b77298d574c46209ed0c5c1175063.jpg"
   },
   {
@@ -2334,15 +2328,9 @@
     "img": "http://24horas.cc:80/images/93be26274a468030694b999e4141d0df.jpg"
   },
   {
-    "name": "Alienigenas do Passado",
+    "name": "AMC [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDA3MzQubTN1OA.m3u8",
-    "img": "http://24horas.cc:80/images/891b8a72771b87c245b238c702eeabec.jpg"
-  },
-  {
-    "name": "AMC [FHD]",
-    "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc2OS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY0Ni5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/AMC.png"
   },
   {
@@ -2376,9 +2364,9 @@
     "img": "http://24horas.cc:80/images/0cc8bad7b92c11ca96cadc011aea8058.jpg"
   },
   {
-    "name": "Animal Planet [FHD]",
+    "name": "Animal Planet [SD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc3Mi5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc3Ni5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/ANIMAL_PLANET.png"
   },
   {
@@ -2408,13 +2396,13 @@
   {
     "name": "Arquivo X",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3MzgubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3MzkubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/8f2297eceeb7eeff07f8a1dfe705f5b0.jpg"
   },
   {
-    "name": "Arte 1 [FHD]",
+    "name": "Arte 1 [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc3OC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM1MzEubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/ARTE_1.png"
   },
   {
@@ -2450,7 +2438,7 @@
   {
     "name": "AXN [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDcxNi5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc4MS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/AXN.png"
   },
   {
@@ -2472,9 +2460,9 @@
     "img": "http://24horas.cc:80/images/b1a988fde961ed66ca8aebfb62a849dd.jpg"
   },
   {
-    "name": "Band News [FHD]",
+    "name": "Band News [HD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc5MC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc5MS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/BAND_NEWS.png"
   },
   {
@@ -2484,15 +2472,9 @@
     "img": "https://logos.imperioapps.top/BAND.png"
   },
   {
-    "name": "Band SP [FHD]",
+    "name": "Band Sports [HD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83OTMxMS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/BAND.png"
-  },
-  {
-    "name": "Band Sports [FHD]",
-    "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgwMS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgwMy5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/BAND_SPORTS.png"
   },
   {
@@ -2608,12 +2590,6 @@
     "type": "Canais de TV",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU1NjAubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/3f2cd66e7cf5e2ce94a79080d66974dd.jpg"
-  },
-  {
-    "name": "BIS [FHD]",
-    "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgwNy5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/BIS.png"
   },
   {
     "name": "BJJ STARS [FHD]",
@@ -2750,7 +2726,7 @@
   {
     "name": "Boku No Hero Academia",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3NjkubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3NzAubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/58047377efae39d54436775f79194817.jpg"
   },
   {
@@ -2778,6 +2754,12 @@
     "img": "http://gstaticontent.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg"
   },
   {
+    "name": "Brasileirao Serie C 3 [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNTc0MTMubTN1OA.m3u8",
+    "img": "http://gstaticontent.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg"
+  },
+  {
     "name": "Brilhante Victoria",
     "type": "Canais de TV",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3NzMubTN1OA.m3u8",
@@ -2802,9 +2784,9 @@
     "img": "http://gstaticontent.com/images/2e635c8ad4f61ac93cc35719e5ec1d6d.jpg"
   },
   {
-    "name": "Canal Brasil [FHD]",
+    "name": "Canal Brasil [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgxNy5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM1MTgubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/CANAL_BRASIL.png"
   },
   {
@@ -2826,15 +2808,15 @@
     "img": "https://logos.imperioapps.top/GOAT.png"
   },
   {
-    "name": "Canal Rural [FHD]",
+    "name": "Canal Rural [HD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNzg1MTIubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNzg1MTMubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/CANALRURAL.png"
   },
   {
     "name": "Canal Sony [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDcxMy5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgyNS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/SONY.png"
   },
   {
@@ -2846,19 +2828,19 @@
   {
     "name": "Carros Irado",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yNTUyMjUubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yNTUyMjQubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/2dd914ca34a6a1ad2bdbb727f3e51140.jpg"
   },
   {
-    "name": "Cartoon Network [FHD]",
+    "name": "Cartoon Network [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgyOS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgzMC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/CARTOON_NETWORK.png"
   },
   {
-    "name": "Cartoonito [FHD]",
+    "name": "Cartoonito [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgxMy5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY0NC5tM3U4.m3u8",
     "img": "https://www.fontedecanais.tv/logos/canais/cartoonito.png"
   },
   {
@@ -2892,12 +2874,6 @@
     "img": "http://24horas.cc:80/images/7ba1bfdb706316720d0ba2bafbfd7347.jpg"
   },
   {
-    "name": "Caze TV [FHD]",
-    "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83NjY3MS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/CAZE_TV.png"
-  },
-  {
     "name": "Chapolin Colorado",
     "type": "Canais de TV",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzgwMDAubTN1OA.m3u8",
@@ -2912,7 +2888,7 @@
   {
     "name": "Chaves",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcxMzkubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcxNDAubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/c88f48965dab4d85830e1fea88fa0319.jpg"
   },
   {
@@ -2930,13 +2906,13 @@
   {
     "name": "Chuck Norris O Homem da Lei",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3ODEubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3ODAubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/66cb290ecfb0cc203127020260eea84b.jpg"
   },
   {
-    "name": "Cinemax [FHD]",
+    "name": "Cinemax [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgzMy5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY0My5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/CINEMAX.png"
   },
   {
@@ -2954,7 +2930,7 @@
   {
     "name": "CNN Brasil [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgzNy5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgzOC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/CNN_BRASIL.png"
   },
   {
@@ -2976,9 +2952,9 @@
     "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xDivDzd1yF7NG6GW6ccz7ramLuv.jpg"
   },
   {
-    "name": "Combate [4K]",
+    "name": "Combate [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg0NC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg0My5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/COMBATE.png"
   },
   {
@@ -3056,13 +3032,13 @@
   {
     "name": "Cultura [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg1MS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg1Mi5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/CULTURA.png"
   },
   {
-    "name": "Curta [FHD]",
+    "name": "Curta [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg1NS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM1MTIubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/CURTA.png"
   },
   {
@@ -3126,45 +3102,51 @@
     "img": "https://logos.imperioapps.top/DISCOVERY.png"
   },
   {
-    "name": "Discovery H&H [4K]",
+    "name": "Discovery H&H [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDI1MS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg2OC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/DISCOVERY_H_H.png"
   },
   {
-    "name": "Discovery Kids [FHD]",
+    "name": "Discovery Kids [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg3MS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDI1MC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/DISCOVERY_KIDS.png"
   },
   {
-    "name": "Discovery Science [FHD]",
+    "name": "Discovery Science [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg3NS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM1MTEubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/DISCOVERY_SCIENCE.png"
   },
   {
-    "name": "Discovery Theater [FHD]",
+    "name": "Discovery Theater [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg3OS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM1MTAubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/DISCOVERY_THEATER.png"
   },
   {
-    "name": "Discovery Turbo [4K]",
+    "name": "Discovery Turbo [HD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY0MS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg4NS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/DISCOVERY_TURBO.png"
   },
   {
-    "name": "Discovery World [FHD]",
+    "name": "Discovery World [HD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg4Ny5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg4OS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/DISCOVERY_WORLD.png"
   },
   {
     "name": "Disney Plus 1 [FHD]",
     "type": "Canais de TV",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDIwMzIubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/DISNEY+.png"
+  },
+  {
+    "name": "Disney Plus 2 [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDIwMzQubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/DISNEY+.png"
   },
   {
@@ -3330,9 +3312,9 @@
     "img": "http://24horas.cc:80/images/ad95cfb2092d88911130c5e0482b16fb.jpg"
   },
   {
-    "name": "E! [FHD]",
+    "name": "E! [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkwMC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM1MDYubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/E.png"
   },
   {
@@ -3372,9 +3354,9 @@
     "img": "https://logos.imperioapps.top/ESPN_3.png"
   },
   {
-    "name": "ESPN 4 [FHD]",
+    "name": "ESPN 4 [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTk1Ny5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTk1OS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/ESPN_4.png"
   },
   {
@@ -3386,7 +3368,7 @@
   {
     "name": "ESPN 6 [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkxNS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkxNi5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/ESPN_6.png"
   },
   {
@@ -3410,13 +3392,13 @@
   {
     "name": "Eu a Patroa e as Criancas",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzgwMjAubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzgwMjEubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/f8d46ebce886f39998603845cd3fc331.jpg"
   },
   {
-    "name": "Eurochannel [FHD]",
+    "name": "Eurochannel [HD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDQ5MTMubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDQ5MTEubTN1OA.m3u8",
     "img": "http://gstaticontent.com/images/e319732e23a51cafb209d07c7a26c615.jpg"
   },
   {
@@ -3456,9 +3438,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Film&Arts [FHD]",
+    "name": "Film&Arts [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDQ5MjAubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNzg1MTgubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/FILM&ART.png"
   },
   {
@@ -3474,9 +3456,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Food Network [FHD]",
+    "name": "Food Network [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkzMi5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM1MDEubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/FOOD_NETWORK.png"
   },
   {
@@ -3504,9 +3486,9 @@
     "img": "https://imgur.com/a/jyyyawL"
   },
   {
-    "name": "France 24 [4K]",
+    "name": "France 24 [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM1MDAubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDQ5MDYubTN1OA.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3606,12 +3588,6 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo EPTV Ribeirao Preto [FHD]",
-    "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExNzIubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/globo.png"
-  },
-  {
     "name": "Globo EPTV Sao Carlos [FHD]",
     "type": "Canais de TV",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExNDEubTN1OA.m3u8",
@@ -3666,9 +3642,9 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo News [FHD]",
+    "name": "Globo News [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTk5OC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDI0OC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/GLOBO_NEWS.png"
   },
   {
@@ -3690,21 +3666,27 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
+    "name": "Globo NSC TV Chapeco [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExNzQubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
     "name": "Globo NSC TV Criciuma [FHD]",
     "type": "Canais de TV",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU0MjYubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo NSC TV Florianopolis [HD]",
+    "name": "Globo NSC TV Florianopolis [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExODMubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjAxMC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo NSC TV Joinville [SD]",
+    "name": "Globo NSC TV Joinville [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MTAzMi5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MTAzNC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -3714,21 +3696,21 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo RBS TV Caxias do Sul [HD]",
+    "name": "Globo RBS TV Caxias do Sul [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjAxNC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExNjAubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo RBS TV Cruz Alta [HD]",
+    "name": "Globo RBS TV Cruz Alta [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2ODYubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yMTg4MjcubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo RBS TV Erechim [SD]",
+    "name": "Globo RBS TV Erechim [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2ODUubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2ODMubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -3750,9 +3732,9 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo RBS TV Santa Cruz do Sul [SD]",
+    "name": "Globo RBS TV Santa Cruz do Sul [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2MDkubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2MDcubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -3762,15 +3744,15 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo RBS TV Santa Rosa [HD]",
+    "name": "Globo RBS TV Santa Rosa [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2ODEubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2ODAubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo RBS TV Uruguaiana [HD]",
+    "name": "Globo RBS TV Uruguaiana [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2NzgubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2NzcubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -3798,9 +3780,9 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo Rede Amazonica Manaus [HD]",
+    "name": "Globo Rede Amazonica Manaus [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjAyMC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjAxOS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -3828,15 +3810,9 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo Rede Bahia TV Santa Cruz [HD]",
+    "name": "Globo Rede Bahia TV Santa Cruz [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3ODMubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/globo.png"
-  },
-  {
-    "name": "Globo RJ [FHD]",
-    "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjAyNS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3ODIubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -3906,6 +3882,12 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
+    "name": "Globo TV Anhanguera Anapolis [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3NTEubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
     "name": "Globo TV Anhanguera Itumbiara [FHD]",
     "type": "Canais de TV",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2NTMubTN1OA.m3u8",
@@ -3927,6 +3909,12 @@
     "name": "Globo TV Anhanguera Rio Verde [FHD]",
     "type": "Canais de TV",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3NjEubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo TV Asa Branca [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDI1NTQubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -4002,6 +3990,12 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
+    "name": "Globo TV Integracao Ituiutaba [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2NDcubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
     "name": "Globo TV Integracao Juiz de Fora [FHD]",
     "type": "Canais de TV",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjA2Ny5tM3U4.m3u8",
@@ -4023,6 +4017,18 @@
     "name": "Globo TV Liberal Belem [FHD]",
     "type": "Canais de TV",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExNTIubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo TV Liberal Castanhal [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3NzAubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo TV Mirante Cocais [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzMwNTAubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -4062,9 +4068,9 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo TV Sao Francisco [FHD]",
+    "name": "Globo TV Sao Francisco [SD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3ODUubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3ODcubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -4148,13 +4154,13 @@
   {
     "name": "Gloob [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjA5OS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExNTMubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/GLOOB.png"
   },
   {
-    "name": "Gloobinho [FHD]",
+    "name": "Gloobinho [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDYzMC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM0OTcubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/GLOBINHO.png"
   },
   {
@@ -4200,9 +4206,9 @@
     "img": "http://24horas.cc:80/images/3afda741cf116dd7f406ecbb7f657e16.jpg"
   },
   {
-    "name": "HBO 2 [FHD]",
+    "name": "HBO 2 [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjExMC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDI0Ni5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/HBO_2.png"
   },
   {
@@ -4212,9 +4218,9 @@
     "img": "https://logos.imperioapps.top/HBO.png"
   },
   {
-    "name": "HBO Family [FHD]",
+    "name": "HBO Family [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjExNC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDYzNy5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/HBO_FAMILY.png"
   },
   {
@@ -4238,7 +4244,7 @@
   {
     "name": "HBO Signature [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjEzNC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjEzNS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/HBO_SIGNATURE.png"
   },
   {
@@ -4260,9 +4266,9 @@
     "img": "http://24horas.cc:80/images/267f1aca98ef975c7b71d78c821e2c2b.jpg"
   },
   {
-    "name": "HGTV [FHD]",
+    "name": "HGTV [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE0Mi5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM0OTMubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/HGTV.png"
   },
   {
@@ -4298,7 +4304,7 @@
   {
     "name": "Homem Aranha da Marvel",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNTU0NTIubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNTU0NTEubTN1OA.m3u8",
     "img": "https://www.themoviedb.org/t/p/original/tv6yrhWMywp7LIO1VGAQVVQ0tpb.jpg"
   },
   {
@@ -4316,7 +4322,7 @@
   {
     "name": "iCarly",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU1MDcubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU0NTUubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/2004099e73fdea89e53b2b897e75c29d.jpg"
   },
   {
@@ -4400,13 +4406,13 @@
   {
     "name": "Jornada nas Estrelas Enterprise",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzkzMDEubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzkzMDAubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/67d742234338eba360da747fd56b9cca.jpg"
   },
   {
     "name": "Jovem Pan News [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzQwMjMubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzQwMjIubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/JOVEM_PAN.png"
   },
   {
@@ -4454,7 +4460,7 @@
   {
     "name": "Kiff",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY4NTAubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yMjM4MzQubTN1OA.m3u8",
     "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h7xhJ1uWu7FurJ3W5iKzrfiPF3K.jpg"
   },
   {
@@ -4490,7 +4496,7 @@
   {
     "name": "Largados e Pelados A Tribo",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDA3MzgubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDA3MzcubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/862475b2784f6c6144be3bc64532fea7.jpg"
   },
   {
@@ -4504,12 +4510,6 @@
     "type": "Canais de TV",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yMDM1MDkubTN1OA.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Lifetime [FHD]",
-    "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE1NC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/LIFETIME.png"
   },
   {
     "name": "Liga da Justica",
@@ -4527,6 +4527,12 @@
     "name": "Liga Futsal 1 [FHD]",
     "type": "Canais de TV",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MzAwNi5tM3U4.m3u8",
+    "img": "http://gstaticontent.com/images/96c7b35001b7a7a692e26d0331429b2b.jpg"
+  },
+  {
+    "name": "Liga Futsal 2 [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNTU3NDIubTN1OA.m3u8",
     "img": "http://gstaticontent.com/images/96c7b35001b7a7a692e26d0331429b2b.jpg"
   },
   {
@@ -4602,27 +4608,9 @@
     "img": "http://24horas.cc:80/images/29bf647848d40916b162ad39dbd47f05.jpg"
   },
   {
-    "name": "Max 1 [FHD]",
-    "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDA1MDQubTN1OA.m3u8",
-    "img": "http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg"
-  },
-  {
     "name": "Max 2 [FHD]",
     "type": "Canais de TV",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDA1MDUubTN1OA.m3u8",
-    "img": "http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg"
-  },
-  {
-    "name": "Max 3 [FHD]",
-    "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDA1MDYubTN1OA.m3u8",
-    "img": "http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg"
-  },
-  {
-    "name": "Max 4 [FHD]",
-    "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDA1MDcubTN1OA.m3u8",
     "img": "http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg"
   },
   {
@@ -4652,7 +4640,7 @@
   {
     "name": "Megapix [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE2Ni5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE2Ny5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/MEGAPIX.png"
   },
   {
@@ -4710,9 +4698,9 @@
     "img": "http://24horas.cc:80/images/0451a159ca67980f36e1b44b714cf241.jpg"
   },
   {
-    "name": "Modo Viagem [FHD]",
+    "name": "Modo Viagem [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE2Mi5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM0ODgubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/MODO_VIAGEM.png"
   },
   {
@@ -4770,9 +4758,9 @@
     "img": "http://24horas.cc:80/images/76f472c867c6cae1d3f0d382e3a3900f.jpg"
   },
   {
-    "name": "Multishow [FHD]",
+    "name": "Multishow [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExMDcubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExMzgubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/MULTISHOW.png"
   },
   {
@@ -4814,7 +4802,7 @@
   {
     "name": "Music Box Brazil [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE4NS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE4NC5tM3U4.m3u8",
     "img": "http://praia13.com/static/logos/canais/musicboxbrazil.png"
   },
   {
@@ -4996,6 +4984,12 @@
     "type": "Canais de TV",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zNzE0NjMubTN1OA.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "OneFootball 1 [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xODU4MDAubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/ONEFOOTBALL.png"
   },
   {
     "name": "Operacao Big Hero",
@@ -5292,27 +5286,21 @@
     "img": "http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg"
   },
   {
-    "name": "Premiere 1 [FHD]",
+    "name": "Premiere 2 [HD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI2Mi5tM3U4.m3u8",
-    "img": "http://www.fontedecanais.tv/logos/canais/premiere.png"
-  },
-  {
-    "name": "Premiere 2 [FHD]",
-    "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjIzNy5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjIzOS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/PREMIERE.png"
   },
   {
-    "name": "Premiere 3 [FHD]",
+    "name": "Premiere 3 [SD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI0MS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI0NC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/PREMIERE.png"
   },
   {
-    "name": "Premiere 4 [4K]",
+    "name": "Premiere 4 [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM0ODAubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI0Ni5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/PREMIERE.png"
   },
   {
@@ -5328,21 +5316,21 @@
     "img": "https://logos.imperioapps.top/PREMIERE.png"
   },
   {
-    "name": "Premiere 7 [FHD]",
+    "name": "Premiere 7 [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI1Ny5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM0NzcubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/PREMIERE.png"
   },
   {
-    "name": "Premiere 8 [FHD]",
+    "name": "Premiere 8 [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xODAxNTgubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xODAxNjIubTN1OA.m3u8",
     "img": "http://www.fontedecanais.tv/logos/canais/premiere.png"
   },
   {
-    "name": "Prime Box Brazil [FHD]",
+    "name": "Prime Box Brazil [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI2Ny5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM0NzYubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/PRIME_BOX.png"
   },
   {
@@ -5360,7 +5348,7 @@
   {
     "name": "Quilos Mortais",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDk1MzcubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzY4MjAubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/40e303224a1977f77896cfa33ac3e73e.jpg"
   },
   {
@@ -5388,9 +5376,9 @@
     "img": "https://logos.imperioapps.top/RECORD.png"
   },
   {
-    "name": "RecordTV Guararapes [FHD]",
+    "name": "RecordTV Guararapes [SD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zNTAwNzIubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zNTAwNzQubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/RECORD.png"
   },
   {
@@ -5492,7 +5480,7 @@
   {
     "name": "RecordTV SP [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83NzY1NC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjU5NS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/RECORD.png"
   },
   {
@@ -5528,7 +5516,7 @@
   {
     "name": "Restaurando Casas com Dave e Jenny",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yNTUyMjMubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yNTUyMjEubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/dc72410ce5dc2fa31359f5be288164d8.jpg"
   },
   {
@@ -5582,7 +5570,7 @@
   {
     "name": "Sai de Baixo",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDA3NTEubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDA3NDcubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/661093c4e1199a83f668a1c88e18ac42.jpg"
   },
   {
@@ -5624,7 +5612,7 @@
   {
     "name": "SBT SP [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDQ5MzkubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83Nzk2My5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/sbt.png"
   },
   {
@@ -5654,7 +5642,7 @@
   {
     "name": "Sessao de Terapia",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcxMTAubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcxMDYubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/3e940660b2c8021a04113ee8322b9b31.jpg"
   },
   {
@@ -5708,7 +5696,7 @@
   {
     "name": "Soltos em Floripa",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwMjkubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwMjgubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/f0e2938948d52380ad6a365a13195f29.jpg"
   },
   {
@@ -5732,7 +5720,7 @@
   {
     "name": "Space [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY3Ny5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjMxNy5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/SPACE.png"
   },
   {
@@ -5760,9 +5748,9 @@
     "img": "http://logos.imperioapps.top/SPORTV4.png"
   },
   {
-    "name": "SporTV [FHD]",
+    "name": "SporTV [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjMyOS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExODgubTN1OA.m3u8",
     "img": "http://logos.imperioapps.top/SPORTV.png"
   },
   {
@@ -5780,7 +5768,7 @@
   {
     "name": "SportyNet 3 [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xODQ1ODMubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xODQ1NzkubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/SPORTYNET.png"
   },
   {
@@ -5790,15 +5778,9 @@
     "img": "https://logos.imperioapps.top/SPORTYNET.png"
   },
   {
-    "name": "SportyNet [FHD]",
-    "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xODQ1ODcubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/SPORTYNET.png"
-  },
-  {
     "name": "Star Trek Discovery",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNTYubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNTUubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/ae67feb834c60b5404cfc2ef40534706.jpg"
   },
   {
@@ -5882,7 +5864,7 @@
   {
     "name": "Supermaes",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3MjYubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3MjMubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/da70ada06fbddeea7f741726a829cac2.jpg"
   },
   {
@@ -5948,13 +5930,13 @@
   {
     "name": "Telecine Cult [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM1MS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY2NS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/TCCult.png"
   },
   {
     "name": "Telecine Fun [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY2Mi5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM1NS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/TCFun.png"
   },
   {
@@ -5978,7 +5960,7 @@
   {
     "name": "The Big Bang Theory",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU0NTYubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU0NTcubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg"
   },
   {
@@ -6030,15 +6012,15 @@
     "img": "http://gstaticontent.com/images/99e1066eb3e8b77343fbb44a8b1ccf8d.jpg"
   },
   {
-    "name": "TLC [FHD]",
+    "name": "TLC [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM3MS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM0NjUubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/TLC.png"
   },
   {
     "name": "TNT [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY3NC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM3Ni5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/TNT.png"
   },
   {
@@ -6048,9 +6030,9 @@
     "img": "https://logos.imperioapps.top/TNT_NOVELAS.png"
   },
   {
-    "name": "TNT Series [4K]",
+    "name": "TNT Series [HD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM4Mi5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM4My5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/TNT_SERIES.png"
   },
   {
@@ -6222,9 +6204,9 @@
     "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1od2M7UIIKS4pxgAgaFheI4TVva.jpg"
   },
   {
-    "name": "Trace Brazuca [4K]",
+    "name": "Trace Brazuca [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM0NTMubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM4Ni5tM3U4.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1IjvWOk_dpNtwYmj9EYtLdyPpUK-_8h2wQ&s"
   },
   {
@@ -6294,9 +6276,9 @@
     "img": "https://logos.imperioapps.top/APARECIDA.png"
   },
   {
-    "name": "TV Brasil [FHD]",
+    "name": "TV Brasil [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQwMC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM0NjMubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/TV_BRASIL.png"
   },
   {
@@ -6312,15 +6294,21 @@
     "img": "http://praia13.com/static/logos/canais/record.png"
   },
   {
-    "name": "TV Gazeta SP [FHD]",
+    "name": "TV Gazeta [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDQ5MTcubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDQ5MTkubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/TV_GAZETA.png"
+  },
+  {
+    "name": "TV Gazeta SP [4K]",
+    "type": "Canais de TV",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNzg1MjAubTN1OA.m3u8",
     "img": "http://gstaticontent.com/images/2baf5152b328307749ffbafedb684497.png"
   },
   {
     "name": "TV Novo Tempo [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQwOS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQwOC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/NOVO_TEMPO.png"
   },
   {
@@ -6330,9 +6318,9 @@
     "img": "http://24horas.cc:80/images/77e05d7b581e0102ca5c626fb3828190.jpg"
   },
   {
-    "name": "TV Ra Tim Bum [FHD]",
+    "name": "TV Ra Tim Bum [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQxMi5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM0NTgubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/TV_RA_TIM_BUM.png"
   },
   {
@@ -6410,7 +6398,7 @@
   {
     "name": "Universal TV [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQyMC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQxOS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/UNIVERSAL.png"
   },
   {
@@ -6428,7 +6416,7 @@
   {
     "name": "USA Network [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjMzOS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjMzOC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/USANETWORK.png"
   },
   {
@@ -6464,7 +6452,7 @@
   {
     "name": "Warner Channel [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY1MC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQzMS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/WARNER_CHANNEL.png"
   },
   {
@@ -6474,9 +6462,9 @@
     "img": "http://24horas.cc:80/images/a5537d65037abe2e69bfcfa28754a483.jpg"
   },
   {
-    "name": "Woohoo [FHD]",
+    "name": "Woohoo [4K]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQzNS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDM0NDkubTN1OA.m3u8",
     "img": "http://praia13.com/static/logos/canais/woohoo.png"
   },
   {
@@ -6498,9 +6486,9 @@
     "img": "http://24horas.cc:80/images/cc330d7feae6846b85f3ba3bc070991c.jpg"
   },
   {
-    "name": "X Sports [FHD]",
+    "name": "X Sports [SD]",
     "type": "Canais de TV",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zNDA0NDkubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zNDA0NTEubTN1OA.m3u8",
     "img": "https://www.areavip.com.br/wp-content/uploads/2025/04/x-sports-1200x675.jpg"
   },
   {
@@ -6768,33 +6756,15 @@
     "img": "https://i.imgur.com/I6pKoBd.png"
   },
   {
-    "name": "A&E [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc2MC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/A&E.png"
-  },
-  {
     "name": "A&E [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc2Mi5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/A&E.png"
   },
   {
-    "name": "A&E [SD]",
+    "name": "Adult Swim [HEVC]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc2My5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/A&E.png"
-  },
-  {
-    "name": "Adult Swim [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yNTE5NTgubTN1OA.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Adult Swim [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yNTE5NTkubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yNTE5NjEubTN1OA.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -6882,28 +6852,16 @@
     "img": "https://i.imgur.com/sFcOZeo.png"
   },
   {
-    "name": "AMC [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc3MC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/AMC.png"
-  },
-  {
     "name": "AMC [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc3MS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/AMC.png"
   },
   {
-    "name": "Animal Planet [HD]",
+    "name": "Arte 1 [FHD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc3NS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/ANIMAL_PLANET.png"
-  },
-  {
-    "name": "Animal Planet [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc3Ni5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/ANIMAL_PLANET.png"
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc3Ny5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/ARTE_1.png"
   },
   {
     "name": "Arte 1 [HD]",
@@ -6942,33 +6900,9 @@
     "img": "https://i.imgur.com/Ivnk7A6.png"
   },
   {
-    "name": "AXN [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc4MS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/AXN.png"
-  },
-  {
-    "name": "AXN [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDcxNS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/AXN.png"
-  },
-  {
     "name": "AXN [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc4My5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/AXN.png"
-  },
-  {
-    "name": "AXN [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDcxNC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/AXN.png"
-  },
-  {
-    "name": "AXN [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc4NC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/AXN.png"
   },
   {
@@ -7006,36 +6940,6 @@
     "type": "Alternativos",
     "url": "https://media.cdntvms.com.br/band_sat/index.m3u8",
     "img": "https://i.imgur.com/1r5T6Pw.png"
-  },
-  {
-    "name": "Band News [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc5MS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/BAND_NEWS.png"
-  },
-  {
-    "name": "Band News [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTc5Mi5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/BAND_NEWS.png"
-  },
-  {
-    "name": "Band SP [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjU5Ny5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/BAND.png"
-  },
-  {
-    "name": "Band SP [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83OTMxMi5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/BAND.png"
-  },
-  {
-    "name": "Band Sports [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgwMy5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/BAND_SPORTS.png"
   },
   {
     "name": "Band Sports [SD]",
@@ -7128,18 +7032,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "BIS [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgwOC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/BIS.png"
-  },
-  {
-    "name": "BIS [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgwOS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/BIS.png"
-  },
-  {
     "name": "BJJ STARS [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNTkyNzcubTN1OA.m3u8",
@@ -7200,16 +7092,22 @@
     "img": "http://gstaticontent.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg"
   },
   {
+    "name": "Brasileirao Serie C 3 [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNTc0MTQubTN1OA.m3u8",
+    "img": "http://gstaticontent.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg"
+  },
+  {
+    "name": "Brasileirao Serie C 3 [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNTc0MTUubTN1OA.m3u8",
+    "img": "http://gstaticontent.com/images/d71a6a98c5c853503ec304c5f182f9b3.jpg"
+  },
+  {
     "name": "Canal 25 Jundiai Alternativo 1",
     "type": "Alternativos",
     "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
     "img": "https://i.imgur.com/7igGMwH.png"
-  },
-  {
-    "name": "Canal Brasil [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgxOC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/CANAL_BRASIL.png"
   },
   {
     "name": "Canal Brasil [SD]",
@@ -7344,18 +7242,6 @@
     "img": "https://i.imgur.com/rHPY0Yv.png"
   },
   {
-    "name": "Canal Rural [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNzg1MTMubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/CANALRURAL.png"
-  },
-  {
-    "name": "Canal Rural [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgyMy5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/CANALRURAL.png"
-  },
-  {
     "name": "Canal Rural Alternativo 1",
     "type": "Alternativos",
     "url": "https://cdn2.easy.tv.br/canalrural/index.m3u8",
@@ -7380,34 +7266,16 @@
     "img": "https://i.imgur.com/ht4tUOc.png"
   },
   {
-    "name": "Canal Sony [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgyNS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/SONY.png"
-  },
-  {
-    "name": "Canal Sony [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDcxMi5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/SONY.png"
-  },
-  {
     "name": "Canal Sony [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgyNi5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/SONY.png"
   },
   {
-    "name": "Canal Sony [SD]",
+    "name": "Cartoon Network [FHD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDcxMS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/SONY.png"
-  },
-  {
-    "name": "Canal Sony [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgyNy5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/SONY.png"
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgyOC5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/CARTOON_NETWORK.png"
   },
   {
     "name": "Cartoon Network [HD]",
@@ -7420,18 +7288,6 @@
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgzMi5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/CARTOON_NETWORK.png"
-  },
-  {
-    "name": "Cartoonito [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgxNC5tM3U4.m3u8",
-    "img": "https://www.fontedecanais.tv/logos/canais/cartoonito.png"
-  },
-  {
-    "name": "Cartoonito [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgxNS5tM3U4.m3u8",
-    "img": "https://www.fontedecanais.tv/logos/canais/cartoonito.png"
   },
   {
     "name": "Chef TV Alternativo 1",
@@ -7452,15 +7308,9 @@
     "img": "https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png"
   },
   {
-    "name": "Cinemax [HD]",
+    "name": "Cinemax [FHD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgzNS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/CINEMAX.png"
-  },
-  {
-    "name": "Cinemax [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgzNi5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgzNC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/CINEMAX.png"
   },
   {
@@ -7474,12 +7324,6 @@
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yOTU0NzkubTN1OA.m3u8",
     "img": "http://dns.watchplay.top/images/_73Y-8nAZGll3tPl9vlkgRO6T7j8aP0sKCQF76nvyVtTWbpW6Fpl2CUOFh6BuJearsN7jiZQ2IemeemXku9nZg.png"
-  },
-  {
-    "name": "CNN Brasil [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTgzOS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/CNN_BRASIL.png"
   },
   {
     "name": "CNN Brasil [SD]",
@@ -7504,18 +7348,6 @@
     "type": "Alternativos",
     "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8",
     "img": "https://i.imgur.com/GrjGwKM.png"
-  },
-  {
-    "name": "Combate [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg0My5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/COMBATE.png"
-  },
-  {
-    "name": "Combate [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg0Ni5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/COMBATE.png"
   },
   {
     "name": "Combate Alternativo 1",
@@ -7596,6 +7428,12 @@
     "img": "https://i.imgur.com/5jPEI5c.png"
   },
   {
+    "name": "Curta [FHD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg1Ni5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/CURTA.png"
+  },
+  {
     "name": "Curta [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg1Ny5tM3U4.m3u8",
@@ -7650,45 +7488,27 @@
     "img": "https://logos.imperioapps.top/DISCOVERY.png"
   },
   {
-    "name": "Discovery H&H [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg2OC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/DISCOVERY_H_H.png"
-  },
-  {
-    "name": "Discovery H&H [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg2OS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/DISCOVERY_H_H.png"
-  },
-  {
     "name": "Discovery H&H [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg3MC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/DISCOVERY_H_H.png"
   },
   {
-    "name": "Discovery Kids [HD]",
+    "name": "Discovery Kids [FHD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg3My5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg3MS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/DISCOVERY_KIDS.png"
   },
   {
-    "name": "Discovery Kids [SD]",
+    "name": "Discovery Science [FHD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg3NC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/DISCOVERY_KIDS.png"
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg3Ni5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/DISCOVERY_SCIENCE.png"
   },
   {
     "name": "Discovery Science [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg3Ny5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/DISCOVERY_SCIENCE.png"
-  },
-  {
-    "name": "Discovery Science [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg3OC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/DISCOVERY_SCIENCE.png"
   },
   {
@@ -7698,40 +7518,10 @@
     "img": "https://logos.imperioapps.top/DISCOVERY_THEATER.png"
   },
   {
-    "name": "Discovery Theater [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg4Mi5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/DISCOVERY_THEATER.png"
-  },
-  {
-    "name": "Discovery Turbo [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg4My5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/DISCOVERY_TURBO.png"
-  },
-  {
-    "name": "Discovery Turbo [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg4NS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/DISCOVERY_TURBO.png"
-  },
-  {
     "name": "Discovery Turbo [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg4Ni5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/DISCOVERY_TURBO.png"
-  },
-  {
-    "name": "Discovery World [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg4OS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/DISCOVERY_WORLD.png"
-  },
-  {
-    "name": "Discovery World [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTg5MC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/DISCOVERY_WORLD.png"
   },
   {
     "name": "Disney Plus 1 [HD]",
@@ -7743,6 +7533,18 @@
     "name": "Disney Plus 1 [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDIwMzMubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/DISNEY+.png"
+  },
+  {
+    "name": "Disney Plus 2 [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMjkzNDUubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/DISNEY+.png"
+  },
+  {
+    "name": "Disney Plus 2 [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDIwMzUubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/DISNEY+.png"
   },
   {
@@ -7800,6 +7602,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg"
   },
   {
+    "name": "E! [FHD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkwMC5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/E.png"
+  },
+  {
     "name": "E! [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkwMi5tM3U4.m3u8",
@@ -7818,18 +7626,6 @@
     "img": "https://i.imgur.com/8upyApg.png"
   },
   {
-    "name": "ESPN 2 [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkyMi5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/ESPN_2.png"
-  },
-  {
-    "name": "ESPN 2 [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkyMy5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/ESPN_2.png"
-  },
-  {
     "name": "ESPN 3 [FHD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkwNy5tM3U4.m3u8",
@@ -7842,16 +7638,16 @@
     "img": "https://logos.imperioapps.top/ESPN_3.png"
   },
   {
-    "name": "ESPN 3 [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkxMC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/ESPN_3.png"
-  },
-  {
     "name": "ESPN 3 Alternativo 1",
     "type": "Alternativos",
     "url": "http://181.78.197.59:8000/play/a081/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png"
+  },
+  {
+    "name": "ESPN 4 [FHD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTk1Ny5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/ESPN_4.png"
   },
   {
     "name": "ESPN 4 [HD]",
@@ -7890,12 +7686,6 @@
     "img": "https://logos.imperioapps.top/ESPN_6.png"
   },
   {
-    "name": "ESPN [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkxMS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/ESPN.png"
-  },
-  {
     "name": "ESPN [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkxMy5tM3U4.m3u8",
@@ -7912,18 +7702,6 @@
     "type": "Alternativos",
     "url": "http://190.83.2.182:8090/ESPN/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-  },
-  {
-    "name": "Eurochannel [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDQ5MTEubTN1OA.m3u8",
-    "img": "http://gstaticontent.com/images/e319732e23a51cafb209d07c7a26c615.jpg"
-  },
-  {
-    "name": "Eurochannel [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDQ5MTIubTN1OA.m3u8",
-    "img": "http://gstaticontent.com/images/e319732e23a51cafb209d07c7a26c615.jpg"
   },
   {
     "name": "EUTV Alternativo 1",
@@ -7974,30 +7752,6 @@
     "img": "https://logos.imperioapps.top/FILM&ART.png"
   },
   {
-    "name": "Film&Arts [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDQ5MTYubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/FILM&ART.png"
-  },
-  {
-    "name": "Fish TV [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkyOC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/FISH_TV.png"
-  },
-  {
-    "name": "Fish TV [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkzMC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/FISH_TV.png"
-  },
-  {
-    "name": "Fish TV [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkzMS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/FISH_TV.png"
-  },
-  {
     "name": "Fish TV Alternativo 1",
     "type": "Alternativos",
     "url": "http://45.190.28.50/FISH_TV_HD/index.m3u8",
@@ -8022,18 +7776,6 @@
     "img": "https://i.imgur.com/7q2BmNc.png"
   },
   {
-    "name": "Food Network [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkzNC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/FOOD_NETWORK.png"
-  },
-  {
-    "name": "Food Network [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkzNS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/FOOD_NETWORK.png"
-  },
-  {
     "name": "Formula 1 TV [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTk0OS5tM3U4.m3u8",
@@ -8044,12 +7786,6 @@
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTk1MC5tM3U4.m3u8",
     "img": "https://imgur.com/a/jyyyawL"
-  },
-  {
-    "name": "France 24 [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDQ5MDYubTN1OA.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "France 24 [HD]",
@@ -8074,12 +7810,6 @@
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xOTIwODEubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/FURACAO.png"
-  },
-  {
-    "name": "Futura [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTk2NC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/FUTURA.png"
   },
   {
     "name": "Futura [SD]",
@@ -8118,15 +7848,9 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo EPTV Ribeirao Preto [HD]",
+    "name": "Globo EPTV Campinas [SD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExNzgubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/globo.png"
-  },
-  {
-    "name": "Globo EPTV Ribeirao Preto [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzEyMDIubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzEyMTAubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -8142,15 +7866,21 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo EPTV Sul de Minas [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTk4MC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/globo.png"
-  },
-  {
     "name": "Globo EPTV Sul de Minas [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzEyMDEubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo Inter TV Alto Litoral [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTk4My5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo Inter TV Alto Litoral [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExMzEubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -8163,6 +7893,18 @@
     "name": "Globo Inter TV Cabugi [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExODYubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo Inter TV Costa Branca [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zNTAwODgubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo Inter TV Costa Branca [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zNTAwODkubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -8202,9 +7944,21 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo News [HD]",
+    "name": "Globo Minas [HD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTk5OS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExNTkubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo Minas [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzEyMDkubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo News [FHD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTk5Ny5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/GLOBO_NEWS.png"
   },
   {
@@ -8250,15 +8004,177 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
+    "name": "Globo NSC TV Chapeco [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjAwOC5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo NSC TV Chapeco [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExOTAubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo NSC TV Criciuma [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU0MjcubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo NSC TV Criciuma [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU0MjgubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo NSC TV Florianopolis [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExODMubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo NSC TV Florianopolis [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExNDQubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo NSC TV Joinville [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExNjcubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo NSC TV Joinville [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MTAzMi5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Bage [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3NTAubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Bage [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3NTIubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Caxias do Sul [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjAxNC5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Caxias do Sul [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExMzAubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Cruz Alta [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2ODYubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Cruz Alta [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2ODcubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Erechim [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2ODQubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Erechim [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2ODUubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
     "name": "Globo RBS TV Passo Fundo [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzMwNjUubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
+    "name": "Globo RBS TV Passo Fundo [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzMwNjYubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Pelotas [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExMjEubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Pelotas [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzEyMDcubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Porto Alegre [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjAxNy5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Porto Alegre [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExOTgubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Santa Cruz do Sul [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2MDgubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Santa Cruz do Sul [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2MDkubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Santa Maria [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU0MjQubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Santa Maria [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU0MjUubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Santa Rosa [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2ODEubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
     "name": "Globo RBS TV Santa Rosa [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2ODIubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo RBS TV Uruguaiana [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2NzgubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -8316,6 +8232,12 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
+    "name": "Globo Rede Amazonica Manaus [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjAyMC5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
     "name": "Globo Rede Amazonica Manaus [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjAyMS5tM3U4.m3u8",
@@ -8370,21 +8292,15 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
+    "name": "Globo Rede Bahia TV Santa Cruz [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3ODMubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
     "name": "Globo Rede Bahia TV Santa Cruz [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3ODQubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/globo.png"
-  },
-  {
-    "name": "Globo RJ [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExNjMubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/globo.png"
-  },
-  {
-    "name": "Globo RJ [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExODIubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -8490,12 +8406,6 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globo SP [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjA0Mi5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/globo.png"
-  },
-  {
     "name": "Globo TV Alvorada do Sul [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zNTAwNzkubTN1OA.m3u8",
@@ -8517,6 +8427,18 @@
     "name": "Globo TV Anhanguera [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExMjQubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo TV Anhanguera Anapolis [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3NTMubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo TV Anhanguera Anapolis [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3NTQubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -8565,6 +8487,18 @@
     "name": "Globo TV Anhanguera Rio Verde [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3NjMubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo TV Asa Branca [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDI1NTUubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo TV Asa Branca [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExODAubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -8712,6 +8646,18 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
+    "name": "Globo TV Integracao Ituiutaba [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2NDgubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo TV Integracao Ituiutaba [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY2NDkubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
     "name": "Globo TV Integracao Juiz de Fora [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjA2OC5tM3U4.m3u8",
@@ -8757,6 +8703,30 @@
     "name": "Globo TV Liberal Belem [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjA3Mi5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo TV Liberal Castanhal [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3NzEubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo TV Liberal Castanhal [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3NzIubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo TV Mirante Cocais [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MzYwMC5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/globo.png"
+  },
+  {
+    "name": "Globo TV Mirante Cocais [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MzYwMS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -8829,18 +8799,6 @@
     "name": "Globo TV Rio Sul [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjA4Mi5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/globo.png"
-  },
-  {
-    "name": "Globo TV Sao Francisco [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3ODYubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/globo.png"
-  },
-  {
-    "name": "Globo TV Sao Francisco [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY3ODcubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
@@ -8988,28 +8946,16 @@
     "img": "https://logos.imperioapps.top/globo.png"
   },
   {
-    "name": "Globoplay Novelas [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQyOS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/GLOBOPLAY_NOVELAS.png"
-  },
-  {
     "name": "Globoplay Novelas [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQzMC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/GLOBOPLAY_NOVELAS.png"
   },
   {
-    "name": "Gloob [HD]",
+    "name": "Gloobinho [FHD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjEwMC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/GLOOB.png"
-  },
-  {
-    "name": "Gloob [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExMTcubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/GLOOB.png"
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDYzMC5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/GLOBINHO.png"
   },
   {
     "name": "Gloobinho [HD]",
@@ -9018,45 +8964,21 @@
     "img": "https://logos.imperioapps.top/GLOBINHO.png"
   },
   {
-    "name": "Gloobinho [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExNzMubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/GLOBINHO.png"
-  },
-  {
-    "name": "GNT [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjEwNC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/GNT.png"
-  },
-  {
     "name": "GNT [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExMzYubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/GNT.png"
   },
   {
-    "name": "H2 [HD]",
+    "name": "HBO 2 [FHD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjEwOC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/H2.png"
-  },
-  {
-    "name": "H2 [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjEwOS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/H2.png"
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjExMS5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/HBO_2.png"
   },
   {
     "name": "HBO 2 [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjExMi5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/HBO_2.png"
-  },
-  {
-    "name": "HBO 2 [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjExMy5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/HBO_2.png"
   },
   {
@@ -9078,16 +9000,10 @@
     "img": "https://logos.imperioapps.top/HBO.png"
   },
   {
-    "name": "HBO [SD]",
+    "name": "HBO Family [FHD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjEzMy5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/HBO.png"
-  },
-  {
-    "name": "HBO [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY5Ni5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/HBO.png"
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjExNS5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/HBO_FAMILY.png"
   },
   {
     "name": "HBO Family [HD]",
@@ -9102,33 +9018,9 @@
     "img": "https://logos.imperioapps.top/HBO_FAMILY.png"
   },
   {
-    "name": "HBO MUNDI [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjEyMi5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/HBO_MUNDI.png"
-  },
-  {
     "name": "HBO MUNDI [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjEyMy5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/HBO_MUNDI.png"
-  },
-  {
-    "name": "HBO MUNDI [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY5NC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/HBO_MUNDI.png"
-  },
-  {
-    "name": "HBO MUNDI [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjEyNC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/HBO_MUNDI.png"
-  },
-  {
-    "name": "HBO MUNDI [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY5My5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/HBO_MUNDI.png"
   },
   {
@@ -9147,18 +9039,6 @@
     "name": "HBO Plus [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY5MS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/HBO_PLUS.png"
-  },
-  {
-    "name": "HBO Plus [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY5MC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/HBO_PLUS.png"
-  },
-  {
-    "name": "HBO Plus [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjEyOC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/HBO_PLUS.png"
   },
   {
@@ -9192,33 +9072,9 @@
     "img": "https://logos.imperioapps.top/HBO_POP.png"
   },
   {
-    "name": "HBO Signature [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY4Ni5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/HBO_SIGNATURE.png"
-  },
-  {
     "name": "HBO Signature [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjEzNi5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/HBO_SIGNATURE.png"
-  },
-  {
-    "name": "HBO Signature [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY4NS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/HBO_SIGNATURE.png"
-  },
-  {
-    "name": "HBO Signature [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjEzNy5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/HBO_SIGNATURE.png"
-  },
-  {
-    "name": "HBO Signature [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY4NC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/HBO_SIGNATURE.png"
   },
   {
@@ -9252,6 +9108,12 @@
     "img": "https://logos.imperioapps.top/HBO_XTREME.png"
   },
   {
+    "name": "HGTV [FHD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE0Mi5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/HGTV.png"
+  },
+  {
     "name": "HGTV [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE0NC5tM3U4.m3u8",
@@ -9262,18 +9124,6 @@
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE0NS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/HGTV.png"
-  },
-  {
-    "name": "History [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE0Ni5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/HISTORY.png"
-  },
-  {
-    "name": "History [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE0OC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/HISTORY.png"
   },
   {
     "name": "History [SD]",
@@ -9306,12 +9156,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png"
   },
   {
-    "name": "ID [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE1Mi5tM3U4.m3u8",
-    "img": "http://praia13.com/static/logos/canais/id.png"
-  },
-  {
     "name": "ID [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE1My5tM3U4.m3u8",
@@ -9334,12 +9178,6 @@
     "type": "Alternativos",
     "url": "https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1732472063.m3u8",
     "img": "https://i.postimg.cc/GmZSkzZZ/logo-istv.png"
-  },
-  {
-    "name": "Jovem Pan News [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzQwMjQubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/JOVEM_PAN.png"
   },
   {
     "name": "Jovem Pan News [SD]",
@@ -9384,18 +9222,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Lifetime [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE1Ni5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/LIFETIME.png"
-  },
-  {
-    "name": "Lifetime [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE1Ny5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/LIFETIME.png"
-  },
-  {
     "name": "Liga Futsal 1 [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDkyMjUubTN1OA.m3u8",
@@ -9405,6 +9231,18 @@
     "name": "Liga Futsal 1 [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNTU3NDEubTN1OA.m3u8",
+    "img": "http://gstaticontent.com/images/96c7b35001b7a7a692e26d0331429b2b.jpg"
+  },
+  {
+    "name": "Liga Futsal 2 [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNTU3NDMubTN1OA.m3u8",
+    "img": "http://gstaticontent.com/images/96c7b35001b7a7a692e26d0331429b2b.jpg"
+  },
+  {
+    "name": "Liga Futsal 2 [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNTU3NDQubTN1OA.m3u8",
     "img": "http://gstaticontent.com/images/96c7b35001b7a7a692e26d0331429b2b.jpg"
   },
   {
@@ -9456,18 +9294,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Max 1 [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkwNC5tM3U4.m3u8",
-    "img": "http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg"
-  },
-  {
-    "name": "Max 1 [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDA1MTAubTN1OA.m3u8",
-    "img": "http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg"
-  },
-  {
     "name": "Max 2 [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkwNS5tM3U4.m3u8",
@@ -9477,30 +9303,6 @@
     "name": "Max 2 [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDA1MTEubTN1OA.m3u8",
-    "img": "http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg"
-  },
-  {
-    "name": "Max 3 [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MTkwNi5tM3U4.m3u8",
-    "img": "http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg"
-  },
-  {
-    "name": "Max 3 [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDA1MTIubTN1OA.m3u8",
-    "img": "http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg"
-  },
-  {
-    "name": "Max 4 [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83NjY3My5tM3U4.m3u8",
-    "img": "http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg"
-  },
-  {
-    "name": "Max 4 [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDA1MTMubTN1OA.m3u8",
     "img": "http://gstaticontent.com/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg"
   },
   {
@@ -9534,12 +9336,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Megapix [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY4MC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/MEGAPIX.png"
-  },
-  {
     "name": "Megapix [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE2OS5tM3U4.m3u8",
@@ -9552,16 +9348,10 @@
     "img": "https://logos.imperioapps.top/MEGAPIX.png"
   },
   {
-    "name": "Megapix [SD]",
+    "name": "Modo Viagem [FHD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzEyMDQubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/MEGAPIX.png"
-  },
-  {
-    "name": "Megapix [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExNzEubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/MEGAPIX.png"
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE2My5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/MODO_VIAGEM.png"
   },
   {
     "name": "Modo Viagem [HD]",
@@ -9586,18 +9376,6 @@
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yODk1MzcubTN1OA.m3u8",
     "img": "https://1000logos.net/wp-content/uploads/2025/01/Olympia-Logo-2048x1152.png"
-  },
-  {
-    "name": "Multishow [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjE4Mi5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/MULTISHOW.png"
-  },
-  {
-    "name": "Multishow [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExMzQubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/MULTISHOW.png"
   },
   {
     "name": "Music Box Brazil [HD]",
@@ -9726,16 +9504,22 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "OFF [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjIxMS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/OFF.png"
-  },
-  {
     "name": "OFF [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjIxMi5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/OFF.png"
+  },
+  {
+    "name": "OneFootball 1 [HD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xODU4MDEubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/ONEFOOTBALL.png"
+  },
+  {
+    "name": "OneFootball 1 [SD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xODU4MDIubTN1OA.m3u8",
+    "img": "https://logos.imperioapps.top/ONEFOOTBALL.png"
   },
   {
     "name": "Pai Eterno [HD]",
@@ -9798,24 +9582,6 @@
     "img": "https://www.fontedecanais.one/logos/canais/paramountplus.png"
   },
   {
-    "name": "Paramount Plus 4 [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83Mjk4OS5tM3U4.m3u8",
-    "img": "https://www.fontedecanais.one/logos/canais/paramountplus.png"
-  },
-  {
-    "name": "Paramount Plus 4 [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83Mjk5MS5tM3U4.m3u8",
-    "img": "https://www.fontedecanais.one/logos/canais/paramountplus.png"
-  },
-  {
-    "name": "Paramount Plus 4 [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83Mjk5Mi5tM3U4.m3u8",
-    "img": "https://www.fontedecanais.one/logos/canais/paramountplus.png"
-  },
-  {
     "name": "Play TV Alternativo 1",
     "type": "Alternativos",
     "url": "http://45.177.114.115/PLAY_TV/index.m3u8",
@@ -9834,57 +9600,15 @@
     "img": "https://i.imgur.com/Ikrj3lk.png"
   },
   {
-    "name": "Premiere 1 [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI2NS5tM3U4.m3u8",
-    "img": "http://www.fontedecanais.tv/logos/canais/premiere.png"
-  },
-  {
-    "name": "Premiere 1 [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI2Ni5tM3U4.m3u8",
-    "img": "http://www.fontedecanais.tv/logos/canais/premiere.png"
-  },
-  {
-    "name": "Premiere 2 [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjIzOS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/PREMIERE.png"
-  },
-  {
     "name": "Premiere 2 [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI0MC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/PREMIERE.png"
   },
   {
-    "name": "Premiere 3 [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI0My5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/PREMIERE.png"
-  },
-  {
-    "name": "Premiere 3 [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI0NC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/PREMIERE.png"
-  },
-  {
-    "name": "Premiere 4 [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI0Ni5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/PREMIERE.png"
-  },
-  {
     "name": "Premiere 4 [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI0Ny5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/PREMIERE.png"
-  },
-  {
-    "name": "Premiere 4 [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI0OC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/PREMIERE.png"
   },
   {
@@ -9906,9 +9630,9 @@
     "img": "https://logos.imperioapps.top/PREMIERE.png"
   },
   {
-    "name": "Premiere 6 [SD]",
+    "name": "Premiere 7 [FHD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI1Ni5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI1Ny5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/PREMIERE.png"
   },
   {
@@ -9924,9 +9648,9 @@
     "img": "https://logos.imperioapps.top/PREMIERE.png"
   },
   {
-    "name": "Premiere 8 [HD]",
+    "name": "Premiere 8 [FHD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xODAxNTkubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xODAxNjEubTN1OA.m3u8",
     "img": "http://www.fontedecanais.tv/logos/canais/premiere.png"
   },
   {
@@ -9934,6 +9658,12 @@
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xODAxNjAubTN1OA.m3u8",
     "img": "http://www.fontedecanais.tv/logos/canais/premiere.png"
+  },
+  {
+    "name": "Prime Box Brazil [FHD]",
+    "type": "Alternativos",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI2OC5tM3U4.m3u8",
+    "img": "https://logos.imperioapps.top/PRIME_BOX.png"
   },
   {
     "name": "Prime Box Brazil [HD]",
@@ -9976,12 +9706,6 @@
     "type": "Alternativos",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116",
     "img": "https://i.imgur.com/HZDRG0K.png"
-  },
-  {
-    "name": "Record News [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI3Mi5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/RECORD_NEWS.png"
   },
   {
     "name": "Record News [SD]",
@@ -10047,18 +9771,6 @@
     "name": "RecordTV Goias [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yMTg4MjMubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/RECORD.png"
-  },
-  {
-    "name": "RecordTV Guararapes [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zNTAwNzMubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/RECORD.png"
-  },
-  {
-    "name": "RecordTV Guararapes [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zNTAwNzQubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/RECORD.png"
   },
   {
@@ -10362,18 +10074,6 @@
     "img": "https://logos.imperioapps.top/REDE_TV.png"
   },
   {
-    "name": "RedeTV [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjI5OS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/REDE_TV.png"
-  },
-  {
-    "name": "RedeTV [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjMwMC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/REDE_TV.png"
-  },
-  {
     "name": "RIT TV Alternativo 1",
     "type": "Alternativos",
     "url": "http://45.177.114.115/RIT_TV/index.m3u8",
@@ -10488,12 +10188,6 @@
     "img": "https://logos.imperioapps.top/sbt.png"
   },
   {
-    "name": "SBT SP [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83Nzk2NC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/sbt.png"
-  },
-  {
     "name": "SBT Thathi Vale [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zNTAwOTcubTN1OA.m3u8",
@@ -10602,64 +10296,16 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png"
   },
   {
-    "name": "Space [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjMxOC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/SPACE.png"
-  },
-  {
-    "name": "Space [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY3Ni5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/SPACE.png"
-  },
-  {
     "name": "Space [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjMxOS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/SPACE.png"
   },
   {
-    "name": "Space [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjMyMC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/SPACE.png"
-  },
-  {
-    "name": "Space [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY3NS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/SPACE.png"
-  },
-  {
-    "name": "SporTV 2 [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjMyMS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/SPORTV2_4K.png"
-  },
-  {
     "name": "SporTV 2 [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExNzYubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/SPORTV2_4K.png"
-  },
-  {
-    "name": "SporTV 2 [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjMyNC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/SPORTV2_4K.png"
-  },
-  {
-    "name": "SporTV 3 [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExMTMubTN1OA.m3u8",
-    "img": "http://logos.imperioapps.top/SPORTV3.png"
-  },
-  {
-    "name": "SporTV 3 [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExMDgubTN1OA.m3u8",
-    "img": "http://logos.imperioapps.top/SPORTV3.png"
   },
   {
     "name": "SporTV 4 [HD]",
@@ -10674,33 +10320,15 @@
     "img": "http://logos.imperioapps.top/SPORTV4.png"
   },
   {
-    "name": "SporTV [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjMzMi5tM3U4.m3u8",
-    "img": "http://logos.imperioapps.top/SPORTV.png"
-  },
-  {
     "name": "SporTV [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzExMzIubTN1OA.m3u8",
     "img": "http://logos.imperioapps.top/SPORTV.png"
   },
   {
-    "name": "SportyNet 1 [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xODQ1NjkubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/SPORTYNET.png"
-  },
-  {
     "name": "SportyNet 1 [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xODQ1NzAubTN1OA.m3u8",
-    "img": "https://logos.imperioapps.top/SPORTYNET.png"
-  },
-  {
-    "name": "SportyNet 1 [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xODQ1NzEubTN1OA.m3u8",
     "img": "https://logos.imperioapps.top/SPORTYNET.png"
   },
   {
@@ -10842,40 +10470,10 @@
     "img": "http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg"
   },
   {
-    "name": "Telecine Action [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY2OC5tM3U4.m3u8",
-    "img": "http://logos.imperioapps.top/TCAction.png"
-  },
-  {
     "name": "Telecine Action [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY2Ny5tM3U4.m3u8",
     "img": "http://logos.imperioapps.top/TCAction.png"
-  },
-  {
-    "name": "Telecine Action [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM0OC5tM3U4.m3u8",
-    "img": "http://logos.imperioapps.top/TCAction.png"
-  },
-  {
-    "name": "Telecine Action [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY2Ni5tM3U4.m3u8",
-    "img": "http://logos.imperioapps.top/TCAction.png"
-  },
-  {
-    "name": "Telecine Action [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM0OS5tM3U4.m3u8",
-    "img": "http://logos.imperioapps.top/TCAction.png"
-  },
-  {
-    "name": "Telecine Cult [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY2NS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TCCult.png"
   },
   {
     "name": "Telecine Cult [HD]",
@@ -10884,34 +10482,10 @@
     "img": "https://logos.imperioapps.top/TCCult.png"
   },
   {
-    "name": "Telecine Cult [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM1Mi5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TCCult.png"
-  },
-  {
     "name": "Telecine Cult [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM1My5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/TCCult.png"
-  },
-  {
-    "name": "Telecine Cult [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY2My5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TCCult.png"
-  },
-  {
-    "name": "Telecine Fun [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM1NS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TCFun.png"
-  },
-  {
-    "name": "Telecine Fun [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY2MS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TCFun.png"
   },
   {
     "name": "Telecine Fun [HD]",
@@ -10923,12 +10497,6 @@
     "name": "Telecine Fun [SD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY2MC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TCFun.png"
-  },
-  {
-    "name": "Telecine Fun [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM1Ny5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/TCFun.png"
   },
   {
@@ -10962,12 +10530,6 @@
     "img": "https://logos.imperioapps.top/TCPremium.png"
   },
   {
-    "name": "Telecine Premium [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY1NC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TCPremium.png"
-  },
-  {
     "name": "Telecine Touch [FHD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM2Ni5tM3U4.m3u8",
@@ -10976,19 +10538,7 @@
   {
     "name": "Telecine Touch [HD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM2OC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TCTouch.png"
-  },
-  {
-    "name": "Telecine Touch [HD]",
-    "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY1Mi5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TCTouch.png"
-  },
-  {
-    "name": "Telecine Touch [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY1MS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/TCTouch.png"
   },
   {
@@ -11052,45 +10602,15 @@
     "img": "https://i.ibb.co/yTZgcyQ/timesbr.jpg"
   },
   {
-    "name": "TLC [HD]",
+    "name": "TLC [FHD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM3My5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM3Mi5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/TLC.png"
-  },
-  {
-    "name": "TLC [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM3NC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TLC.png"
-  },
-  {
-    "name": "TNT [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM3NS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TNT.png"
-  },
-  {
-    "name": "TNT [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM3OC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TNT.png"
   },
   {
     "name": "TNT [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY3My5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TNT.png"
-  },
-  {
-    "name": "TNT [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY3Mi5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TNT.png"
-  },
-  {
-    "name": "TNT [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM3OS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/TNT.png"
   },
   {
@@ -11106,46 +10626,10 @@
     "img": "https://logos.imperioapps.top/TNT_NOVELAS.png"
   },
   {
-    "name": "TNT Series [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY3MS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TNT_SERIES.png"
-  },
-  {
-    "name": "TNT Series [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM4MC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TNT_SERIES.png"
-  },
-  {
-    "name": "TNT Series [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM4My5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TNT_SERIES.png"
-  },
-  {
     "name": "TNT Series [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY3MC5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/TNT_SERIES.png"
-  },
-  {
-    "name": "TNT Series [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY2OS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TNT_SERIES.png"
-  },
-  {
-    "name": "TNT Series [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM4NC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TNT_SERIES.png"
-  },
-  {
-    "name": "Trace Brazuca [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM4Ny5tM3U4.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1IjvWOk_dpNtwYmj9EYtLdyPpUK-_8h2wQ&s"
   },
   {
     "name": "Trace Brazuca [HD]",
@@ -11214,9 +10698,9 @@
     "img": "https://i.imgur.com/z7VlNLR.png"
   },
   {
-    "name": "TV Brasil [HD]",
+    "name": "TV Brasil [FHD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQwMS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjM5OS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/TV_BRASIL.png"
   },
   {
@@ -11484,9 +10968,9 @@
     "img": "https://i.imgur.com/0sksWse.png"
   },
   {
-    "name": "TV Gazeta SP [HEVC]",
+    "name": "TV Gazeta SP [HD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNzg1MTkubTN1OA.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQwNi5tM3U4.m3u8",
     "img": "http://gstaticontent.com/images/2baf5152b328307749ffbafedb684497.png"
   },
   {
@@ -11574,15 +11058,9 @@
     "img": "https://i.imgur.com/iuoXchN.png"
   },
   {
-    "name": "TV Ra Tim Bum [HD]",
+    "name": "TV Ra Tim Bum [FHD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQxNC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/TV_RA_TIM_BUM.png"
-  },
-  {
-    "name": "TV Ra Tim Bum [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQxNS5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQxMi5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/TV_RA_TIM_BUM.png"
   },
   {
@@ -11718,45 +11196,15 @@
     "img": "https://i.imgur.com/n0pxHo4.png"
   },
   {
-    "name": "Warner Channel [FHD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQzMS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/WARNER_CHANNEL.png"
-  },
-  {
-    "name": "Warner Channel [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY0OS5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/WARNER_CHANNEL.png"
-  },
-  {
     "name": "Warner Channel [HD]",
     "type": "Alternativos",
     "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQzMy5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/WARNER_CHANNEL.png"
   },
   {
-    "name": "Warner Channel [SD]",
+    "name": "Woohoo [FHD]",
     "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDY0OC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/WARNER_CHANNEL.png"
-  },
-  {
-    "name": "Warner Channel [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQzNC5tM3U4.m3u8",
-    "img": "https://logos.imperioapps.top/WARNER_CHANNEL.png"
-  },
-  {
-    "name": "Woohoo [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQzNy5tM3U4.m3u8",
-    "img": "http://praia13.com/static/logos/canais/woohoo.png"
-  },
-  {
-    "name": "Woohoo [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQzOC5tM3U4.m3u8",
+    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83MjQzNi5tM3U4.m3u8",
     "img": "http://praia13.com/static/logos/canais/woohoo.png"
   },
   {
@@ -11788,18 +11236,6 @@
     "type": "Alternativos",
     "url": "http://186.219.52.187/woohoo/index.m3u8",
     "img": "https://i.imgur.com/me622pa.png"
-  },
-  {
-    "name": "X Sports [HD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zNDA0NTAubTN1OA.m3u8",
-    "img": "https://www.areavip.com.br/wp-content/uploads/2025/04/x-sports-1200x675.jpg"
-  },
-  {
-    "name": "X Sports [SD]",
-    "type": "Alternativos",
-    "url": "https://frostview.cloutteam.com/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zNDA0NTEubTN1OA.m3u8",
-    "img": "https://www.areavip.com.br/wp-content/uploads/2025/04/x-sports-1200x675.jpg"
   },
   {
     "name": "Zoomoo [HD]",
