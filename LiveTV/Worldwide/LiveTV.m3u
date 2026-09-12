@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63D86yTn/ag-tv.jpg" group-title="Recomendados",AG TV
 https://video01.kshost.com.br/grezzana1839/grezzana1839/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0Wwhpkn/bdc-tv.jpg" group-title="Recomendados",BDC TV
+https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJk7dg4Q/bstv-online.jpg" group-title="Recomendados",BS TV Online
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnTJzqd5/cazetv.jpg" group-title="Recomendados",CazeTV
@@ -125,8 +127,6 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 http://170.84.165.204/BAND_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ubplay.com.br/wp-content/uploads/sites/67/2025/10/capa-site-bemmelhor.png" group-title="Variedades",Bem Melhor
 https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="Variedades",Boas Novas
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2S9cvNSK/bs-tv.png" group-title="Variedades",BS TV
 https://br5093.streamingdevideo.com.br:8081/bstv/bstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7igGMwH.png" group-title="Variedades",Canal 25 Jundiai
@@ -135,8 +135,6 @@ https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3
 https://video05.logicahost.com.br/canal05/canal05/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="Variedades",Canal do Boi
 http://45.162.64.114/CANAL_DO_BOI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7SE4CkE.png" group-title="Variedades",Canal FDR
-https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnWWKzP.png" group-title="Variedades",Canal Libras
 https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1biaLgJ.png" group-title="Variedades",Canal Off
@@ -179,6 +177,8 @@ https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/play
 https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="Variedades",EUTV
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="Variedades",Fala Litoral
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DZTjC0J0/ja-viu-tv.jpg" group-title="Variedades",Já Viu TV
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chHsCzB.png" group-title="Variedades",L!ke
@@ -315,8 +315,6 @@ https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
 https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NtcoW6G.png" group-title="Variedades",TV Fronteira
 https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xonrNBf.png" group-title="Variedades",TV Futuro
-https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXh4B0VX/tv-galinha-choca.png" group-title="Variedades",TV GALINHA CHOCA
 https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0sksWse.png" group-title="Variedades",TV Gazeta
@@ -349,6 +347,8 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFE6TiV.png" group-title="Variedades",TV Passo Fundo
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://web2.petropolis.rj.gov.br/imc/film-commission/uploads/profissional/perfil/785b645d9c574b4d88504a85dbd6ef37.png" group-title="Variedades",TV Petropolis
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c33suOT.png" group-title="Variedades",TV Profissao
 https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JIQwz0w.png" group-title="Variedades",TV Ra Tim Bum
@@ -493,8 +493,6 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yTZgcyQ/timesbr.jpg" group-title="Notícia",Times Brasil
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="Notícia",TV A Folha
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="Notícia",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Notícia",TV Sim Cachoeiro
@@ -537,6 +535,8 @@ http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/
 https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="Entretenimento",TV GRANDE NATAL HDTV BRASIL
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="Entretenimento",TV Vicosa
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="Entretenimento",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvmaispet.com.br/images/tvpet-logo.png" group-title="Entretenimento",TV+Pet
@@ -784,7 +784,7 @@ https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2x
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bl4hQISOR5QNu4cITDuN1E4zLAJ.jpg" group-title="Canais de TV",Arlequina
 https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yMjM4MzMubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/130da24b37426b482bcae01980ab6ea2.jpg" group-title="Canais de TV",Arquivo Morto
-https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3MzEubTN1OA.m3u8
+https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3MzcubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/8f2297eceeb7eeff07f8a1dfe705f5b0.jpg" group-title="Canais de TV",Arquivo X
 https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3MzgubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/ARTE_1.png" group-title="Canais de TV",Arte 1 [4K]
@@ -1174,7 +1174,7 @@ https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2x
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/c47390a15164a23a44368afcdf44a98b.jpg" group-title="Canais de TV",Game of Thrones
 https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU1MzQubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg" group-title="Canais de TV",Game Shakers
-https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzgwMDcubTN1OA.m3u8
+https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzgwMDgubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/54f4e458b35b7788227265431759e8a9.jpg" group-title="Canais de TV",Garfield e Seus Amigos
 https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzgwMjYubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/e0cbe60d77954d03ae773f9be4591861.jpg" group-title="Canais de TV",Garota da Lua e o Dinossauro Demonio
@@ -1906,7 +1906,7 @@ https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2x
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/2dea79548308cda88b90aba107ef72ca.jpg" group-title="Canais de TV",Snoopy Vai Acampar
 https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY4NjIubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ea9ea8a284ca4b765a45d033c9b7e476.jpg" group-title="Canais de TV",Sob Nova Direcao
-https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY4MjgubTN1OA.m3u8
+https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY4MjcubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dPClRec0BXzWG7B9jsTdimoeJpM.jpg" group-title="Canais de TV",Solar Opposites
 https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yMjM4MzUubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/f0e2938948d52380ad6a365a13195f29.jpg" group-title="Canais de TV",Soltos em Floripa
@@ -1916,7 +1916,7 @@ https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2x
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/698faa84f217110049476f03153fa730.jpg" group-title="Canais de TV",SOS Cachorrinhos
 https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwMzAubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg" group-title="Canais de TV",South Park
-https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwMzIubTN1OA.m3u8
+https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwMzEubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="https://logos.imperioapps.top/SPACE.png" group-title="Canais de TV",Space [4K]
 https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC85MDYzMy5tM3U4.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eWnZwZB3hu5PX9Xtvh3TQXymsj.jpg" group-title="Canais de TV",Spidey e Seus Amigos Espetaculares
@@ -1942,9 +1942,9 @@ https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2x
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/ae67feb834c60b5404cfc2ef40534706.jpg" group-title="Canais de TV",Star Trek Discovery
 https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNTUubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/9ae752c0c2d18ad9f9b1c3bd8ac2f8d4.jpg" group-title="Canais de TV",Star Trek Lower Decks
-https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNTkubTN1OA.m3u8
+https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNTgubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/dc45fadfffabb74c403ffe84085e5172.jpg" group-title="Canais de TV",Star vs. As Forcas do Mal
-https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNjIubTN1OA.m3u8
+https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNjAubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais de TV",Star Wars Rebels
 https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNzIubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/46eff89e5460ed2103a0ba46103d451e.jpg" group-title="Canais de TV",Star Wars The Bad Batch
@@ -1974,7 +1974,7 @@ https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2x
 #EXTINF:-1 tvg-logo="http://gstaticontent.com/images/5f04abca388f9d3b1005642b28246a5f.jpg" group-title="Canais de TV",Supermansion
 https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDk1NDAubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais de TV",Supernatural
-https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzY3MjYubTN1OA.m3u8
+https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzY3NDAubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="http://24horas.cc:80/images/61294e3459c5ad7bec98f9a68eb82985.jpg" group-title="Canais de TV",Supernatural Academy
 https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8yNTQ3NTcubTN1OA.m3u8
 #EXTINF:-1 tvg-logo="http://praia13.com/static/logos/canais/syfy.png" group-title="Canais de TV",SYFY [4K]

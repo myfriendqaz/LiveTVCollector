@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-12 00:19:18",
+  "date": "2026-09-12 07:23:57",
   "channels": {
     "Recomendados": [
       {
@@ -8,6 +8,13 @@
         "group": "Recomendados",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video01.kshost.com.br/grezzana1839/grezzana1839/playlist.m3u8"
+      },
+      {
+        "name": "BDC TV",
+        "logo": "https://i.postimg.cc/D0Wwhpkn/bdc-tv.jpg",
+        "group": "Recomendados",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video01.brascast.com/bdctv/bdctv/playlist.m3u8"
       },
       {
         "name": "BS TV Online",
@@ -448,13 +455,6 @@
         "url": "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8"
       },
       {
-        "name": "Boas Novas",
-        "logo": "https://i.imgur.com/ZqhizdP.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-      },
-      {
         "name": "BS TV",
         "logo": "https://i.postimg.cc/2S9cvNSK/bs-tv.png",
         "group": "Variedades",
@@ -481,13 +481,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://45.162.64.114/CANAL_DO_BOI/index.m3u8"
-      },
-      {
-        "name": "Canal FDR",
-        "logo": "https://i.imgur.com/7SE4CkE.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
       },
       {
         "name": "Canal Libras",
@@ -635,6 +628,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
+      },
+      {
+        "name": "Fala Litoral",
+        "logo": "https://i.imgur.com/NF6PL8O.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
       },
       {
         "name": "Já Viu TV",
@@ -1113,13 +1113,6 @@
         "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
       },
       {
-        "name": "TV Futuro",
-        "logo": "https://i.imgur.com/xonrNBf.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
-      },
-      {
         "name": "TV GALINHA CHOCA",
         "logo": "https://i.postimg.cc/sXh4B0VX/tv-galinha-choca.png",
         "group": "Variedades",
@@ -1230,6 +1223,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
+      },
+      {
+        "name": "TV Petropolis",
+        "logo": "https://web2.petropolis.rj.gov.br/imc/film-commission/uploads/profissional/perfil/785b645d9c574b4d88504a85dbd6ef37.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
       },
       {
         "name": "TV Profissao",
@@ -1746,13 +1746,6 @@
         "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
       },
       {
-        "name": "TV A Folha",
-        "logo": "https://i.imgur.com/I7XGMhj.png",
-        "group": "Notícia",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
-      },
-      {
         "name": "TV Brusque",
         "logo": "https://i.imgur.com/J2EAZPS.png",
         "group": "Notícia",
@@ -1902,6 +1895,13 @@
         "group": "Entretenimento",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8"
+      },
+      {
+        "name": "TV Vicosa",
+        "logo": "https://i.imgur.com/TZF55f9.png",
+        "group": "Entretenimento",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
       },
       {
         "name": "TV Zoom",
@@ -2787,7 +2787,7 @@
         "logo": "http://24horas.cc:80/images/130da24b37426b482bcae01980ab6ea2.jpg",
         "group": "Canais de TV",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3MzEubTN1OA.m3u8"
+        "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3MzcubTN1OA.m3u8"
       },
       {
         "name": "Arquivo X",
@@ -4152,7 +4152,7 @@
         "logo": "http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg",
         "group": "Canais de TV",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzgwMDcubTN1OA.m3u8"
+        "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzgwMDgubTN1OA.m3u8"
       },
       {
         "name": "Garfield e Seus Amigos",
@@ -6714,7 +6714,7 @@
         "logo": "http://24horas.cc:80/images/ea9ea8a284ca4b765a45d033c9b7e476.jpg",
         "group": "Canais de TV",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY4MjgubTN1OA.m3u8"
+        "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY4MjcubTN1OA.m3u8"
       },
       {
         "name": "Solar Opposites",
@@ -6749,7 +6749,7 @@
         "logo": "http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg",
         "group": "Canais de TV",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwMzIubTN1OA.m3u8"
+        "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwMzEubTN1OA.m3u8"
       },
       {
         "name": "Space [4K]",
@@ -6840,14 +6840,14 @@
         "logo": "http://24horas.cc:80/images/9ae752c0c2d18ad9f9b1c3bd8ac2f8d4.jpg",
         "group": "Canais de TV",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNTkubTN1OA.m3u8"
+        "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNTgubTN1OA.m3u8"
       },
       {
         "name": "Star vs. As Forcas do Mal",
         "logo": "http://24horas.cc:80/images/dc45fadfffabb74c403ffe84085e5172.jpg",
         "group": "Canais de TV",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNjIubTN1OA.m3u8"
+        "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNjAubTN1OA.m3u8"
       },
       {
         "name": "Star Wars Rebels",
@@ -6952,7 +6952,7 @@
         "logo": "http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg",
         "group": "Canais de TV",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzY3MjYubTN1OA.m3u8"
+        "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzY3NDAubTN1OA.m3u8"
       },
       {
         "name": "Supernatural Academy",

@@ -6,6 +6,12 @@
     "img": "https://i.postimg.cc/63D86yTn/ag-tv.jpg"
   },
   {
+    "name": "BDC TV",
+    "type": "Recomendados",
+    "url": "https://video01.brascast.com/bdctv/bdctv/playlist.m3u8",
+    "img": "https://i.postimg.cc/D0Wwhpkn/bdc-tv.jpg"
+  },
+  {
     "name": "BS TV Online",
     "type": "Recomendados",
     "url": "https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8",
@@ -378,12 +384,6 @@
     "img": "https://www.ubplay.com.br/wp-content/uploads/sites/67/2025/10/capa-site-bemmelhor.png"
   },
   {
-    "name": "Boas Novas",
-    "type": "Variedades",
-    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
-    "img": "https://i.imgur.com/ZqhizdP.png"
-  },
-  {
     "name": "BS TV",
     "type": "Variedades",
     "url": "https://br5093.streamingdevideo.com.br:8081/bstv/bstv/playlist.m3u8",
@@ -406,12 +406,6 @@
     "type": "Variedades",
     "url": "http://45.162.64.114/CANAL_DO_BOI/index.m3u8",
     "img": "https://i.imgur.com/pVM5MhS.png"
-  },
-  {
-    "name": "Canal FDR",
-    "type": "Variedades",
-    "url": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8",
-    "img": "https://i.imgur.com/7SE4CkE.png"
   },
   {
     "name": "Canal Libras",
@@ -538,6 +532,12 @@
     "type": "Variedades",
     "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
     "img": "https://i.imgur.com/8PxpamC.png"
+  },
+  {
+    "name": "Fala Litoral",
+    "type": "Variedades",
+    "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
+    "img": "https://i.imgur.com/NF6PL8O.png"
   },
   {
     "name": "Já Viu TV",
@@ -948,12 +948,6 @@
     "img": "https://i.imgur.com/NtcoW6G.png"
   },
   {
-    "name": "TV Futuro",
-    "type": "Variedades",
-    "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8",
-    "img": "https://i.imgur.com/xonrNBf.png"
-  },
-  {
     "name": "TV GALINHA CHOCA",
     "type": "Variedades",
     "url": "https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8",
@@ -1048,6 +1042,12 @@
     "type": "Variedades",
     "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8",
     "img": "https://i.imgur.com/QFE6TiV.png"
+  },
+  {
+    "name": "TV Petropolis",
+    "type": "Variedades",
+    "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8",
+    "img": "https://web2.petropolis.rj.gov.br/imc/film-commission/uploads/profissional/perfil/785b645d9c574b4d88504a85dbd6ef37.png"
   },
   {
     "name": "TV Profissao",
@@ -1482,12 +1482,6 @@
     "img": "https://i.ibb.co/yTZgcyQ/timesbr.jpg"
   },
   {
-    "name": "TV A Folha",
-    "type": "Notícia",
-    "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
-    "img": "https://i.imgur.com/I7XGMhj.png"
-  },
-  {
     "name": "TV Brusque",
     "type": "Notícia",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
@@ -1612,6 +1606,12 @@
     "type": "Entretenimento",
     "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8",
     "img": "https://i.imgur.com/MTuErdw.png"
+  },
+  {
+    "name": "TV Vicosa",
+    "type": "Entretenimento",
+    "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
+    "img": "https://i.imgur.com/TZF55f9.png"
   },
   {
     "name": "TV Zoom",
@@ -2354,7 +2354,7 @@
   {
     "name": "Arquivo Morto",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3MzEubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzg3MzcubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/130da24b37426b482bcae01980ab6ea2.jpg"
   },
   {
@@ -3524,7 +3524,7 @@
   {
     "name": "Game Shakers",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzgwMDcubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzgwMDgubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/e1b30a8cf50dbe4b7da802f634c686b3.jpg"
   },
   {
@@ -5720,7 +5720,7 @@
   {
     "name": "Sob Nova Direcao",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY4MjgubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zMDY4MjcubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/ea9ea8a284ca4b765a45d033c9b7e476.jpg"
   },
   {
@@ -5750,7 +5750,7 @@
   {
     "name": "South Park",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwMzIubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwMzEubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/6199d612369be999c9730d63857d5541.jpg"
   },
   {
@@ -5828,13 +5828,13 @@
   {
     "name": "Star Trek Lower Decks",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNTkubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNTgubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/9ae752c0c2d18ad9f9b1c3bd8ac2f8d4.jpg"
   },
   {
     "name": "Star vs. As Forcas do Mal",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNjIubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcwNjAubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/dc45fadfffabb74c403ffe84085e5172.jpg"
   },
   {
@@ -5924,7 +5924,7 @@
   {
     "name": "Supernatural",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzY3MjYubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzY3NDAubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg"
   },
   {
