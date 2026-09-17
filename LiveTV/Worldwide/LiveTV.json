@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-17 00:39:43",
+  "date": "2026-09-17 07:37:19",
   "channels": {
     "Recomendados": [
       {
@@ -847,6 +847,13 @@
         "url": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8"
       },
       {
+        "name": "Rede SPTV",
+        "logo": "https://i.imgur.com/kh3LGAP.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8"
+      },
+      {
         "name": "Rede TV! Mais",
         "logo": "https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png",
         "group": "Variedades",
@@ -922,6 +929,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8"
+      },
+      {
+        "name": "SOU TV",
+        "logo": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
       },
       {
         "name": "TV 100% Caipira",
@@ -1244,6 +1258,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
+      },
+      {
+        "name": "TV Petropolis",
+        "logo": "https://web2.petropolis.rj.gov.br/imc/film-commission/uploads/profissional/perfil/785b645d9c574b4d88504a85dbd6ef37.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
       },
       {
         "name": "TV Profissao",
@@ -1662,13 +1683,6 @@
         "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
       },
       {
-        "name": "BR8 TV",
-        "logo": "https://i.ibb.co/1QZv2q1/Br8-fb-graph.png",
-        "group": "Notícia",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
-      },
-      {
         "name": "Canal 38",
         "logo": "https://i.imgur.com/co7TCWC.png",
         "group": "Notícia",
@@ -2024,6 +2038,13 @@
         "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
       },
       {
+        "name": "IMPD TV Worldwide",
+        "logo": "https://i.imgur.com/9dW3AUQ.png",
+        "group": "Religião",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://igrejamundial.nuvemplay.live/hls/stream.m3u8"
+      },
+      {
         "name": "Novo Tempo",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Religião",
@@ -2084,7 +2105,7 @@
         "logo": "https://i.imgur.com/iuoXchN.png",
         "group": "Religião",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://45.162.64.114/TV_PAI_ETERNO/index.m3u8"
+        "url": "https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8"
       },
       {
         "name": "TV Terceiro Anjo",
@@ -9121,10 +9142,17 @@
         "logo": "https://i.imgur.com/iuoXchN.png",
         "group": "Alternativos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://168.197.104.22/TV_PAI_ETERNO/index.m3u8"
+        "url": "http://45.162.64.114/TV_PAI_ETERNO/index.m3u8"
       },
       {
         "name": "TV Pai Eterno Alternativo 2",
+        "logo": "https://i.imgur.com/iuoXchN.png",
+        "group": "Alternativos",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "http://168.197.104.22/TV_PAI_ETERNO/index.m3u8"
+      },
+      {
+        "name": "TV Pai Eterno Alternativo 3",
         "logo": "https://i.imgur.com/iuoXchN.png",
         "group": "Alternativos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",

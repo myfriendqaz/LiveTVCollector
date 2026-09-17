@@ -720,6 +720,12 @@
     "img": "https://i.imgur.com/y9dqo3f.png"
   },
   {
+    "name": "Rede SPTV",
+    "type": "Variedades",
+    "url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8",
+    "img": "https://i.imgur.com/kh3LGAP.png"
+  },
+  {
     "name": "Rede TV! Mais",
     "type": "Variedades",
     "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
@@ -784,6 +790,12 @@
     "type": "Variedades",
     "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png"
+  },
+  {
+    "name": "SOU TV",
+    "type": "Variedades",
+    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8",
+    "img": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png"
   },
   {
     "name": "TV 100% Caipira",
@@ -1060,6 +1072,12 @@
     "type": "Variedades",
     "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8",
     "img": "https://i.imgur.com/QFE6TiV.png"
+  },
+  {
+    "name": "TV Petropolis",
+    "type": "Variedades",
+    "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8",
+    "img": "https://web2.petropolis.rj.gov.br/imc/film-commission/uploads/profissional/perfil/785b645d9c574b4d88504a85dbd6ef37.png"
   },
   {
     "name": "TV Profissao",
@@ -1410,12 +1428,6 @@
     "img": "https://i.imgur.com/pOUY2Uz.png"
   },
   {
-    "name": "BR8 TV",
-    "type": "Notícia",
-    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8",
-    "img": "https://i.ibb.co/1QZv2q1/Br8-fb-graph.png"
-  },
-  {
     "name": "Canal 38",
     "type": "Notícia",
     "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
@@ -1710,6 +1722,12 @@
     "img": "https://i.imgur.com/cQN3nWt.png"
   },
   {
+    "name": "IMPD TV Worldwide",
+    "type": "Religião",
+    "url": "https://igrejamundial.nuvemplay.live/hls/stream.m3u8",
+    "img": "https://i.imgur.com/9dW3AUQ.png"
+  },
+  {
     "name": "Novo Tempo",
     "type": "Religião",
     "url": "http://45.162.64.114/NOVO_TEMPO/index.m3u8",
@@ -1760,7 +1778,7 @@
   {
     "name": "TV Pai Eterno",
     "type": "Religião",
-    "url": "http://45.162.64.114/TV_PAI_ETERNO/index.m3u8",
+    "url": "https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8",
     "img": "https://i.imgur.com/iuoXchN.png"
   },
   {
@@ -7766,11 +7784,17 @@
   {
     "name": "TV Pai Eterno Alternativo 1",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/TV_PAI_ETERNO/index.m3u8",
+    "url": "http://45.162.64.114/TV_PAI_ETERNO/index.m3u8",
     "img": "https://i.imgur.com/iuoXchN.png"
   },
   {
     "name": "TV Pai Eterno Alternativo 2",
+    "type": "Alternativos",
+    "url": "http://168.197.104.22/TV_PAI_ETERNO/index.m3u8",
+    "img": "https://i.imgur.com/iuoXchN.png"
+  },
+  {
+    "name": "TV Pai Eterno Alternativo 3",
     "type": "Alternativos",
     "url": "http://186.219.52.187/pai_eterno/index.m3u8",
     "img": "https://i.imgur.com/iuoXchN.png"
