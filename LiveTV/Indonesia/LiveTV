@@ -7356,16 +7356,16 @@
     "img": "https://i.imgur.com/kPAlmra.jpg"
   },
   {
-    "name": "SPOTV (720p)",
-    "type": "Sports",
-    "url": "http://58.8.186.128:10006/bysid/2614",
-    "img": "https://i.imgur.com/HaoVsm5.png"
-  },
-  {
     "name": "SPOTV 2 (720p)",
     "type": "Sports",
     "url": "http://58.8.186.128:10006/bysid/2630",
     "img": "https://i.imgur.com/YD8fbTH.png"
+  },
+  {
+    "name": "SPOTV (720p)",
+    "type": "Sports",
+    "url": "http://58.8.186.128:10006/bysid/2614",
+    "img": "https://i.imgur.com/HaoVsm5.png"
   },
   {
     "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Sports\",TVRI Sport [Geo-blocked]",
@@ -8856,7 +8856,7 @@
     "img": "https://i.imgur.com/qzZFU6d.png"
   },
   {
-    "name": "VTV HD (1080p)",
+    "name": "VTV (Indonesia) HD (1080p)",
     "type": "Kids",
     "url": "http://ikitv.sqn.at:8000/play/a023/index.m3u8",
     "img": "https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png"
@@ -10356,7 +10356,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/960px-BN_Channel.png"
   },
   {
-    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"News\",BTV [Geo-blocked]",
+    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"News\",BTV (Indonesia) [Geo-blocked]",
     "type": "News",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"
@@ -32694,7 +32694,7 @@
     "img": "https://i.imgur.com/iYTimXh.png"
   },
   {
-    "name": "FTV (民視) (720p) [Not 24/7]",
+    "name": "FTV (Taiwan) (720p) [Not 24/7]",
     "type": "General",
     "url": "http://seb.sason.top/ptv/ftv.php?id=ms",
     "img": "https://i.imgur.com/q8ahtbT.png"
@@ -32712,7 +32712,7 @@
     "img": "https://hosting.renderforestsites.com/35126779/1657983/media/e1b4737ec68d96b27f713c034543d472.png"
   },
   {
-    "name": "GTV HD",
+    "name": "GTV (Indonesia) HD",
     "type": "General",
     "url": "https://mncmedia.malingtv.workers.dev/gtv.m3u8",
     "img": "https://i.imgur.com/jjuKnYs.png"
@@ -32778,7 +32778,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png"
   },
   {
-    "name": "KTV (720p)",
+    "name": "KTV (Indonesia) (720p)",
     "type": "General",
     "url": "https://flv.intechmedia.net/live/ch118.m3u8",
     "img": "https://i.imgur.com/j3wtaDc.png"
@@ -32814,12 +32814,6 @@
     "img": "https://i.imgur.com/EMmOvnQ.png"
   },
   {
-    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TVRI (480p) [Geo-blocked]",
-    "type": "General",
-    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
-  },
-  {
     "name": "TVRI Aceh (720p)",
     "type": "General",
     "url": "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
@@ -32844,6 +32838,36 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
   },
   {
+    "name": "TVRI Central Java (720p)",
+    "type": "General",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
+  },
+  {
+    "name": "TVRI Central Kalimantan (480p)",
+    "type": "General",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
+  },
+  {
+    "name": "TVRI Central Sulawesi (720p)",
+    "type": "General",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
+  },
+  {
+    "name": "TVRI East Kalimantan (720p)",
+    "type": "General",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
+  },
+  {
+    "name": "TVRI East Nusa Tenggara (480p)",
+    "type": "General",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
+  },
+  {
     "name": "TVRI Gorontalo (480p)",
     "type": "General",
     "url": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
@@ -32859,42 +32883,6 @@
     "name": "TVRI Jambi (720p) [Not 24/7]",
     "type": "General",
     "url": "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
-  },
-  {
-    "name": "TVRI Jawa Barat (480p)",
-    "type": "General",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
-  },
-  {
-    "name": "TVRI Jawa Tengah (720p)",
-    "type": "General",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
-  },
-  {
-    "name": "TVRI Kalimantan Barat (480p)",
-    "type": "General",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
-  },
-  {
-    "name": "TVRI Kalimantan Selatan (720p)",
-    "type": "General",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
-  },
-  {
-    "name": "TVRI Kalimantan Tengah (480p)",
-    "type": "General",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
-  },
-  {
-    "name": "TVRI Kalimantan Timur (720p)",
-    "type": "General",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
   },
   {
@@ -32922,18 +32910,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
   },
   {
-    "name": "TVRI Nusa Tenggara Barat (720p)",
-    "type": "General",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
-  },
-  {
-    "name": "TVRI Nusa Tenggara Timur (480p)",
-    "type": "General",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
-  },
-  {
     "name": "TVRI Papua (480p)",
     "type": "General",
     "url": "https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8",
@@ -32946,45 +32922,69 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
   },
   {
-    "name": "TVRI Sulawesi Barat (720p)",
+    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TVRI SD (480p) [Geo-blocked]",
     "type": "General",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8",
+    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
   },
   {
-    "name": "TVRI Sulawesi Selatan (480p)",
+    "name": "TVRI South Kalimantan (720p)",
+    "type": "General",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
+  },
+  {
+    "name": "TVRI South Sulawesi (480p)",
     "type": "General",
     "url": "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
   },
   {
-    "name": "TVRI Sulawesi Tengah (720p)",
+    "name": "TVRI South Sumatra (480p)",
     "type": "General",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
   },
   {
-    "name": "TVRI Sulawesi Tenggara (480p)",
+    "name": "TVRI Southeast Sulawesi (480p)",
     "type": "General",
     "url": "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
   },
   {
-    "name": "TVRI Sumatera Barat (720p)",
+    "name": "TVRI West Java (480p)",
     "type": "General",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
   },
   {
-    "name": "TVRI Sumatera Selatan (480p)",
+    "name": "TVRI West Kalimantan (480p)",
     "type": "General",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
+  },
+  {
+    "name": "TVRI West Nusa Tenggara (720p)",
+    "type": "General",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
   },
   {
     "name": "TVRI West Papua (1080p)",
     "type": "General",
     "url": "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
+  },
+  {
+    "name": "TVRI West Sulawesi (720p)",
+    "type": "General",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
+  },
+  {
+    "name": "TVRI West Sumatra (720p)",
+    "type": "General",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png"
   },
   {
@@ -33162,7 +33162,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png"
   },
   {
-    "name": "STV (720p) [Not 24/7]",
+    "name": "STV (Indonesia) (720p) [Not 24/7]",
     "type": "Undefined",
     "url": "http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8",
     "img": "https://i.imgur.com/EIrXgT8.png"
@@ -33198,7 +33198,7 @@
     "img": "https://i.imgur.com/qxkb0cy.png"
   },
   {
-    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Education\",Dens Learning & Knowledge [Geo-blocked]",
+    "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Education\",Dens Knowledge [Geo-blocked]",
     "type": "Education",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8",
     "img": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg"
