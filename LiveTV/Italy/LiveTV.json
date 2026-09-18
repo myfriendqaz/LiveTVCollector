@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-18 18:18:13",
+  "date": "2026-09-19 00:25:50",
   "channels": {
     "Entertainment": [
       {
@@ -17,7 +17,7 @@
         "url": "https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8"
       },
       {
-        "name": "20 Mediaset [Geo-blocked]",
+        "name": "20 [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -38,13 +38,6 @@
         "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8"
       },
       {
-        "name": "Catfish",
-        "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8"
-      },
-      {
         "name": "CG Entertainment",
         "logo": "https://i.imgur.com/XeWzy7e.png",
         "group": "Entertainment",
@@ -52,7 +45,7 @@
         "url": "https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8"
       },
       {
-        "name": "Geordie Shore",
+        "name": "Geordie Shore (Germany)",
         "logo": "https://images.pluto.tv/channels/619263ee9541940007d20d60/colorLogoPNG.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -115,6 +108,13 @@
         "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8"
       },
       {
+        "name": "MTV Catfish TV Show",
+        "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8"
+      },
+      {
         "name": "Passione Lotto (300p)",
         "logo": "https://i.imgur.com/jYmy4G5.png",
         "group": "Entertainment",
@@ -129,7 +129,7 @@
         "url": "https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8"
       },
       {
-        "name": "Teen Mom",
+        "name": "Teen Mom (Germany)",
         "logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -152,7 +152,7 @@
         "url": "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8"
       },
       {
-        "name": "70-80 TV (1080P)",
+        "name": "70-80 TV",
         "logo": "https://i.imgur.com/y4kNV3Q.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -194,13 +194,6 @@
         "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8"
       },
       {
-        "name": "Radio Freccia TV (1080p)",
-        "logo": "https://i.imgur.com/RxeRlar.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
-      },
-      {
         "name": "Radio Piter Pan TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/hbqVWV4.png",
         "group": "Music",
@@ -208,11 +201,18 @@
         "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8"
       },
       {
-        "name": "Radio Zeta TV (1080p)",
+        "name": "Radio Zeta (1080p)",
         "logo": "https://i.imgur.com/K2xLMin.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8"
+      },
+      {
+        "name": "Radiofreccia (1080p)",
+        "logo": "https://i.imgur.com/RxeRlar.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
       },
       {
         "name": "RTL 102.5 Best (1080p)",
@@ -243,7 +243,7 @@
         "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8"
       },
       {
-        "name": "RTL 102.5 Napulè (1080p)",
+        "name": "RTL 102.5 Napule (1080p)",
         "logo": "https://i.imgur.com/HFPw1YW.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -518,7 +518,7 @@
         "url": "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8"
       },
       {
-        "name": "Alto Adige TV (720p)",
+        "name": "AltoAdige TV (720p)",
         "logo": "https://i.imgur.com/yt7JJrn.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -546,7 +546,7 @@
         "url": "https://live.antennasudwebtv.it:9443/hls/vod92.m3u8"
       },
       {
-        "name": "Antenna Tre Veneto (480p) [Geo-blocked]",
+        "name": "Antenna Tre (480p) [Geo-blocked]",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -595,7 +595,7 @@
         "url": "http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8"
       },
       {
-        "name": "Canale 10 (540p) [Not 24/7]",
+        "name": "Canale Dieci (540p) [Not 24/7]",
         "logo": "https://i.imgur.com/8Pay0Vv.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -763,7 +763,7 @@
         "url": "https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8"
       },
       {
-        "name": "NTN (720p)",
+        "name": "NTN (Italy) (720p)",
         "logo": "https://i.imgur.com/AW5fJwa.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -784,7 +784,7 @@
         "url": "https://585b674743bbb.streamlock.net/9006/9006/master.m3u8"
       },
       {
-        "name": "Onda TV (568p)",
+        "name": "Onda TV (Italy) (568p)",
         "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -798,18 +798,18 @@
         "url": "https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8"
       },
       {
-        "name": "Prima TV Sicilia (720p)",
-        "logo": "https://i.imgur.com/HE9c8Sk.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
-      },
-      {
-        "name": "PrimaFree",
+        "name": "Prima Free",
         "logo": "https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8"
+      },
+      {
+        "name": "Prima TV (Italy) (720p)",
+        "logo": "https://i.imgur.com/HE9c8Sk.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
       },
       {
         "name": "PrimAntenna TV (720p)",
@@ -882,18 +882,18 @@
         "url": "https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8"
       },
       {
+        "name": "Super Six (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8"
+      },
+      {
         "name": "Super TV Oristano (720p) [Not 24/7]",
         "logo": "https://upload.wikimedia.org/wikipedia/it/2/22/Logosupertvoristano.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8"
-      },
-      {
-        "name": "SuperSix Lombardia (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8"
       },
       {
         "name": "T9 (288p)",
@@ -910,6 +910,13 @@
         "url": "https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8"
       },
       {
+        "name": "Tele Chiara (720p)",
+        "logo": "https://i.imgur.com/LpXeY4v.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8"
+      },
+      {
         "name": "Tele One 16",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "General",
@@ -922,13 +929,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://5cbd3bc28341f.streamlock.net:444/teleacras/live/playlist.m3u8"
-      },
-      {
-        "name": "Telechiara (720p)",
-        "logo": "https://i.imgur.com/LpXeY4v.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8"
       },
       {
         "name": "Telecity Lombardia (1080p)",
@@ -1001,46 +1001,9 @@
         "url": "https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8"
       }
     ],
-    "Movies;Series": [
-      {
-        "name": "27 TwentySeven [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png",
-        "group": "Movies;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8"
-      },
-      {
-        "name": "Mission Impossible",
-        "logo": "https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png",
-        "group": "Movies;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8"
-      },
-      {
-        "name": "Pluto TV Horror",
-        "logo": "https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png",
-        "group": "Movies;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8"
-      },
-      {
-        "name": "Pluto TV Sci-Fi",
-        "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-        "group": "Movies;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8"
-      },
-      {
-        "name": "Star Trek: Voyager",
-        "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
-        "group": "Movies;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8"
-      }
-    ],
     "Sports": [
       {
-        "name": "ACI Sport TV (1080p)",
+        "name": "ACI Sport TV SD (1080p)",
         "logo": "https://i.imgur.com/U8cHMOt.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -1061,7 +1024,7 @@
         "url": "https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8"
       },
       {
-        "name": "Inter TV (1080p)",
+        "name": "Inter TV (Italy) (1080p)",
         "logo": "https://i.imgur.com/FUTqh2L.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -1089,14 +1052,14 @@
         "url": "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8"
       },
       {
-        "name": "Pluto TV Snooker 900 (720p)",
+        "name": "Pluto TV Snooker 900 (Germany) IT (720p)",
         "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8"
       },
       {
-        "name": "Pluto TV Sport",
+        "name": "Pluto TV Sport (Germany)",
         "logo": "https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG_1746816937164.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -1124,18 +1087,18 @@
         "url": "https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8"
       },
       {
-        "name": "Sportitalia (1080p)",
-        "logo": "https://i.imgur.com/0CJGGgd.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8"
-      },
-      {
         "name": "Sportitalia 24 (720p) [Geo-blocked]",
         "logo": "https://i.imgur.com/RSwnoLn.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8"
+      },
+      {
+        "name": "Sportitalia (1080p)",
+        "logo": "https://i.imgur.com/0CJGGgd.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8"
       },
       {
         "name": "Sportitalia Motori (720p) [Geo-blocked]",
@@ -1511,14 +1474,14 @@
         "url": "https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8"
       },
       {
-        "name": "èTv Marche (720p)",
+        "name": "eTv Marche (720p)",
         "logo": "https://i.imgur.com/U6OW577.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8"
       },
       {
-        "name": "èTv Rete 7 (720p)",
+        "name": "eTv Rete 7 (720p)",
         "logo": "https://i.imgur.com/xYVI5OC.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -1574,13 +1537,6 @@
         "url": "https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8"
       },
       {
-        "name": "Tele Sondrio News (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/eE37h7Q.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8"
-      },
-      {
         "name": "Telegela 647",
         "logo": "https://i.imgur.com/ppkX45f.png",
         "group": "News",
@@ -1600,6 +1556,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8"
+      },
+      {
+        "name": "TSN TeleSondrio News (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/eE37h7Q.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8"
       },
       {
         "name": "tv9 Telemaremma (576p)",
@@ -1788,7 +1751,7 @@
         "url": "https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8"
       },
       {
-        "name": "Pluto TV Serie",
+        "name": "Pluto TV Serie IT",
         "logo": "https://images.pluto.tv/channels/5dc190f7bfed110009d934c3/colorLogoPNG.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -1862,14 +1825,14 @@
         "url": "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8"
       },
       {
-        "name": "Nick Jr. (720p)",
+        "name": "Nick Jr. (Italy) (720p)",
         "logo": "https://i.imgur.com/6p3eFgf.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "http://102.129.186.182:81/nick/index.m3u8"
       },
       {
-        "name": "Pluto TV Teen (720p)",
+        "name": "Pluto TV Teen IT (720p)",
         "logo": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -1927,14 +1890,14 @@
         "url": "https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8"
       },
       {
-        "name": "Euro TV (720p) [Not 24/7]",
+        "name": "Euro TV (Italy) (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/HFWWzKT.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8"
       },
       {
-        "name": "Italia 2 TV (480p) [Geo-blocked]",
+        "name": "Italia2TV (480p) [Geo-blocked]",
         "logo": "https://i.imgur.com/TDSgG28.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2130,7 +2093,7 @@
         "url": "http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8"
       },
       {
-        "name": "RTP (404p)",
+        "name": "RTP (Italy) (404p)",
         "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2151,7 +2114,7 @@
         "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8"
       },
       {
-        "name": "Sophia TV Italy (720p)",
+        "name": "Sophia TV (Italy) (720p)",
         "logo": "https://i.imgur.com/RPXusvS.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2165,7 +2128,7 @@
         "url": "https://stream1.aswifi.it/stereo5/live/index.m3u8"
       },
       {
-        "name": "Super J TV (720p)",
+        "name": "Super J TV Teramo (720p)",
         "logo": "https://i.imgur.com/H3uItqg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2184,13 +2147,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8"
-      },
-      {
-        "name": "Tele Pavia (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8"
       },
       {
         "name": "Tele Pegaso Catania (404p) [Not 24/7]",
@@ -2298,7 +2254,7 @@
         "url": "http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8"
       },
       {
-        "name": "Telenord (576p) [Not 24/7]",
+        "name": "Telenord (Italy) (576p) [Not 24/7]",
         "logo": "https://telenord.it/assets/images/logo.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2310,6 +2266,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8"
+      },
+      {
+        "name": "Telepavia (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8"
       },
       {
         "name": "Telesud Trapani (720p) [Not 24/7]",
@@ -2368,7 +2331,7 @@
         "url": "https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8"
       },
       {
-        "name": "TV Qui (Modena) (480p)",
+        "name": "TV Qui Modena (480p)",
         "logo": "https://i.imgur.com/YfMVNDE.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2389,7 +2352,7 @@
         "url": "https://stream1.aswifi.it/radioyes/live/index.m3u8"
       },
       {
-        "name": "TVA (Vicenza) (720p)",
+        "name": "TVA Vicenza (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/TVA_Vicenza_-_Logo_2018.svg/512px-TVA_Vicenza_-_Logo_2018.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2431,7 +2394,7 @@
         "url": "http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8"
       },
       {
-        "name": "Videolina (Sardegna) (404p) [Not 24/7]",
+        "name": "Videolina Sardegna (404p) [Not 24/7]",
         "logo": "https://i.imgur.com/nQwXaef.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2447,7 +2410,7 @@
     ],
     "Legislative": [
       {
-        "name": "Camera dei Deputati (via RR) (240p)",
+        "name": "Camera dei Deputati (240p)",
         "logo": "https://i.imgur.com/hv4zi9N.png",
         "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2470,14 +2433,14 @@
         "url": "https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8"
       },
       {
-        "name": "Juwelo Italia (480p)",
+        "name": "Juwelo (Italy) (480p)",
         "logo": "https://i.imgur.com/T3r1khc.png",
         "group": "Shop",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8"
       },
       {
-        "name": "QVC Italia (540p)",
+        "name": "QVC (Italy) (540p)",
         "logo": "https://i.imgur.com/6TWUVrh.png",
         "group": "Shop",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2493,7 +2456,7 @@
         "url": "https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8"
       },
       {
-        "name": "Dynasty",
+        "name": "Dynasty (Germany)",
         "logo": "https://images.pluto.tv/channels/65cb76ea11ced70008206b66/colorLogoPNG.png",
         "group": "Classic;Series",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2502,7 +2465,7 @@
     ],
     "Movies": [
       {
-        "name": "Cine 34 [Geo-blocked]",
+        "name": "Cine34 [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/960px-Cine34_logo.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2551,14 +2514,14 @@
         "url": "https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8"
       },
       {
-        "name": "Pluto TV Film",
+        "name": "Pluto TV Film (Germany)",
         "logo": "https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG_1733013735186.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8"
       },
       {
-        "name": "Pluto TV Film Ancora Più Romantici",
+        "name": "Pluto TV Film Ancora Piu Romantici",
         "logo": "https://images.pluto.tv/channels/699d87093d5dba980705cca8/colorLogoPNG_1777274173528.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2628,7 +2591,7 @@
         "url": "https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8"
       },
       {
-        "name": "Pluto TV Paranormal",
+        "name": "Pluto TV Paranormal (Germany) IT",
         "logo": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2642,14 +2605,14 @@
         "url": "https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8"
       },
       {
-        "name": "Pluto TV Totò",
+        "name": "Pluto TV Toto",
         "logo": "https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG_1774617972809.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8"
       },
       {
-        "name": "Pluto TV Western",
+        "name": "Pluto TV Western IT",
         "logo": "https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2779,7 +2742,7 @@
     ],
     "Comedy": [
       {
-        "name": "Failarmy",
+        "name": "FailArmy Italy",
         "logo": "https://i.imgur.com/VIpQJxL.png",
         "group": "Comedy",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2851,7 +2814,7 @@
     ],
     "Cooking;Lifestyle": [
       {
-        "name": "Gambero Rosso (720p)",
+        "name": "Gambero Rosso Channel (720p)",
         "logo": "https://i.imgur.com/x5cwb1q.png",
         "group": "Cooking;Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2874,7 +2837,7 @@
         "url": "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8"
       },
       {
-        "name": "Maria Vision (1080p)",
+        "name": "Maria Vision Italia (1080p)",
         "logo": "https://i.imgur.com/gP3XAlV.jpeg",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2930,7 +2893,7 @@
         "url": "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8"
       },
       {
-        "name": "TV 2000 (720p)",
+        "name": "TV2000 (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/960px-Logo_tv2000_2015.svg.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -2983,9 +2946,46 @@
         "url": "https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8"
       }
     ],
+    "Movies;Series": [
+      {
+        "name": "Mission Impossible (Germany) IT",
+        "logo": "https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8"
+      },
+      {
+        "name": "Pluto TV Horror (Germany) IT",
+        "logo": "https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8"
+      },
+      {
+        "name": "Pluto TV Sci-Fi (Germany) IT",
+        "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8"
+      },
+      {
+        "name": "Star Trek: Voyager (Germany) IT",
+        "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8"
+      },
+      {
+        "name": "Twentyseven [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8"
+      }
+    ],
     "Animation;Kids": [
       {
-        "name": "Mr. Bean Anime Italy (1080p)",
+        "name": "Mr Bean Animated IT (1080p)",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -3015,7 +3015,7 @@
         "url": "https://iptv.peer.biz/live/peertv-en.m3u8"
       },
       {
-        "name": "Peer TV Südtirol (1080p)",
+        "name": "Peer TV Sudtirol (1080p)",
         "logo": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png",
         "group": "Outdoor;Travel",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -3024,7 +3024,7 @@
     ],
     "Animation": [
       {
-        "name": "Pluto TV Anime",
+        "name": "Pluto TV Anime (Germany) IT",
         "logo": "https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png",
         "group": "Animation",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -3033,7 +3033,7 @@
     ],
     "Documentary;Series": [
       {
-        "name": "Pluto TV True Crime",
+        "name": "Pluto TV True Crime (Germany) IT",
         "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
         "group": "Documentary;Series",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -3069,7 +3069,7 @@
     ],
     "Animation;Comedy": [
       {
-        "name": "South Park",
+        "name": "South Park (Germany) IT",
         "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
         "group": "Animation;Comedy",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -3078,7 +3078,7 @@
     ],
     "General;Series": [
       {
-        "name": "Super TV (720p)",
+        "name": "Super TV (Italy) (720p)",
         "logo": "https://i.imgur.com/hxF3yhw.png",
         "group": "General;Series",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
@@ -3105,7 +3105,7 @@
     ],
     "Family": [
       {
-        "name": "The Pet Collective",
+        "name": "The Pet Collective Italy",
         "logo": "https://i.imgur.com/yH7n2dF.png",
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
