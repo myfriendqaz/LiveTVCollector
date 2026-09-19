@@ -3535,8 +3535,6 @@ https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RVtQTed.png" group-title="News",Makan 33 (1080p)
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jCZ5gFO.png" group-title="News",Relevant TV (1080p)
-https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Channel 13 (Israel) (1080p)
 http://stream.mcquack.net/295/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WLs67QI.png" group-title="General",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="General",Channel 24 (Israel) (1080p)
@@ -3553,6 +3551,8 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playli
 http://stream.mcquack.net/294/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iq2Kb69.png" group-title="General",Now 14 (1080p)
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/9055.png" group-title="General",Viva Premium (1080p)
+http://stream.mcquack.net/43/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel (Israel) (576p)
 http://str2.iptvhd.ru:8080/disney/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bScuilD.png" group-title="Kids",Hop! (1080p)
@@ -3583,5 +3583,9 @@ http://stream.mcquack.net/46/index.m3u8
 http://stream.mcquack.net/378/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QXB1jv8.png" group-title="Legislative",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Legislative",Knesset Channel (576p)
 http://stream.mcquack.net/48/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.g-cdn.app/streams/yes-reality-channel-il-hd.png" group-title="Entertainment",Reality Channel
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.g-cdn.app/streams/vacation-channel-il-hd.png" group-title="Entertainment",Vacation Channel
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZpUNou4.png" group-title="Travel",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Travel",RTG int.
 http://213.91.179.28:8000/play/a0bw

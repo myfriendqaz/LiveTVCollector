@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-19 00:23:27",
+  "date": "2026-09-19 08:49:45",
   "channels": {
     "VTV": [
       {
@@ -12465,13 +12465,6 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/il.m3u",
         "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8"
-      },
-      {
-        "name": "Relevant TV (1080p)",
-        "logo": "https://i.imgur.com/jCZ5gFO.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/il.m3u",
-        "url": "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8"
       }
     ],
     "General": [
@@ -12530,6 +12523,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/il.m3u",
         "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
+      },
+      {
+        "name": "Viva Premium (1080p)",
+        "logo": "https://cdn.epg.one/img2/9055.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/il.m3u",
+        "url": "http://stream.mcquack.net/43/index.m3u8"
       }
     ],
     "Kids": [
@@ -12647,6 +12647,22 @@
         "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/il.m3u",
         "url": "http://stream.mcquack.net/48/index.m3u8"
+      }
+    ],
+    "Entertainment": [
+      {
+        "name": "Reality Channel",
+        "logo": "https://static.g-cdn.app/streams/yes-reality-channel-il-hd.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/il.m3u",
+        "url": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8"
+      },
+      {
+        "name": "Vacation Channel",
+        "logo": "https://static.g-cdn.app/streams/vacation-channel-il-hd.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/il.m3u",
+        "url": "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8"
       }
     ],
     "Travel": [
