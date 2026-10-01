@@ -1452,6 +1452,12 @@
     "img": "https://i.imgur.com/Qbt6q4z.png"
   },
   {
+    "name": "Express News (576p)",
+    "type": "News",
+    "url": "http://51.75.127.199:3141/expressnews/index.m3u8",
+    "img": "https://i.imgur.com/5ggKrf1.png"
+  },
+  {
     "name": "News 21 Bangla TV",
     "type": "News",
     "url": "http://103.190.133.68:1935/news21live/live/playlist.m3u8",
@@ -6942,9 +6948,9 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png"
   },
   {
-    "name": "Star Jalsha (576p) [Geo-blocked]",
+    "name": "Star Jalsha (576p)",
     "type": "Entertainment",
-    "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+    "url": "http://51.75.127.199:3141/starjalsha/index.m3u8",
     "img": "https://i.imgur.com/IlufzR5.png"
   },
   {
@@ -6954,9 +6960,9 @@
     "img": "https://i.imgur.com/IlufzR5.png"
   },
   {
-    "name": "Zee Bangla HD (720p)",
+    "name": "Zee Bangla HD (1080p)",
     "type": "Entertainment",
-    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8",
+    "url": "http://51.75.127.199:3141/zeebanglahd/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
@@ -6996,10 +7002,10 @@
     "img": "https://i.imgur.com/tRrDh6z.png"
   },
   {
-    "name": "Matribhumi TV (720p)",
-    "type": "Undefined",
-    "url": "http://live.playmax.live/matribhumi/index.m3u8",
-    "img": "https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg"
+    "name": "Jalsha Movies (576p)",
+    "type": "Movies",
+    "url": "http://51.75.127.199:3141/jalshamovies/index.m3u8",
+    "img": "https://i.imgur.com/25eWjX2.png"
   },
   {
     "name": "Movie Bangla",
@@ -7008,9 +7014,27 @@
     "img": "https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681"
   },
   {
-    "name": "National Geographic (India) (576p) [Geo-blocked]",
+    "name": "Matribhumi TV (720p)",
+    "type": "Undefined",
+    "url": "http://live.playmax.live/matribhumi/index.m3u8",
+    "img": "https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg"
+  },
+  {
+    "name": "National Geographic (India) (576p)",
     "type": "Documentary",
-    "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
+    "url": "http://51.75.127.199:3141/natgeo/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "name": "National Geographic (India) HD (1080p)",
+    "type": "Documentary",
+    "url": "http://51.75.127.199:3141/natgeohd/index.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "name": "National Geographic Wild (India) (576p)",
+    "type": "Documentary",
+    "url": "http://51.75.127.199:3141/natgeowild/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png"
   }
 ]

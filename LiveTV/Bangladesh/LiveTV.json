@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-01 01:52:20",
+  "date": "2026-10-01 08:19:32",
   "channels": {
     "Welcome to PlayZ TV | New App": [
       {
@@ -1709,6 +1709,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
         "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8"
+      },
+      {
+        "name": "Express News (576p)",
+        "logo": "https://i.imgur.com/5ggKrf1.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "http://51.75.127.199:3141/expressnews/index.m3u8"
       },
       {
         "name": "News 21 Bangla TV",
@@ -8182,11 +8189,11 @@
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8"
       },
       {
-        "name": "Star Jalsha (576p) [Geo-blocked]",
+        "name": "Star Jalsha (576p)",
         "logo": "https://i.imgur.com/IlufzR5.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV"
+        "url": "http://51.75.127.199:3141/starjalsha/index.m3u8"
       },
       {
         "name": "Star Jalsha HD (720p)",
@@ -8196,11 +8203,11 @@
         "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8"
       },
       {
-        "name": "Zee Bangla HD (720p)",
+        "name": "Zee Bangla HD (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8"
+        "url": "http://51.75.127.199:3141/zeebanglahd/index.m3u8"
       },
       {
         "name": "Zee Bangla Sonar (576p)",
@@ -8249,6 +8256,22 @@
         "url": "https://tplay.live/out/bangladesh/ekhontv.index.m3u8"
       }
     ],
+    "Movies": [
+      {
+        "name": "Jalsha Movies (576p)",
+        "logo": "https://i.imgur.com/25eWjX2.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "http://51.75.127.199:3141/jalshamovies/index.m3u8"
+      },
+      {
+        "name": "Movie Bangla",
+        "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
+      }
+    ],
     "Undefined": [
       {
         "name": "Matribhumi TV (720p)",
@@ -8258,22 +8281,27 @@
         "url": "http://live.playmax.live/matribhumi/index.m3u8"
       }
     ],
-    "Movies": [
-      {
-        "name": "Movie Bangla",
-        "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
-      }
-    ],
     "Documentary": [
       {
-        "name": "National Geographic (India) (576p) [Geo-blocked]",
+        "name": "National Geographic (India) (576p)",
         "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
+        "url": "http://51.75.127.199:3141/natgeo/index.m3u8"
+      },
+      {
+        "name": "National Geographic (India) HD (1080p)",
+        "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "http://51.75.127.199:3141/natgeohd/index.m3u8"
+      },
+      {
+        "name": "National Geographic Wild (India) (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "http://51.75.127.199:3141/natgeowild/index.m3u8"
       }
     ]
   }

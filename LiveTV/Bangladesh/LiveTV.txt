@@ -422,9 +422,19 @@ Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playl
 --------------------------------------------------
 
 Group: Documentary
-Name: National Geographic (India) (576p) [Geo-blocked]
-URL: http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
+Name: National Geographic (India) (576p)
+URL: http://51.75.127.199:3141/natgeo/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540
+Source: https://iptv-org.github.io/iptv/countries/bd.m3u
+--------------------------------------------------
+Name: National Geographic (India) HD (1080p)
+URL: http://51.75.127.199:3141/natgeohd/index.m3u8
+Logo: https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540
+Source: https://iptv-org.github.io/iptv/countries/bd.m3u
+--------------------------------------------------
+Name: National Geographic Wild (India) (576p)
+URL: http://51.75.127.199:3141/natgeowild/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
 
@@ -651,8 +661,8 @@ URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoae
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
-Name: Star Jalsha (576p) [Geo-blocked]
-URL: http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV
+Name: Star Jalsha (576p)
+URL: http://51.75.127.199:3141/starjalsha/index.m3u8
 Logo: https://i.imgur.com/IlufzR5.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
@@ -661,8 +671,8 @@ URL: https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklis
 Logo: https://i.imgur.com/IlufzR5.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
-Name: Zee Bangla HD (720p)
-URL: https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+Name: Zee Bangla HD (1080p)
+URL: http://51.75.127.199:3141/zeebanglahd/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
@@ -3420,6 +3430,11 @@ Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playl
 --------------------------------------------------
 
 Group: Movies
+Name: Jalsha Movies (576p)
+URL: http://51.75.127.199:3141/jalshamovies/index.m3u8
+Logo: https://i.imgur.com/25eWjX2.png
+Source: https://iptv-org.github.io/iptv/countries/bd.m3u
+--------------------------------------------------
 Name: Movie Bangla
 URL: http://alvetv.com/moviebanglatv/8080/index.m3u8
 Logo: https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681
@@ -3677,6 +3692,11 @@ Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playl
 Name: DBC News (480p)
 URL: http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 Logo: https://i.imgur.com/Qbt6q4z.png
+Source: https://iptv-org.github.io/iptv/countries/bd.m3u
+--------------------------------------------------
+Name: Express News (576p)
+URL: http://51.75.127.199:3141/expressnews/index.m3u8
+Logo: https://i.imgur.com/5ggKrf1.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
 Name: News 21 Bangla TV
