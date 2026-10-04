@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000,RESOLUTION=1280x720
+https://live-prod-us-event-primary.global.ssl.fastly.net/evt/Channel-USEvt-AWS-virginia-2/Source-USEvt-10000-1-sdlg9j-BP-HD-4-W7WyphVQipuJ_live.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=800000,RESOLUTION=960x540
+https://live-prod-us-event-primary.global.ssl.fastly.net/evt/Channel-USEvt-AWS-virginia-2/Source-USEvt-10000-1-sdlg9j-BP-HD-5-ZVZBvS0LHXCz_live.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000,RESOLUTION=640x360
+https://live-prod-us-event-primary.global.ssl.fastly.net/evt/Channel-USEvt-AWS-virginia-2/Source-USEvt-10000-1-sdlg9j-BP-HD-6-32YnECOkhEFg_live.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=400000,RESOLUTION=480x272
+https://live-prod-us-event-primary.global.ssl.fastly.net/evt/Channel-USEvt-AWS-virginia-2/Source-USEvt-10000-1-sdlg9j-BP-HD-7-6RYqGCqkH9Hj_live.m3u8
