@@ -289,13 +289,13 @@ Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playl
 --------------------------------------------------
 
 Group: Bangladesh
-Name: ATN News
-URL: https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+Name: Ananda TV
+URL: https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Ananda TV
-URL: https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
+Name: ATN News
+URL: https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -314,8 +314,8 @@ URL: https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Ekattor TV
-URL: https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+Name: RTV
+URL: http://tvsen5.aynascope.net/RtvHD/tracks-v1a1/mono.ts.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -329,13 +329,13 @@ URL: https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Ekushe ETV
-URL: https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
+Name: Ekattor TV
+URL: https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: RTV
-URL: http://tvsen5.aynascope.net/RtvHD/tracks-v1a1/mono.ts.m3u8
+Name: Ekushe ETV
+URL: https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -411,6 +411,13 @@ Logo: https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
 
+Group: Culture
+Name: Channel S (Bangladesh)
+URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+Logo: https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png
+Source: https://iptv-org.github.io/iptv/countries/bd.m3u
+--------------------------------------------------
+
 Group: Documentary
 Name: National Geographic (India) (576p)
 URL: http://51.75.127.199:3141/natgeo/index.m3u8
@@ -424,6 +431,11 @@ Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
 Name: National Geographic Wild (India) (576p)
 URL: http://51.75.127.199:3141/natgeowild/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/bd.m3u
+--------------------------------------------------
+Name: National Geographic Wild (India) HD (1080p)
+URL: http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
@@ -652,13 +664,18 @@ Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
 Name: Star Jalsha (576p)
-URL: http://51.75.127.199:3141/starjalsha/index.m3u8
+URL: http://103.151.60.162:2122/play/a00w/index.m3u8?hls
 Logo: https://i.imgur.com/IlufzR5.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
 Name: Star Jalsha HD (720p)
 URL: https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 Logo: https://i.imgur.com/IlufzR5.png
+Source: https://iptv-org.github.io/iptv/countries/bd.m3u
+--------------------------------------------------
+Name: Zee Bangla (576p)
+URL: http://103.151.60.162:2122/play/a011/index.m3u8?hls
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
 Name: Zee Bangla HD (1080p)
@@ -3148,13 +3165,13 @@ Source: https://raw.githubusercontent.com/mhmimxl/filoox-bdix-selected/main/play
 --------------------------------------------------
 
 Group: India
-Name: Pardesi TV
-URL: http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+Name: Sony TV HD
+URL: http://premimum.online:80/live/jen12345/jen54321/98854.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Sony TV HD
-URL: http://premimum.online:80/live/jen12345/jen54321/98854.ts
+Name: Pardesi TV
+URL: http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -3356,6 +3373,11 @@ URL: https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
+Name: Disney International HD (576p)
+URL: http://103.151.60.162:2122/play/a018/index.m3u8?hls
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/bd.m3u
+--------------------------------------------------
 Name: Nick Jr. (India) (576p)
 URL: http://103.185.24.134:3001/NICK-JR/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png
@@ -3389,16 +3411,9 @@ Logo: https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
 
-Group: Live Event
-Name: Cyprus vs Latvia - 5 Oct 2026  [ENG] - UEFA Nations League 2026-27
-URL: https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791259107~acl=/*~id=39451119401998113741133492630293~hmac=2dcde14864ddb69b81e4ed33484742e5f0b04ca2751178741c1b3f2fe8c74d56
-Logo: https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826911383953_UNL2627_MD4_Cyprus_vs_Latvia_landscape_thumb.jpg
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-
 Group: Movies
-Name: Jalsha Movies (576p)
-URL: http://51.75.127.199:3141/jalshamovies/index.m3u8
+Name: Jalsha Movies HD (1080p)
+URL: http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
 Logo: https://i.imgur.com/25eWjX2.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
@@ -3929,12 +3944,12 @@ URL: https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 Logo: https://image.tsports.com/images/mobile_thumbnail/1761718928-1750064430-LIVE.jpg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: T Sports (1080p) (1) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2)
+Name: T Sports (1080p) (1) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2)
 URL: https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 Logo: https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: T Sports (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3)
+Name: T Sports (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3)
 URL: https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 Logo: https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
@@ -4119,13 +4134,13 @@ URL: https://hncfree-samsungau.amagi.tv/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Trace Sport
-URL: https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+Name: A Sports
+URL: https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: A Sports
-URL: https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
+Name: Trace Sport
+URL: https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5244,18 +5259,8 @@ Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
 
 Group: Unknown
-Name: Channel S
-URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
 Name: Deshi TV (720p)
 URL: https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: My TV
-URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5269,13 +5274,8 @@ URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Maasranga TV (720p)
-URL: http://tvsen5.aynascope.net/maasrangatv/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: RTV (720p)
-URL: http://tvsen5.aynascope.net/RtvHD/index.m3u8
+Name: My TV
+URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5284,13 +5284,23 @@ URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: RTV (720p)
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
+Name: NAN TV
+URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: NAN TV
-URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
+Name: RTV (720p)
+URL: http://tvsen5.aynascope.net/RtvHD/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Maasranga TV (720p)
+URL: http://tvsen5.aynascope.net/maasrangatv/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: RTV (720p)
+URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5299,18 +5309,8 @@ URL: https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: Duronto TV (720p)
-URL: https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Rajdhani TV (1080p)
-URL: https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
---------------------------------------------------
-Name: Maasranga TV (720p)
-URL: https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+Name: RTV (720p)
+URL: https://tvsen5.aynaott.com/RtvHD/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
@@ -5319,8 +5319,18 @@ URL: https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
-Name: RTV (720p)
-URL: https://tvsen5.aynaott.com/RtvHD/index.m3u8
+Name: Rajdhani TV (1080p)
+URL: https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Duronto TV (720p)
+URL: https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+--------------------------------------------------
+Name: Maasranga TV (720p)
+URL: https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 --------------------------------------------------
