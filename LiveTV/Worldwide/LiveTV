@@ -252,12 +252,6 @@
     "img": "https://rokuimagens.logicahost.com.br/logos/52tvbc.png"
   },
   {
-    "name": "Ultra TV",
-    "type": "Recomendados",
-    "url": "https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8",
-    "img": "https://i.postimg.cc/RhK7vDL2/ultra-tv.jpg"
-  },
-  {
     "name": "Wording TV",
     "type": "Recomendados",
     "url": "https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1527962150.m3u8",
@@ -396,6 +390,12 @@
     "img": "https://i.imgur.com/7SE4CkE.png"
   },
   {
+    "name": "Canal Sete",
+    "type": "Variedades",
+    "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8",
+    "img": "https://i.imgur.com/0cq0BPp.png"
+  },
+  {
     "name": "Canal UOL",
     "type": "Variedades",
     "url": "https://video24.mais.uol.com.br/live/6146.m3u8",
@@ -526,12 +526,6 @@
     "type": "Variedades",
     "url": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
     "img": "https://i.postimg.cc/76cC5fk1/lucas-tv-logo.jpg"
-  },
-  {
-    "name": "Mais Um",
-    "type": "Variedades",
-    "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
-    "img": "https://i.postimg.cc/NFWhnwMH/mais_um.jpg"
   },
   {
     "name": "MBC Brasil TV",
@@ -774,12 +768,6 @@
     "img": "https://i.postimg.cc/BvSXPFDQ/tvbraasil-angola.jpg"
   },
   {
-    "name": "TV Brasil Oeste",
-    "type": "Variedades",
-    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
-    "img": "https://i.imgur.com/noqGfuy.png"
-  },
-  {
     "name": "TV Brasil Sinop",
     "type": "Variedades",
     "url": "https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8",
@@ -868,12 +856,6 @@
     "type": "Variedades",
     "url": "http://45.162.64.114/GAZETA/index.m3u8",
     "img": "https://i.imgur.com/0sksWse.png"
-  },
-  {
-    "name": "TV Guara",
-    "type": "Variedades",
-    "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
-    "img": "https://i.imgur.com/8PErNBT.png"
   },
   {
     "name": "TV Justica",
@@ -1176,6 +1158,12 @@
     "img": "https://i.imgur.com/R0aflu1.png"
   },
   {
+    "name": "NickOnline Bob Esponja",
+    "type": "Animação",
+    "url": "https://bob.x1colegal.com/hls/stream.m3u8",
+    "img": "https://x1colegal.com/nickonlinebobesponja.png"
+  },
+  {
     "name": "AgroMais",
     "type": "Notícia",
     "url": "http://45.162.64.114/AGROMAIS/index.m3u8",
@@ -1342,6 +1330,12 @@
     "type": "Entretenimento",
     "url": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8",
     "img": "https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png"
+  },
+  {
+    "name": "Rede NGT",
+    "type": "Entretenimento",
+    "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8",
+    "img": "https://i.imgur.com/ZFN1R4B.png"
   },
   {
     "name": "TV Curuca",
@@ -2058,12 +2052,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg"
   },
   {
-    "name": "EUTV Alternativo 1",
-    "type": "Alternativos",
-    "url": "https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8",
-    "img": "https://i.imgur.com/8PxpamC.png"
-  },
-  {
     "name": "Fish TV Alternativo 1",
     "type": "Alternativos",
     "url": "http://168.197.104.22/FISH_TV/index.m3u8",
@@ -2156,23 +2144,17 @@
   {
     "name": "Record News Alternativo 2",
     "type": "Alternativos",
-    "url": "http://170.83.16.50/RECORD_NEWS/index.m3u8",
+    "url": "http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
   },
   {
     "name": "Record News Alternativo 3",
     "type": "Alternativos",
-    "url": "http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8",
-    "img": "https://i.imgur.com/HZDRG0K.png"
-  },
-  {
-    "name": "Record News Alternativo 4",
-    "type": "Alternativos",
     "url": "http://186.219.52.187/record_news/index.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
   },
   {
-    "name": "Record News Alternativo 5",
+    "name": "Record News Alternativo 4",
     "type": "Alternativos",
     "url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
     "img": "https://i.imgur.com/HZDRG0K.png"
