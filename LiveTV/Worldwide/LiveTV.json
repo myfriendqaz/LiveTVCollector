@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-07 08:32:18",
+  "date": "2026-10-07 20:20:04",
   "channels": {
     "Recomendados": [
       {
@@ -623,6 +623,13 @@
         "url": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8"
       },
       {
+        "name": "Mais Um",
+        "logo": "https://i.postimg.cc/NFWhnwMH/mais_um.jpg",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
+      },
+      {
         "name": "MBC Brasil TV",
         "logo": "https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775702325773-d10vtu076za.png",
         "group": "Variedades",
@@ -1008,6 +1015,13 @@
         "url": "http://45.162.64.114/GAZETA/index.m3u8"
       },
       {
+        "name": "TV Guara",
+        "logo": "https://i.imgur.com/8PErNBT.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
+      },
+      {
         "name": "TV Justica",
         "logo": "https://i.imgur.com/rOQKiMO.png",
         "group": "Variedades",
@@ -1104,13 +1118,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8"
-      },
-      {
-        "name": "TV Sul Bahia",
-        "logo": "https://i.imgur.com/qM6nMWm.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
       },
       {
         "name": "TV São Gabriel",
@@ -2451,6 +2458,13 @@
         "url": "http://186.219.52.187/zoomoo/index.m3u8"
       },
       {
+        "name": "EUTV Alternativo 1",
+        "logo": "https://i.imgur.com/8PxpamC.png",
+        "group": "Alternativos",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8"
+      },
+      {
         "name": "Fish TV Alternativo 1",
         "logo": "https://www.fishtv.com/public/site/images/logos/fishtv.svg",
         "group": "Alternativos",
@@ -2673,6 +2687,13 @@
         "group": "Alternativos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8"
+      },
+      {
+        "name": "SBT Nacional Alternativo 1",
+        "logo": "https://i.imgur.com/tc1ALuu.png",
+        "group": "Alternativos",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
       },
       {
         "name": "SBT News Alternativo 1",
