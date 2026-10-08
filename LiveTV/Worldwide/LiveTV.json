@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-08 08:48:52",
+  "date": "2026-10-08 20:30:54",
   "channels": {
     "Recomendados": [
       {
@@ -651,13 +651,6 @@
         "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8"
       },
       {
-        "name": "Nova TVI Petrópolis",
-        "logo": "https://pa-str.srvsite.com/arquivos/7140/cabecalho-7140-20240911033310.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stmv8.samcast.com.br/novatvi2098/novatvi2098/playlist.m3u8"
-      },
-      {
         "name": "NTV",
         "logo": "https://i.imgur.com/n79nkVC.png",
         "group": "Variedades",
@@ -1015,18 +1008,18 @@
         "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
       },
       {
+        "name": "TV Guarapari",
+        "logo": "https://i.imgur.com/eDNzwK0.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8"
+      },
+      {
         "name": "TV Justica",
         "logo": "https://i.imgur.com/rOQKiMO.png",
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://45.162.64.114/TV_JUSTICA/index.m3u8"
-      },
-      {
-        "name": "TV Litoral RN",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
       },
       {
         "name": "TV Mais Marica",
@@ -1371,13 +1364,6 @@
         "group": "Animação",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8"
-      },
-      {
-        "name": "NickOnline Bob Esponja",
-        "logo": "https://x1colegal.com/nickonlinebobesponja.png",
-        "group": "Animação",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://bob.x1colegal.com/hls/stream.m3u8"
       }
     ],
     "Notícia": [
@@ -2207,13 +2193,6 @@
         "group": "Religiosos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8"
-      },
-      {
-        "name": "Canaã News TV",
-        "logo": "https://i.postimg.cc/9fKggKJZ/cana-news.png",
-        "group": "Religiosos",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8"
       },
       {
         "name": "Rabelo",
