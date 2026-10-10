@@ -394,11 +394,6 @@ URL: http://170.83.16.50/SONY_MOVIES/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: SporTV 3 Alternativo 1
-URL: http://195.178.110.110/sportv3/index.m3u8
-Logo: https://i.imgur.com/mWOR8pi.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Terra Viva Alternativo 1
 URL: http://45.162.64.114/TERRAVIVA/index.m3u8
 Logo: https://i.imgur.com/wnYsE3O.png
@@ -848,7 +843,7 @@ Logo: https://i.imgur.com/pBiUnb2.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: SporTV 3
-URL: http://170.83.49.66:8083/SPORTV3HD/index.m3u8
+URL: http://195.178.110.110/sportv3/index.m3u8
 Logo: https://i.imgur.com/mWOR8pi.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -1140,6 +1135,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TV Moçambique
 URL: https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 Logo: https://i.postimg.cc/x8stbKJF/tv_mana_mocanbique.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: TV Zimbo
+URL: https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
+Logo: https://i.postimg.cc/VkS1V5jW/tv-zimbo.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TVG
@@ -1763,6 +1763,11 @@ URL: https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 Logo: https://i.imgur.com/I7XGMhj.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: TV Brusque
+URL: https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+Logo: https://i.imgur.com/J2EAZPS.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: TV Sim Cachoeiro
 URL: https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 Logo: https://i.imgur.com/t5oUK3C.png
@@ -2066,6 +2071,11 @@ URL: https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlis
 Logo: https://i.postimg.cc/4xKqKzxc/avivando-nacoes.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: Canaã News TV
+URL: https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
+Logo: https://i.postimg.cc/9fKggKJZ/cana-news.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Rabelo
 URL: https://s1.tvr.ovh/video10934/video10934/playlist.m3u8
 Logo: https://i.postimg.cc/kgRYS85n/tv-rabelo.jpg
@@ -2252,11 +2262,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Band
 URL: https://media.cdntvms.com.br/band_sat/index.m3u8
 Logo: https://i.imgur.com/1r5T6Pw.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Boas Novas
-URL: https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-Logo: https://i.imgur.com/ZqhizdP.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Canal 25 Jundiai
@@ -2699,11 +2704,6 @@ URL: http://45.162.64.114/TV_JUSTICA/index.m3u8
 Logo: https://i.imgur.com/rOQKiMO.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Litoral RN
-URL: https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: TV Mais Marica
 URL: https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 Logo: https://i.imgur.com/lgCRX7q.png
@@ -2792,11 +2792,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TVE Bahia
 URL: http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TVitape
-URL: https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-Logo: https://i.imgur.com/XeqcwKe.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TVNBN
