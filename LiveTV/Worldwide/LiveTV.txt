@@ -314,22 +314,22 @@ URL: http://186.219.52.187/seculo21/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Rede TV! Alternativo 1
+Name: Rede TV! SD Alternativo 1
 URL: http://168.197.104.22/REDE_TV/index.m3u8
 Logo: https://i.imgur.com/ZJgD38F.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Rede TV! Alternativo 2
+Name: Rede TV! SD Alternativo 2
 URL: http://170.83.16.50/REDE_TV/index.m3u8
 Logo: https://i.imgur.com/ZJgD38F.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Rede TV! Alternativo 3
+Name: Rede TV! SD Alternativo 3
 URL: http://170.83.49.66:8083/REDETVHD/index.m3u8
 Logo: https://i.imgur.com/ZJgD38F.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Rede TV! Alternativo 4
+Name: Rede TV! SD Alternativo 4
 URL: http://186.219.52.187/rede_tv/index.m3u8
 Logo: https://i.imgur.com/ZJgD38F.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
@@ -465,21 +465,16 @@ Logo: https://i.imgur.com/Sdou1Ab.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Cancao Nova Alternativo 1
-URL: http://45.162.64.114/CANCAO_NOVA/index.m3u8
-Logo: https://i.imgur.com/OaM9hkH.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TV Cancao Nova Alternativo 2
 URL: http://168.197.104.22/CANCAO_NOVA/index.m3u8
 Logo: https://i.imgur.com/OaM9hkH.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Cancao Nova Alternativo 3
+Name: TV Cancao Nova Alternativo 2
 URL: http://170.83.16.50/CANCAO_NOVA/index.m3u8
 Logo: https://i.imgur.com/OaM9hkH.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Cancao Nova Alternativo 4
+Name: TV Cancao Nova Alternativo 3
 URL: http://186.219.52.187/cancao_nova/index.m3u8
 Logo: https://i.imgur.com/OaM9hkH.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
@@ -783,11 +778,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TV Zoom
 URL: https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 Logo: https://i.imgur.com/jCGrjf5.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TV+Pet
-URL: https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
-Logo: https://www.tvmaispet.com.br/images/tvpet-logo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: UMA TV
@@ -1753,11 +1743,6 @@ URL: https://live.tcm10.com.br/tcm10hd/stream.m3u8
 Logo: https://i.imgur.com/aMuMVvB.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV A Folha
-URL: https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-Logo: https://i.imgur.com/I7XGMhj.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: TV Brusque
 URL: https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 Logo: https://i.imgur.com/J2EAZPS.png
@@ -2469,14 +2454,14 @@ URL: https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 Logo: https://i.imgur.com/kh3LGAP.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: Rede TV!
-URL: http://45.162.64.114/REDE_TV/index.m3u8
-Logo: https://i.imgur.com/ZJgD38F.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Rede TV! Mais
 URL: https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 Logo: https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: Rede TV! SD
+URL: http://45.162.64.114/REDE_TV/index.m3u8
+Logo: https://i.imgur.com/ZJgD38F.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Rede Vivax TV
@@ -2522,6 +2507,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Sony Channel
 URL: http://170.83.16.50/SONY_CHANNEL/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: SOU TV
+URL: https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
+Logo: https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV 100% Caipira
@@ -2590,7 +2580,7 @@ Logo: https://i.imgur.com/vLpm8tN.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Cancao Nova
-URL: https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+URL: http://45.162.64.114/CANCAO_NOVA/index.m3u8
 Logo: https://i.imgur.com/OaM9hkH.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2652,11 +2642,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TV Gazeta
 URL: http://45.162.64.114/GAZETA/index.m3u8
 Logo: https://i.imgur.com/0sksWse.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TV Guara
-URL: https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
-Logo: https://i.imgur.com/8PErNBT.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Guarapari
@@ -2752,6 +2737,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TVE Bahia
 URL: http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: TVitape
+URL: https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+Logo: https://i.imgur.com/XeqcwKe.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TVNBN

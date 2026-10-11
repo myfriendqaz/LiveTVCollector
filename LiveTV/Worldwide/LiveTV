@@ -618,16 +618,16 @@
     "img": "https://i.imgur.com/kh3LGAP.png"
   },
   {
-    "name": "Rede TV!",
-    "type": "Variedades",
-    "url": "http://45.162.64.114/REDE_TV/index.m3u8",
-    "img": "https://i.imgur.com/ZJgD38F.png"
-  },
-  {
     "name": "Rede TV! Mais",
     "type": "Variedades",
     "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
     "img": "https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png"
+  },
+  {
+    "name": "Rede TV! SD",
+    "type": "Variedades",
+    "url": "http://45.162.64.114/REDE_TV/index.m3u8",
+    "img": "https://i.imgur.com/ZJgD38F.png"
   },
   {
     "name": "Rede Vivax TV",
@@ -682,6 +682,12 @@
     "type": "Variedades",
     "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png"
+  },
+  {
+    "name": "SOU TV",
+    "type": "Variedades",
+    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8",
+    "img": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png"
   },
   {
     "name": "TV 100% Caipira",
@@ -764,7 +770,7 @@
   {
     "name": "TV Cancao Nova",
     "type": "Variedades",
-    "url": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8",
+    "url": "http://45.162.64.114/CANCAO_NOVA/index.m3u8",
     "img": "https://i.imgur.com/OaM9hkH.png"
   },
   {
@@ -838,12 +844,6 @@
     "type": "Variedades",
     "url": "http://45.162.64.114/GAZETA/index.m3u8",
     "img": "https://i.imgur.com/0sksWse.png"
-  },
-  {
-    "name": "TV Guara",
-    "type": "Variedades",
-    "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
-    "img": "https://i.imgur.com/8PErNBT.png"
   },
   {
     "name": "TV Guarapari",
@@ -958,6 +958,12 @@
     "type": "Variedades",
     "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png"
+  },
+  {
+    "name": "TVitape",
+    "type": "Variedades",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8",
+    "img": "https://i.imgur.com/XeqcwKe.png"
   },
   {
     "name": "TVNBN",
@@ -1218,12 +1224,6 @@
     "img": "https://i.imgur.com/aMuMVvB.png"
   },
   {
-    "name": "TV A Folha",
-    "type": "Notícia",
-    "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
-    "img": "https://i.imgur.com/I7XGMhj.png"
-  },
-  {
     "name": "TV Brusque",
     "type": "Notícia",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
@@ -1336,12 +1336,6 @@
     "type": "Entretenimento",
     "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
     "img": "https://i.imgur.com/jCGrjf5.png"
-  },
-  {
-    "name": "TV+Pet",
-    "type": "Entretenimento",
-    "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
-    "img": "https://www.tvmaispet.com.br/images/tvpet-logo.png"
   },
   {
     "name": "UMA TV",
@@ -2244,25 +2238,25 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Rede TV! Alternativo 1",
+    "name": "Rede TV! SD Alternativo 1",
     "type": "Alternativos",
     "url": "http://168.197.104.22/REDE_TV/index.m3u8",
     "img": "https://i.imgur.com/ZJgD38F.png"
   },
   {
-    "name": "Rede TV! Alternativo 2",
+    "name": "Rede TV! SD Alternativo 2",
     "type": "Alternativos",
     "url": "http://170.83.16.50/REDE_TV/index.m3u8",
     "img": "https://i.imgur.com/ZJgD38F.png"
   },
   {
-    "name": "Rede TV! Alternativo 3",
+    "name": "Rede TV! SD Alternativo 3",
     "type": "Alternativos",
     "url": "http://170.83.49.66:8083/REDETVHD/index.m3u8",
     "img": "https://i.imgur.com/ZJgD38F.png"
   },
   {
-    "name": "Rede TV! Alternativo 4",
+    "name": "Rede TV! SD Alternativo 4",
     "type": "Alternativos",
     "url": "http://186.219.52.187/rede_tv/index.m3u8",
     "img": "https://i.imgur.com/ZJgD38F.png"
@@ -2426,23 +2420,17 @@
   {
     "name": "TV Cancao Nova Alternativo 1",
     "type": "Alternativos",
-    "url": "http://45.162.64.114/CANCAO_NOVA/index.m3u8",
+    "url": "http://168.197.104.22/CANCAO_NOVA/index.m3u8",
     "img": "https://i.imgur.com/OaM9hkH.png"
   },
   {
     "name": "TV Cancao Nova Alternativo 2",
     "type": "Alternativos",
-    "url": "http://168.197.104.22/CANCAO_NOVA/index.m3u8",
-    "img": "https://i.imgur.com/OaM9hkH.png"
-  },
-  {
-    "name": "TV Cancao Nova Alternativo 3",
-    "type": "Alternativos",
     "url": "http://170.83.16.50/CANCAO_NOVA/index.m3u8",
     "img": "https://i.imgur.com/OaM9hkH.png"
   },
   {
-    "name": "TV Cancao Nova Alternativo 4",
+    "name": "TV Cancao Nova Alternativo 3",
     "type": "Alternativos",
     "url": "http://186.219.52.187/cancao_nova/index.m3u8",
     "img": "https://i.imgur.com/OaM9hkH.png"
