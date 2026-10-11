@@ -66,12 +66,6 @@
     "img": "https://i.postimg.cc/V6znXV4w/nsports.jpg"
   },
   {
-    "name": "ON TV",
-    "type": "Recomendados",
-    "url": "https://ikki.hubcloud.tv.br/OnTV/tracks-v1a1/mono.m3u8",
-    "img": "https://i.postimg.cc/Y9mq7Rhr/rede-on-tv.jpg"
-  },
-  {
     "name": "Os Detetives",
     "type": "Recomendados",
     "url": "https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8",
@@ -282,12 +276,6 @@
     "img": "https://i.postimg.cc/tTf06J3D/tvgazeta-logo.jpg"
   },
   {
-    "name": "Globo TV Morena MS",
-    "type": "TV Aberta",
-    "url": "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8",
-    "img": "https://i.postimg.cc/TY6wHCzf/redeglobo.jpg"
-  },
-  {
     "name": "Record",
     "type": "TV Aberta",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
@@ -304,12 +292,6 @@
     "type": "TV Aberta",
     "url": "https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/chunklist_w1641872797.m3u8",
     "img": "https://i.postimg.cc/cHDQddGC/rede-utvbrasil.png"
-  },
-  {
-    "name": "SBT (SP)",
-    "type": "TV Aberta",
-    "url": "https://media.cdntvms.com.br/sbt_sat/index.m3u8",
-    "img": "https://i.postimg.cc/3RkmXnVb/sbt.png"
   },
   {
     "name": "TV Cultura",
@@ -352,12 +334,6 @@
     "type": "Variedades",
     "url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
     "img": "https://i.postimg.cc/9XdkfK7s/awtv-logo.jpg"
-  },
-  {
-    "name": "Band",
-    "type": "Variedades",
-    "url": "https://media.cdntvms.com.br/band_sat/index.m3u8",
-    "img": "https://i.imgur.com/1r5T6Pw.png"
   },
   {
     "name": "Canal 25 Jundiai",
@@ -590,7 +566,7 @@
   {
     "name": "Record",
     "type": "Variedades",
-    "url": "https://media.cdntvms.com.br/record_nacional_sat/index.m3u8",
+    "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
     "img": "https://i.imgur.com/sz9gTTr.png"
   },
   {
@@ -706,12 +682,6 @@
     "type": "Variedades",
     "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png"
-  },
-  {
-    "name": "SOU TV",
-    "type": "Variedades",
-    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8",
-    "img": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png"
   },
   {
     "name": "TV 100% Caipira",
@@ -960,12 +930,6 @@
     "img": "https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png"
   },
   {
-    "name": "TV Sul Bahia",
-    "type": "Variedades",
-    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
-    "img": "https://i.imgur.com/qM6nMWm.png"
-  },
-  {
     "name": "TV São Gabriel",
     "type": "Variedades",
     "url": "https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/playlist.m3u8",
@@ -1170,12 +1134,6 @@
     "img": "https://i.imgur.com/R0aflu1.png"
   },
   {
-    "name": "NickOnline Bob Esponja",
-    "type": "Animação",
-    "url": "https://bob.x1colegal.com/hls/stream.m3u8",
-    "img": "https://x1colegal.com/nickonlinebobesponja.png"
-  },
-  {
     "name": "AgroMais",
     "type": "Notícia",
     "url": "http://45.162.64.114/AGROMAIS/index.m3u8",
@@ -1204,6 +1162,12 @@
     "type": "Notícia",
     "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8",
     "img": "https://i.imgur.com/G0x4xqa.png"
+  },
+  {
+    "name": "CNN Brasil",
+    "type": "Notícia",
+    "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png"
   },
   {
     "name": "GloboNews",
@@ -1878,12 +1842,6 @@
     "img": "https://i.postimg.cc/9fKggKJZ/cana-news.png"
   },
   {
-    "name": "Rabelo",
-    "type": "Religiosos",
-    "url": "https://s1.tvr.ovh/video10934/video10934/playlist.m3u8",
-    "img": "https://i.postimg.cc/kgRYS85n/tv-rabelo.jpg"
-  },
-  {
     "name": "Rede Super TV",
     "type": "Religiosos",
     "url": "https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8",
@@ -2200,12 +2158,6 @@
     "type": "Alternativos",
     "url": "https://isaocorp.cloudecast.com/playtv/index.m3u8",
     "img": "https://i.imgur.com/Ikrj3lk.png"
-  },
-  {
-    "name": "Record Alternativo 1",
-    "type": "Alternativos",
-    "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
-    "img": "https://i.imgur.com/sz9gTTr.png"
   },
   {
     "name": "Record News Alternativo 1",
