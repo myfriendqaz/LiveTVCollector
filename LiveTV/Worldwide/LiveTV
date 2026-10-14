@@ -24,12 +24,6 @@
     "img": "https://i.postimg.cc/JnTJzqd5/cazetv.jpg"
   },
   {
-    "name": "Gazeta Brasil",
-    "type": "Recomendados",
-    "url": "https://painel.redegazetabrasil.com.br/hls/canal1/index.m3u8",
-    "img": "https://i.postimg.cc/kGYKdhz1/canal-de-testes.jpg"
-  },
-  {
     "name": "Geekdot",
     "type": "Recomendados",
     "url": "https://stream.ichibansys.com:3764/hybrid/play.m3u8",
@@ -172,6 +166,12 @@
     "type": "Recomendados",
     "url": "https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8",
     "img": "https://i.postimg.cc/vZDMM775/tvcom.png"
+  },
+  {
+    "name": "TV Conecta",
+    "type": "Recomendados",
+    "url": "https://srv1954587.hstgr.cloud:8888/video01/index.m3u8",
+    "img": "https://i.postimg.cc/bYWc1jjz/tv-conecta.png"
   },
   {
     "name": "TV da Cidade Joinville",
@@ -546,12 +546,6 @@
     "img": "https://i.imgur.com/n79nkVC.png"
   },
   {
-    "name": "O Dia TV",
-    "type": "Variedades",
-    "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8",
-    "img": "https://i.imgur.com/1LUbAVP.png"
-  },
-  {
     "name": "Play TV",
     "type": "Variedades",
     "url": "http://45.162.64.114/PLAY_TV/index.m3u8",
@@ -712,6 +706,12 @@
     "type": "Variedades",
     "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8",
     "img": "https://i.imgur.com/rsfnv4Z.png"
+  },
+  {
+    "name": "TV Alianca Catarinense",
+    "type": "Variedades",
+    "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8",
+    "img": "https://i.imgur.com/eqmOhtP.png"
   },
   {
     "name": "TV Alternativa",
@@ -1536,24 +1536,6 @@
     "img": "https://i.ibb.co/WGXHDnF/logo-ge-fast.png"
   },
   {
-    "name": "SporTV",
-    "type": "Esportes",
-    "url": "http://195.178.110.110/sportv/index.m3u8",
-    "img": "https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png"
-  },
-  {
-    "name": "SporTV 2",
-    "type": "Esportes",
-    "url": "http://195.178.110.110/sportv2/index.m3u8",
-    "img": "https://i.imgur.com/pBiUnb2.png"
-  },
-  {
-    "name": "SporTV 3",
-    "type": "Esportes",
-    "url": "http://195.178.110.110/sportv3/index.m3u8",
-    "img": "https://i.imgur.com/mWOR8pi.png"
-  },
-  {
     "name": "KpopTV Play",
     "type": "Música",
     "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8",
@@ -2076,6 +2058,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg"
   },
   {
+    "name": "EUTV Alternativo 1",
+    "type": "Alternativos",
+    "url": "https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8",
+    "img": "https://i.imgur.com/8PxpamC.png"
+  },
+  {
     "name": "Fish TV Alternativo 1",
     "type": "Alternativos",
     "url": "http://168.197.104.22/FISH_TV/index.m3u8",
@@ -2085,12 +2073,6 @@
     "name": "Fish TV Alternativo 2",
     "type": "Alternativos",
     "url": "http://170.83.16.50/FISH_TV/index.m3u8",
-    "img": "https://www.fishtv.com/public/site/images/logos/fishtv.svg"
-  },
-  {
-    "name": "Fish TV Alternativo 3",
-    "type": "Alternativos",
-    "url": "http://190.128.214.97:64333/play/a006/index.m3u8",
     "img": "https://www.fishtv.com/public/site/images/logos/fishtv.svg"
   },
   {

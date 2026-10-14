@@ -7,8 +7,6 @@ https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnTJzqd5/cazetv.jpg" group-title="Recomendados",CazéTV
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGYKdhz1/canal-de-testes.jpg" group-title="Recomendados",Gazeta Brasil
-https://painel.redegazetabrasil.com.br/hls/canal1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1xygSJ5/geekdot.jpg" group-title="Recomendados",Geekdot
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzWCPpS6/gramado-tv.png" group-title="Recomendados",Gramado TV
@@ -57,6 +55,8 @@ https://video10.logicahost.com.br/cidadefarroupilha/cidadefarroupilha/playlist.m
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZDMM775/tvcom.png" group-title="Recomendados",TV Com
 https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYWc1jjz/tv-conecta.png" group-title="Recomendados",TV Conecta
+https://srv1954587.hstgr.cloud:8888/video01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7j5bqbB/tv-cidade-joinville.jpg" group-title="Recomendados",TV da Cidade Joinville
 https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJZcjPSP/tv-gazin.jpg" group-title="Recomendados",TV Gazin
@@ -181,8 +181,6 @@ http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 https://stmv8.samcast.com.br/novatvi2098/novatvi2098/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n79nkVC.png" group-title="Variedades",NTV
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1LUbAVP.png" group-title="Variedades",O Dia TV
-https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="Variedades",Play TV
 http://45.162.64.114/PLAY_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMptSP3.png" group-title="Variedades",Primer TV
@@ -237,6 +235,8 @@ https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rsfnv4Z.png" group-title="Variedades",TV Aldeia
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eqmOhtP.png" group-title="Variedades",TV Alianca Catarinense
+https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wM9xXhc.png" group-title="Variedades",TV Alternativa
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3395A2h.png" group-title="Variedades",TV Arapuan
@@ -511,12 +511,6 @@ http://181.78.197.59:8000/play/a081/index.m3u8
 http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WGXHDnF/logo-ge-fast.png" group-title="Esportes",ge Fast
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="Esportes",SporTV
-http://195.178.110.110/sportv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pBiUnb2.png" group-title="Esportes",SporTV 2
-http://195.178.110.110/sportv2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mWOR8pi.png" group-title="Esportes",SporTV 3
-http://195.178.110.110/sportv3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Música",KpopTV Play
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CDPCF2X.png" group-title="Música",Music Box Brazil
@@ -691,12 +685,12 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m
 http://168.197.104.22/ZOOMOO/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="Alternativos",DumDum Alternativo 2
 http://186.219.52.187/zoomoo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="Alternativos",EUTV Alternativo 1
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" group-title="Alternativos",Fish TV Alternativo 1
 http://168.197.104.22/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" group-title="Alternativos",Fish TV Alternativo 2
 http://170.83.16.50/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" group-title="Alternativos",Fish TV Alternativo 3
-http://190.128.214.97:64333/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7q2BmNc.png" group-title="Alternativos",Fonte TV Alternativo 1
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png" group-title="Alternativos",Futura Alternativo 1
