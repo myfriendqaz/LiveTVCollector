@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-14 18:38:41",
+  "date": "2026-10-15 01:17:46",
   "channels": {
     "Recomendados": [
       {
@@ -29,6 +29,13 @@
         "group": "Recomendados",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8"
+      },
+      {
+        "name": "Gazeta Brasil",
+        "logo": "https://i.postimg.cc/kGYKdhz1/canal-de-testes.jpg",
+        "group": "Recomendados",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://painel.redegazetabrasil.com.br/hls/canal1/index.m3u8"
       },
       {
         "name": "Geekdot",
@@ -644,6 +651,13 @@
         "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
       },
       {
+        "name": "O Dia TV",
+        "logo": "https://i.imgur.com/1LUbAVP.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
+      },
+      {
         "name": "Play TV",
         "logo": "https://i.imgur.com/Ikrj3lk.png",
         "group": "Variedades",
@@ -882,6 +896,13 @@
         "url": "https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8"
       },
       {
+        "name": "TV Brasil Oeste",
+        "logo": "https://i.imgur.com/noqGfuy.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+      },
+      {
         "name": "TV Brasil Sinop",
         "logo": "https://i.postimg.cc/fWYmFj7D/tv_brasil_sinop.jpg",
         "group": "Variedades",
@@ -978,13 +999,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://45.162.64.114/GAZETA/index.m3u8"
-      },
-      {
-        "name": "TV Guara",
-        "logo": "https://i.imgur.com/8PErNBT.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
       },
       {
         "name": "TV Guarapari",
@@ -2456,13 +2470,6 @@
         "group": "Alternativos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://186.219.52.187/zoomoo/index.m3u8"
-      },
-      {
-        "name": "EUTV Alternativo 1",
-        "logo": "https://i.imgur.com/8PxpamC.png",
-        "group": "Alternativos",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8"
       },
       {
         "name": "Fish TV Alternativo 1",
