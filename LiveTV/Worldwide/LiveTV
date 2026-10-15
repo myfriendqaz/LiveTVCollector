@@ -384,12 +384,6 @@
     "img": "https://i.imgur.com/7SE4CkE.png"
   },
   {
-    "name": "Canal Sete",
-    "type": "Variedades",
-    "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8",
-    "img": "https://i.imgur.com/0cq0BPp.png"
-  },
-  {
     "name": "Canal UOL",
     "type": "Variedades",
     "url": "https://video24.mais.uol.com.br/live/6146.m3u8",
@@ -484,6 +478,12 @@
     "type": "Variedades",
     "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
     "img": "https://i.imgur.com/8PxpamC.png"
+  },
+  {
+    "name": "Fala Litoral",
+    "type": "Variedades",
+    "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
+    "img": "https://i.imgur.com/NF6PL8O.png"
   },
   {
     "name": "Globoplay Novelas",
@@ -696,12 +696,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png"
   },
   {
-    "name": "SOU TV",
-    "type": "Variedades",
-    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8",
-    "img": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png"
-  },
-  {
     "name": "TV 100% Caipira",
     "type": "Variedades",
     "url": "https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8",
@@ -808,12 +802,6 @@
     "type": "Variedades",
     "url": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=",
     "img": "https://i.imgur.com/uxefHY3.png"
-  },
-  {
-    "name": "TV Cruzeiro do Brasil",
-    "type": "Variedades",
-    "url": "https://stmv2.voxtvhd.com.br/joao1366/joao1366/playlist.m3u8?1789135064",
-    "img": "https://i.postimg.cc/02RwkYfs/tv-cruzeirobrasil.png"
   },
   {
     "name": "TV Cultural [HD]",
@@ -1152,6 +1140,12 @@
     "img": "https://i.imgur.com/R0aflu1.png"
   },
   {
+    "name": "NickOnline Bob Esponja",
+    "type": "Animação",
+    "url": "https://bob.x1colegal.com/hls/stream.m3u8",
+    "img": "https://x1colegal.com/nickonlinebobesponja.png"
+  },
+  {
     "name": "AgroMais",
     "type": "Notícia",
     "url": "http://45.162.64.114/AGROMAIS/index.m3u8",
@@ -1174,12 +1168,6 @@
     "type": "Notícia",
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8",
     "img": "https://i.imgur.com/pOUY2Uz.png"
-  },
-  {
-    "name": "Canal 38",
-    "type": "Notícia",
-    "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
-    "img": "https://i.imgur.com/co7TCWC.png"
   },
   {
     "name": "Canal Metropolitano de Noticias",
@@ -1842,10 +1830,10 @@
     "img": "https://i.postimg.cc/4xKqKzxc/avivando-nacoes.png"
   },
   {
-    "name": "Rede Super TV",
+    "name": "Canaã News TV",
     "type": "Religiosos",
-    "url": "https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8",
-    "img": "https://i.postimg.cc/KzBqPDvc/rede-supertv.jpg"
+    "url": "https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8",
+    "img": "https://i.postimg.cc/9fKggKJZ/cana-news.png"
   },
   {
     "name": "Rede Vida",
