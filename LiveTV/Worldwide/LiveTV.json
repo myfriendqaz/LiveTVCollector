@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-15 07:37:57",
+  "date": "2026-10-15 18:24:56",
   "channels": {
     "Recomendados": [
       {
@@ -36,6 +36,13 @@
         "group": "Recomendados",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://painel.redegazetabrasil.com.br/hls/canal1/index.m3u8"
+      },
+      {
+        "name": "Geekdot",
+        "logo": "https://i.postimg.cc/T1xygSJ5/geekdot.jpg",
+        "group": "Recomendados",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://stream.ichibansys.com:3764/hybrid/play.m3u8"
       },
       {
         "name": "Gramado TV",
@@ -406,6 +413,13 @@
         "url": "https://awtv.nuvemplay.live/hls/stream.m3u8"
       },
       {
+        "name": "Boas Novas",
+        "logo": "https://i.imgur.com/ZqhizdP.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+      },
+      {
         "name": "Canal 25 Jundiai",
         "logo": "https://i.imgur.com/7igGMwH.png",
         "group": "Variedades",
@@ -593,6 +607,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8"
+      },
+      {
+        "name": "Mais Um",
+        "logo": "https://i.postimg.cc/NFWhnwMH/mais_um.jpg",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
       },
       {
         "name": "MBC Brasil TV",
@@ -798,6 +819,13 @@
         "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8"
       },
       {
+        "name": "SOU TV",
+        "logo": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
+      },
+      {
         "name": "TV 100% Caipira",
         "logo": "https://i.postimg.cc/c1wbFHtp/tv-caipira.jpg",
         "group": "Variedades",
@@ -893,7 +921,7 @@
         "logo": "https://i.imgur.com/OaM9hkH.png",
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8"
+        "url": "http://45.162.64.114/CANCAO_NOVA/index.m3u8"
       },
       {
         "name": "TV Carioca",
@@ -971,6 +999,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://45.162.64.114/GAZETA/index.m3u8"
+      },
+      {
+        "name": "TV Guara",
+        "logo": "https://i.imgur.com/8PErNBT.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
       },
       {
         "name": "TV Guarapari",
@@ -2518,10 +2553,17 @@
         "logo": "https://i.imgur.com/Ikrj3lk.png",
         "group": "Alternativos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://168.197.104.22/PLAY_TV/index.m3u8"
+        "url": "http://45.177.114.115/PLAY_TV/index.m3u8"
       },
       {
         "name": "Play TV Alternativo 2",
+        "logo": "https://i.imgur.com/Ikrj3lk.png",
+        "group": "Alternativos",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "http://168.197.104.22/PLAY_TV/index.m3u8"
+      },
+      {
+        "name": "Play TV Alternativo 3",
         "logo": "https://i.imgur.com/Ikrj3lk.png",
         "group": "Alternativos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
@@ -2854,24 +2896,17 @@
         "logo": "https://i.imgur.com/OaM9hkH.png",
         "group": "Alternativos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://45.162.64.114/CANCAO_NOVA/index.m3u8"
+        "url": "http://168.197.104.22/CANCAO_NOVA/index.m3u8"
       },
       {
         "name": "TV Cancao Nova Alternativo 2",
         "logo": "https://i.imgur.com/OaM9hkH.png",
         "group": "Alternativos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://168.197.104.22/CANCAO_NOVA/index.m3u8"
-      },
-      {
-        "name": "TV Cancao Nova Alternativo 3",
-        "logo": "https://i.imgur.com/OaM9hkH.png",
-        "group": "Alternativos",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://170.83.16.50/CANCAO_NOVA/index.m3u8"
       },
       {
-        "name": "TV Cancao Nova Alternativo 4",
+        "name": "TV Cancao Nova Alternativo 3",
         "logo": "https://i.imgur.com/OaM9hkH.png",
         "group": "Alternativos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
