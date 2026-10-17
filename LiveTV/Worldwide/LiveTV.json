@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-17 07:23:18",
+  "date": "2026-10-17 23:30:06",
   "channels": {
     "Recomendados": [
       {
@@ -71,13 +71,6 @@
         "group": "Recomendados",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8"
-      },
-      {
-        "name": "N Sports",
-        "logo": "https://i.postimg.cc/V6znXV4w/nsports.jpg",
-        "group": "Recomendados",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8"
       },
       {
         "name": "ON TV",
@@ -290,11 +283,11 @@
         "url": "https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8"
       },
       {
-        "name": "TV Tudo",
-        "logo": "https://i.postimg.cc/bJ8ZhTGZ/tv-tudo.jpg",
+        "name": "TV+ News",
+        "logo": "https://i.postimg.cc/t47nvJ2j/tvmais_news.jpg",
         "group": "Recomendados",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8"
+        "url": "https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8"
       },
       {
         "name": "TVBC",
@@ -345,7 +338,7 @@
         "logo": "https://i.postimg.cc/TY6wHCzf/redeglobo.jpg",
         "group": "TV Aberta",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globosp.m3u8"
+        "url": "https://origin-01.bariguitelecom.com.br/GLOBO_RPC/index.m3u8"
       },
       {
         "name": "Record",
@@ -579,6 +572,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
+      },
+      {
+        "name": "Fala Litoral",
+        "logo": "https://i.imgur.com/NF6PL8O.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
       },
       {
         "name": "Globoplay Novelas",
@@ -840,13 +840,6 @@
         "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8"
       },
       {
-        "name": "SOU TV",
-        "logo": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-      },
-      {
         "name": "TV 100% Caipira",
         "logo": "https://i.postimg.cc/c1wbFHtp/tv-caipira.jpg",
         "group": "Variedades",
@@ -873,13 +866,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
-      },
-      {
-        "name": "TV Alianca Catarinense",
-        "logo": "https://i.imgur.com/eqmOhtP.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8"
       },
       {
         "name": "TV Alternativa",
@@ -932,7 +918,7 @@
       },
       {
         "name": "TV Brasil Sinop",
-        "logo": "https://i.postimg.cc/fWYmFj7D/tv_brasil_sinop.jpg",
+        "logo": "https://i.postimg.cc/VvJSKWZ2/1002663005-logo-2.jpg",
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8"
@@ -992,6 +978,20 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8"
+      },
+      {
+        "name": "TV Diario Macapa",
+        "logo": "https://i.imgur.com/yAW2Z5j.jpg",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8"
+      },
+      {
+        "name": "TV Difusao",
+        "logo": "https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px_doiivZN.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8"
       },
       {
         "name": "TV Fronteira",
@@ -1492,13 +1492,6 @@
         "group": "Notícia",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
-      },
-      {
-        "name": "TV A Folha",
-        "logo": "https://i.imgur.com/I7XGMhj.png",
-        "group": "Notícia",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
       },
       {
         "name": "TV Brusque",
@@ -2219,13 +2212,6 @@
         "group": "Religiosos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8"
-      },
-      {
-        "name": "Canaã News TV",
-        "logo": "https://i.postimg.cc/9fKggKJZ/cana-news.png",
-        "group": "Religiosos",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8"
       },
       {
         "name": "Rede Super TV",

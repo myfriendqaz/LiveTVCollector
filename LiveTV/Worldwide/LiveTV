@@ -60,12 +60,6 @@
     "img": "https://i.postimg.cc/5tBsBfWb/lamore-web-show.jpg"
   },
   {
-    "name": "N Sports",
-    "type": "Recomendados",
-    "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8",
-    "img": "https://i.postimg.cc/V6znXV4w/nsports.jpg"
-  },
-  {
     "name": "ON TV",
     "type": "Recomendados",
     "url": "https://ikki.hubcloud.tv.br/OnTV/tracks-v1a1/mono.m3u8",
@@ -246,10 +240,10 @@
     "img": "https://i.postimg.cc/d3x0zNSc/tvolhodagua.jpg"
   },
   {
-    "name": "TV Tudo",
+    "name": "TV+ News",
     "type": "Recomendados",
-    "url": "https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8",
-    "img": "https://i.postimg.cc/bJ8ZhTGZ/tv-tudo.jpg"
+    "url": "https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8",
+    "img": "https://i.postimg.cc/t47nvJ2j/tvmais_news.jpg"
   },
   {
     "name": "TVBC",
@@ -290,7 +284,7 @@
   {
     "name": "Globo TV (SP)",
     "type": "TV Aberta",
-    "url": "https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globosp.m3u8",
+    "url": "https://origin-01.bariguitelecom.com.br/GLOBO_RPC/index.m3u8",
     "img": "https://i.postimg.cc/TY6wHCzf/redeglobo.jpg"
   },
   {
@@ -490,6 +484,12 @@
     "type": "Variedades",
     "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
     "img": "https://i.imgur.com/8PxpamC.png"
+  },
+  {
+    "name": "Fala Litoral",
+    "type": "Variedades",
+    "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
+    "img": "https://i.imgur.com/NF6PL8O.png"
   },
   {
     "name": "Globoplay Novelas",
@@ -714,12 +714,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png"
   },
   {
-    "name": "SOU TV",
-    "type": "Variedades",
-    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8",
-    "img": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png"
-  },
-  {
     "name": "TV 100% Caipira",
     "type": "Variedades",
     "url": "https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8",
@@ -742,12 +736,6 @@
     "type": "Variedades",
     "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8",
     "img": "https://i.imgur.com/rsfnv4Z.png"
-  },
-  {
-    "name": "TV Alianca Catarinense",
-    "type": "Variedades",
-    "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8",
-    "img": "https://i.imgur.com/eqmOhtP.png"
   },
   {
     "name": "TV Alternativa",
@@ -795,7 +783,7 @@
     "name": "TV Brasil Sinop",
     "type": "Variedades",
     "url": "https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8",
-    "img": "https://i.postimg.cc/fWYmFj7D/tv_brasil_sinop.jpg"
+    "img": "https://i.postimg.cc/VvJSKWZ2/1002663005-logo-2.jpg"
   },
   {
     "name": "TV BRICS Portuguese",
@@ -844,6 +832,18 @@
     "type": "Variedades",
     "url": "https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8",
     "img": "https://i.postimg.cc/yNv6z14Q/tv-cultura-hd.jpg"
+  },
+  {
+    "name": "TV Diario Macapa",
+    "type": "Variedades",
+    "url": "https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8",
+    "img": "https://i.imgur.com/yAW2Z5j.jpg"
+  },
+  {
+    "name": "TV Difusao",
+    "type": "Variedades",
+    "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8",
+    "img": "https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px_doiivZN.png"
   },
   {
     "name": "TV Fronteira",
@@ -1264,12 +1264,6 @@
     "type": "Notícia",
     "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
     "img": "https://i.imgur.com/aMuMVvB.png"
-  },
-  {
-    "name": "TV A Folha",
-    "type": "Notícia",
-    "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
-    "img": "https://i.imgur.com/I7XGMhj.png"
   },
   {
     "name": "TV Brusque",
@@ -1858,12 +1852,6 @@
     "type": "Religiosos",
     "url": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8",
     "img": "https://i.postimg.cc/4xKqKzxc/avivando-nacoes.png"
-  },
-  {
-    "name": "Canaã News TV",
-    "type": "Religiosos",
-    "url": "https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8",
-    "img": "https://i.postimg.cc/9fKggKJZ/cana-news.png"
   },
   {
     "name": "Rede Super TV",
