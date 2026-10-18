@@ -252,6 +252,12 @@
     "img": "https://rokuimagens.logicahost.com.br/logos/52tvbc.png"
   },
   {
+    "name": "Ultra TV",
+    "type": "Recomendados",
+    "url": "https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8",
+    "img": "https://i.postimg.cc/RhK7vDL2/ultra-tv.jpg"
+  },
+  {
     "name": "Viva a Vida TV",
     "type": "Recomendados",
     "url": "https://stmv1.srvif.com/vivavida/vivavida/playlist.m3u8",
@@ -346,12 +352,6 @@
     "type": "Variedades",
     "url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
     "img": "https://i.postimg.cc/9XdkfK7s/awtv-logo.jpg"
-  },
-  {
-    "name": "Boas Novas",
-    "type": "Variedades",
-    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
-    "img": "https://i.imgur.com/ZqhizdP.png"
   },
   {
     "name": "Canal 25 Jundiai",
@@ -484,12 +484,6 @@
     "type": "Variedades",
     "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
     "img": "https://i.imgur.com/8PxpamC.png"
-  },
-  {
-    "name": "Fala Litoral",
-    "type": "Variedades",
-    "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
-    "img": "https://i.imgur.com/NF6PL8O.png"
   },
   {
     "name": "Globoplay Novelas",
@@ -906,6 +900,12 @@
     "img": "https://i.imgur.com/wqQmQml.png"
   },
   {
+    "name": "TV Novelas",
+    "type": "Variedades",
+    "url": "https://stmv8.samcast.com.br/lucas7869/lucas7869/playlist.m3u8",
+    "img": "https://i.postimg.cc/T16pj5WG/tv-novelas.png"
+  },
+  {
     "name": "TV Pantanal MS",
     "type": "Variedades",
     "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8",
@@ -952,12 +952,6 @@
     "type": "Variedades",
     "url": "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8",
     "img": "https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png"
-  },
-  {
-    "name": "TV Sul Bahia",
-    "type": "Variedades",
-    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
-    "img": "https://i.imgur.com/qM6nMWm.png"
   },
   {
     "name": "TV São Gabriel",
@@ -1266,6 +1260,12 @@
     "img": "https://i.imgur.com/aMuMVvB.png"
   },
   {
+    "name": "TV A Folha",
+    "type": "Notícia",
+    "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
+    "img": "https://i.imgur.com/I7XGMhj.png"
+  },
+  {
     "name": "TV Brusque",
     "type": "Notícia",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
@@ -1366,12 +1366,6 @@
     "type": "Entretenimento",
     "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8",
     "img": "https://i.imgur.com/MTuErdw.png"
-  },
-  {
-    "name": "TV Vicosa",
-    "type": "Entretenimento",
-    "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
-    "img": "https://i.imgur.com/TZF55f9.png"
   },
   {
     "name": "TV Zoom",
@@ -1852,6 +1846,12 @@
     "type": "Religiosos",
     "url": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8",
     "img": "https://i.postimg.cc/4xKqKzxc/avivando-nacoes.png"
+  },
+  {
+    "name": "Canaã News TV",
+    "type": "Religiosos",
+    "url": "https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8",
+    "img": "https://i.postimg.cc/9fKggKJZ/cana-news.png"
   },
   {
     "name": "Rede Super TV",

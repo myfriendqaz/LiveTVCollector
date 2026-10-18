@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-17 23:30:06",
+  "date": "2026-10-18 07:21:51",
   "channels": {
     "Recomendados": [
       {
@@ -297,6 +297,13 @@
         "url": "https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8"
       },
       {
+        "name": "Ultra TV",
+        "logo": "https://i.postimg.cc/RhK7vDL2/ultra-tv.jpg",
+        "group": "Recomendados",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8"
+      },
+      {
         "name": "Viva a Vida TV",
         "logo": "https://i.postimg.cc/L8dKWjPX/viva-vida-tv.png",
         "group": "Recomendados",
@@ -411,13 +418,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://awtv.nuvemplay.live/hls/stream.m3u8"
-      },
-      {
-        "name": "Boas Novas",
-        "logo": "https://i.imgur.com/ZqhizdP.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
       },
       {
         "name": "Canal 25 Jundiai",
@@ -572,13 +572,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
-      },
-      {
-        "name": "Fala Litoral",
-        "logo": "https://i.imgur.com/NF6PL8O.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
       },
       {
         "name": "Globoplay Novelas",
@@ -1064,6 +1057,13 @@
         "url": "http://185.228.163.146:8000/play/a01y/index.m3u8"
       },
       {
+        "name": "TV Novelas",
+        "logo": "https://i.postimg.cc/T16pj5WG/tv-novelas.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://stmv8.samcast.com.br/lucas7869/lucas7869/playlist.m3u8"
+      },
+      {
         "name": "TV Pantanal MS",
         "logo": "https://i.imgur.com/0FOmktl.png",
         "group": "Variedades",
@@ -1118,13 +1118,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8"
-      },
-      {
-        "name": "TV Sul Bahia",
-        "logo": "https://i.imgur.com/qM6nMWm.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
       },
       {
         "name": "TV São Gabriel",
@@ -1494,6 +1487,13 @@
         "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
       },
       {
+        "name": "TV A Folha",
+        "logo": "https://i.imgur.com/I7XGMhj.png",
+        "group": "Notícia",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+      },
+      {
         "name": "TV Brusque",
         "logo": "https://i.imgur.com/J2EAZPS.png",
         "group": "Notícia",
@@ -1615,13 +1615,6 @@
         "group": "Entretenimento",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8"
-      },
-      {
-        "name": "TV Vicosa",
-        "logo": "https://i.imgur.com/TZF55f9.png",
-        "group": "Entretenimento",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
       },
       {
         "name": "TV Zoom",
@@ -2212,6 +2205,13 @@
         "group": "Religiosos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8"
+      },
+      {
+        "name": "Canaã News TV",
+        "logo": "https://i.postimg.cc/9fKggKJZ/cana-news.png",
+        "group": "Religiosos",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8"
       },
       {
         "name": "Rede Super TV",
