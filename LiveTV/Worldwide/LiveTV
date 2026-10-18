@@ -168,12 +168,6 @@
     "img": "https://i.postimg.cc/vZDMM775/tvcom.png"
   },
   {
-    "name": "TV Conecta",
-    "type": "Recomendados",
-    "url": "https://srv1954587.hstgr.cloud:8888/video01/index.m3u8",
-    "img": "https://i.postimg.cc/bYWc1jjz/tv-conecta.png"
-  },
-  {
     "name": "TV da Cidade Joinville",
     "type": "Recomendados",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8",
@@ -468,6 +462,12 @@
     "img": "https://eitv6.cdn.broadpeak.io/account351-i1438/channel/53/quadrada_-3-_pequeno-1723832301.png"
   },
   {
+    "name": "Cultura Para",
+    "type": "Variedades",
+    "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
+    "img": "https://i.imgur.com/5jPEI5c.png"
+  },
+  {
     "name": "Demais TV",
     "type": "Variedades",
     "url": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8",
@@ -484,6 +484,12 @@
     "type": "Variedades",
     "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
     "img": "https://i.imgur.com/8PxpamC.png"
+  },
+  {
+    "name": "Fala Litoral",
+    "type": "Variedades",
+    "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
+    "img": "https://i.imgur.com/NF6PL8O.png"
   },
   {
     "name": "Globoplay Novelas",
@@ -708,6 +714,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png"
   },
   {
+    "name": "SOU TV",
+    "type": "Variedades",
+    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8",
+    "img": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png"
+  },
+  {
     "name": "TV 100% Caipira",
     "type": "Variedades",
     "url": "https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8",
@@ -854,7 +866,7 @@
   {
     "name": "TV Gazeta",
     "type": "Variedades",
-    "url": "http://45.162.64.114/GAZETA/index.m3u8",
+    "url": "http://45.162.64.114/TV_GAZETA/index.m3u8",
     "img": "https://i.imgur.com/0sksWse.png"
   },
   {
@@ -1164,12 +1176,6 @@
     "img": "https://i.imgur.com/R0aflu1.png"
   },
   {
-    "name": "NickOnline Bob Esponja",
-    "type": "Animação",
-    "url": "https://bob.x1colegal.com/hls/stream.m3u8",
-    "img": "https://x1colegal.com/nickonlinebobesponja.png"
-  },
-  {
     "name": "AgroMais",
     "type": "Notícia",
     "url": "http://45.162.64.114/AGROMAIS/index.m3u8",
@@ -1384,12 +1390,6 @@
     "type": "Entretenimento",
     "url": "https://umatv.nuvemplay.live/hls/stream.m3u8",
     "img": "https://i.imgur.com/m0RVb79.png"
-  },
-  {
-    "name": "Laboral TV",
-    "type": "Negócios",
-    "url": "https://tv.laboralsst.com.br/hls/stream.m3u8",
-    "img": "https://tv.laboralsst.com.br/logo.png"
   },
   {
     "name": "Fora Tedio TV",
@@ -2383,12 +2383,6 @@
   },
   {
     "name": "TV Gazeta Alternativo 1",
-    "type": "Alternativos",
-    "url": "http://45.162.64.114/TV_GAZETA/index.m3u8",
-    "img": "https://i.imgur.com/0sksWse.png"
-  },
-  {
-    "name": "TV Gazeta Alternativo 2",
     "type": "Alternativos",
     "url": "http://186.219.52.187/gazeta/index.m3u8",
     "img": "https://i.imgur.com/0sksWse.png"

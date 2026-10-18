@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18 07:21:51",
+  "date": "2026-10-18 17:43:48",
   "channels": {
     "Recomendados": [
       {
@@ -197,13 +197,6 @@
         "group": "Recomendados",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8"
-      },
-      {
-        "name": "TV Conecta",
-        "logo": "https://i.postimg.cc/bYWc1jjz/tv-conecta.png",
-        "group": "Recomendados",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://srv1954587.hstgr.cloud:8888/video01/index.m3u8"
       },
       {
         "name": "TV da Cidade Joinville",
@@ -553,6 +546,13 @@
         "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8"
       },
       {
+        "name": "Cultura Para",
+        "logo": "https://i.imgur.com/5jPEI5c.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8"
+      },
+      {
         "name": "Demais TV",
         "logo": "https://i.imgur.com/Md3xibE.png",
         "group": "Variedades",
@@ -572,6 +572,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
+      },
+      {
+        "name": "Fala Litoral",
+        "logo": "https://i.imgur.com/NF6PL8O.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
       },
       {
         "name": "Globoplay Novelas",
@@ -833,6 +840,13 @@
         "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8"
       },
       {
+        "name": "SOU TV",
+        "logo": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
+      },
+      {
         "name": "TV 100% Caipira",
         "logo": "https://i.postimg.cc/c1wbFHtp/tv-caipira.jpg",
         "group": "Variedades",
@@ -1005,7 +1019,7 @@
         "logo": "https://i.imgur.com/0sksWse.png",
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://45.162.64.114/GAZETA/index.m3u8"
+        "url": "http://45.162.64.114/TV_GAZETA/index.m3u8"
       },
       {
         "name": "TV Guarapari",
@@ -1371,13 +1385,6 @@
         "group": "Animação",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8"
-      },
-      {
-        "name": "NickOnline Bob Esponja",
-        "logo": "https://x1colegal.com/nickonlinebobesponja.png",
-        "group": "Animação",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://bob.x1colegal.com/hls/stream.m3u8"
       }
     ],
     "Notícia": [
@@ -1636,15 +1643,6 @@
         "group": "Entretenimento",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
-      }
-    ],
-    "Negócios": [
-      {
-        "name": "Laboral TV",
-        "logo": "https://tv.laboralsst.com.br/logo.png",
-        "group": "Negócios",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://tv.laboralsst.com.br/hls/stream.m3u8"
       }
     ],
     "Comédia": [
@@ -2835,13 +2833,6 @@
       },
       {
         "name": "TV Gazeta Alternativo 1",
-        "logo": "https://i.imgur.com/0sksWse.png",
-        "group": "Alternativos",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://45.162.64.114/TV_GAZETA/index.m3u8"
-      },
-      {
-        "name": "TV Gazeta Alternativo 2",
         "logo": "https://i.imgur.com/0sksWse.png",
         "group": "Alternativos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
