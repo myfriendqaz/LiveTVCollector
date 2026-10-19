@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19 07:38:41",
+  "date": "2026-10-19 20:34:25",
   "channels": {
     "Recomendados": [
       {
@@ -57,6 +57,13 @@
         "group": "Recomendados",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8"
+      },
+      {
+        "name": "K Pop TV Play",
+        "logo": "https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay.png",
+        "group": "Recomendados",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8"
       },
       {
         "name": "Lamore Rock Show",
@@ -192,13 +199,6 @@
         "url": "https://video11.logicahost.com.br/comunidadefm/comunidadefm/playlist.m3u8"
       },
       {
-        "name": "TV Conecta",
-        "logo": "https://i.postimg.cc/bYWc1jjz/tv-conecta.png",
-        "group": "Recomendados",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://srv1954587.hstgr.cloud:8888/video01/index.m3u8"
-      },
-      {
         "name": "TV da Cidade Joinville",
         "logo": "https://i.postimg.cc/q7j5bqbB/tv-cidade-joinville.jpg",
         "group": "Recomendados",
@@ -267,13 +267,6 @@
         "group": "Recomendados",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8"
-      },
-      {
-        "name": "TV OLHO D’ÁGUA",
-        "logo": "https://i.postimg.cc/d3x0zNSc/tvolhodagua.jpg",
-        "group": "Recomendados",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8"
       },
       {
         "name": "TV+ News",
@@ -411,13 +404,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://awtv.nuvemplay.live/hls/stream.m3u8"
-      },
-      {
-        "name": "Boas Novas",
-        "logo": "https://i.imgur.com/ZqhizdP.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
       },
       {
         "name": "Canal 25 Jundiai",
@@ -1008,6 +994,13 @@
         "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
       },
       {
+        "name": "TV GALINHA CHOCA",
+        "logo": "https://i.postimg.cc/sXh4B0VX/tv-galinha-choca.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8"
+      },
+      {
         "name": "TV Gazeta",
         "logo": "https://i.imgur.com/0sksWse.png",
         "group": "Variedades",
@@ -1139,6 +1132,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8"
+      },
+      {
+        "name": "TVC-Rio",
+        "logo": "https://i.imgur.com/WDiikWv.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
       },
       {
         "name": "TVCOM Maceio",
@@ -1494,13 +1494,6 @@
         "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
       },
       {
-        "name": "TV Sim Sao Mateus",
-        "logo": "https://i.imgur.com/t5oUK3C.png",
-        "group": "Notícia",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
-      },
-      {
         "name": "TVideoNews",
         "logo": "https://i.imgur.com/vstHOYx.png",
         "group": "Notícia",
@@ -1817,6 +1810,13 @@
       }
     ],
     "Música": [
+      {
+        "name": "KpopTV Play",
+        "logo": "https://i.imgur.com/Tf0vweF.png",
+        "group": "Música",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+      },
       {
         "name": "Music Box Brazil",
         "logo": "https://i.imgur.com/CDPCF2X.png",
