@@ -6,6 +6,12 @@
     "img": "https://i.postimg.cc/JnTJzqd5/cazetv.jpg"
   },
   {
+    "name": "Gazeta Brasil",
+    "type": "Recomendados",
+    "url": "https://painel.redegazetabrasil.com.br/hls/canal1/index.m3u8",
+    "img": "https://i.postimg.cc/kGYKdhz1/canal-de-testes.jpg"
+  },
+  {
     "name": "K Pop TV Play",
     "type": "Recomendados",
     "url": "https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8",
@@ -16,6 +22,18 @@
     "type": "Recomendados",
     "url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8",
     "img": "https://i.postimg.cc/5tBsBfWb/lamore-web-show.jpg"
+  },
+  {
+    "name": "ON TV",
+    "type": "Recomendados",
+    "url": "https://ikki.hubcloud.tv.br/OnTV/tracks-v1a1/mono.m3u8",
+    "img": "https://i.postimg.cc/Y9mq7Rhr/rede-on-tv.jpg"
+  },
+  {
+    "name": "TV Astral",
+    "type": "Recomendados",
+    "url": "https://isaocorp.cloudecast.com/astraltv/index.m3u8",
+    "img": "https://i.postimg.cc/6q74Y2BB/astral-tv.jpg"
   },
   {
     "name": "TV da Cidade Joinville",
@@ -40,6 +58,12 @@
     "type": "TV Aberta",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
     "img": "https://i.postimg.cc/Gh8y0j93/tv-bandeirantes.jpg"
+  },
+  {
+    "name": "Globo TV (SP)",
+    "type": "TV Aberta",
+    "url": "https://origin-01.bariguitelecom.com.br/GLOBO_RPC/index.m3u8",
+    "img": "https://i.postimg.cc/TY6wHCzf/redeglobo.jpg"
   },
   {
     "name": "Record",
@@ -102,6 +126,12 @@
     "img": "https://i.imgur.com/qiVfsfB.png"
   },
   {
+    "name": "Cinturao Verde",
+    "type": "Variedades",
+    "url": "https://play.redecinturaoverde.com.br/playlist.m3u8",
+    "img": "https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775688612576-u0628igjimf.png"
+  },
+  {
     "name": "COM Brasil",
     "type": "Variedades",
     "url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
@@ -142,6 +172,12 @@
     "type": "Variedades",
     "url": "https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8",
     "img": "https://i.imgur.com/chHsCzB.png"
+  },
+  {
+    "name": "MBC Brasil TV",
+    "type": "Variedades",
+    "url": "https://play.mbcbrasil.tv.br/playlist.m3u8",
+    "img": "https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775702325773-d10vtu076za.png"
   },
   {
     "name": "Nova Era TV",
@@ -192,6 +228,12 @@
     "img": "https://i.imgur.com/VcHy0fu.png"
   },
   {
+    "name": "Rede Brasil",
+    "type": "Variedades",
+    "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
+    "img": "https://i.imgur.com/TXJKwzZ.png"
+  },
+  {
     "name": "Rede CNT Rio de Janeiro",
     "type": "Variedades",
     "url": "http://45.162.64.114/CNT/index.m3u8",
@@ -214,6 +256,12 @@
     "type": "Variedades",
     "url": "https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8",
     "img": "https://i.postimg.cc/Bv6KcQPV/rede-maischeti.jpg"
+  },
+  {
+    "name": "Rede Meio Norte",
+    "type": "Variedades",
+    "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8",
+    "img": "https://i.imgur.com/KVdTi0M.png"
   },
   {
     "name": "Rede TV! Mais",
@@ -244,6 +292,12 @@
     "type": "Variedades",
     "url": "http://45.162.64.114/SESC_TV/index.m3u8",
     "img": "https://i.imgur.com/Mu8O6CV.png"
+  },
+  {
+    "name": "SIC TV",
+    "type": "Variedades",
+    "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8",
+    "img": "https://i.imgur.com/mHxQyB2.png"
   },
   {
     "name": "Sony Channel",
@@ -414,6 +468,12 @@
     "img": "https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png"
   },
   {
+    "name": "Cine Clássicos de Cinema",
+    "type": "Filmes",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://i.postimg.cc/6QmR9jMS/cine-classicos-do-cinema.png"
+  },
+  {
     "name": "Classique TV",
     "type": "Filmes",
     "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
@@ -436,6 +496,24 @@
     "type": "Filmes",
     "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/aiGQtzI.png"
+  },
+  {
+    "name": "RunTime",
+    "type": "Filmes",
+    "url": "https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8",
+    "img": "https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_br_1920x1080_0.jpg"
+  },
+  {
+    "name": "RunTime Comédia",
+    "type": "Filmes",
+    "url": "https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8",
+    "img": "https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/br_comedy_bg.jpg"
+  },
+  {
+    "name": "RunTime Crimes",
+    "type": "Filmes",
+    "url": "https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8",
+    "img": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ae540b891b4a0d073b39ae0bb693f5c3.webp"
   },
   {
     "name": "Sony Movies",
@@ -486,6 +564,12 @@
     "img": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg"
   },
   {
+    "name": "BM&C News",
+    "type": "Notícia",
+    "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8",
+    "img": "https://i.imgur.com/pOUY2Uz.png"
+  },
+  {
     "name": "Canal 38",
     "type": "Notícia",
     "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
@@ -534,6 +618,12 @@
     "img": "https://i.imgur.com/SeF2I7q.png"
   },
   {
+    "name": "TCM 10 HD",
+    "type": "Notícia",
+    "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
+    "img": "https://i.imgur.com/aMuMVvB.png"
+  },
+  {
     "name": "TV Brusque",
     "type": "Notícia",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
@@ -544,6 +634,12 @@
     "type": "Notícia",
     "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
     "img": "https://i.imgur.com/t5oUK3C.png"
+  },
+  {
+    "name": "VEJA+ TV",
+    "type": "Notícia",
+    "url": "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8",
+    "img": "https://i.imgur.com/n0pxHo4.png"
   },
   {
     "name": "Arte 1",
@@ -562,6 +658,12 @@
     "type": "Entretenimento",
     "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8",
     "img": "https://i.imgur.com/qHwTWlz.png"
+  },
+  {
+    "name": "Rede NGT",
+    "type": "Entretenimento",
+    "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8",
+    "img": "https://i.imgur.com/ZFN1R4B.png"
   },
   {
     "name": "TV GRANDE NATAL HDTV BRASIL",
@@ -598,6 +700,12 @@
     "type": "Religião",
     "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
     "img": "https://i.imgur.com/7q2BmNc.png"
+  },
+  {
+    "name": "IMPD TV Worldwide",
+    "type": "Religião",
+    "url": "https://igrejamundial.nuvemplay.live/hls/stream.m3u8",
+    "img": "https://i.imgur.com/9dW3AUQ.png"
   },
   {
     "name": "Novo Tempo",
@@ -702,6 +810,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png"
   },
   {
+    "name": "KpopTV Play",
+    "type": "Música",
+    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8",
+    "img": "https://i.imgur.com/Tf0vweF.png"
+  },
+  {
     "name": "Music Box Brazil",
     "type": "Música",
     "url": "http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8",
@@ -724,6 +838,12 @@
     "type": "Internacional",
     "url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8",
     "img": "https://i.postimg.cc/QMrSVHMB/gringo_tv.jpg"
+  },
+  {
+    "name": "Melodie TV",
+    "type": "Internacional",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/playlist.m3u8",
+    "img": "https://i.postimg.cc/g20BQHxg/melody_tv.jpg"
   },
   {
     "name": "Muzangala TV",
@@ -750,6 +870,18 @@
     "img": "https://i.postimg.cc/44SHK77w/television.jpg"
   },
   {
+    "name": "Way TV",
+    "type": "Internacional",
+    "url": "https://live.wayone.cloud/waytv/waytv1/playlist.m3u8",
+    "img": "https://i.postimg.cc/BnvwkBj7/way_tv.jpg"
+  },
+  {
+    "name": "L A TV",
+    "type": "Infantis",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/latvstream/playlist.m3u8",
+    "img": "https://i.postimg.cc/8csPjsdJ/la-tv-nova-logo.jpg"
+  },
+  {
     "name": "TV Kids Mais",
     "type": "Infantis",
     "url": "https://Stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8",
@@ -772,6 +904,18 @@
     "type": "Notícias",
     "url": "https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8",
     "img": "https://i.postimg.cc/t4JPHdTj/jovem_pan.jpg"
+  },
+  {
+    "name": "Record News",
+    "type": "Notícias",
+    "url": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
+    "img": "https://i.postimg.cc/tT62N4T3/record-news.jpg"
+  },
+  {
+    "name": "Veja +",
+    "type": "Notícias",
+    "url": "https://origin-fast.b-cdn.net/VEJA_PLUS/tracks-v1a1/mono.ts.m3u8?app_id=1&app_name=soplay&user_Id=1078638",
+    "img": "https://i.postimg.cc/4N4pC1D1/veja-mais.jpg"
   },
   {
     "name": "Canal Rural",
@@ -831,12 +975,6 @@
     "name": "AgroCanal Alternativo 2",
     "type": "Alternativos",
     "url": "http://186.219.52.187/agro_canal/index.m3u8",
-    "img": "https://i.imgur.com/5XyopHf.png"
-  },
-  {
-    "name": "AgroCanal Alternativo 3",
-    "type": "Alternativos",
-    "url": "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8",
     "img": "https://i.imgur.com/5XyopHf.png"
   },
   {
@@ -1008,6 +1146,12 @@
     "img": "https://i.imgur.com/Ikrj3lk.png"
   },
   {
+    "name": "Play TV Alternativo 2",
+    "type": "Alternativos",
+    "url": "https://isaocorp.cloudecast.com/playtv/index.m3u8",
+    "img": "https://i.imgur.com/Ikrj3lk.png"
+  },
+  {
     "name": "Record News Alternativo 1",
     "type": "Alternativos",
     "url": "http://45.177.114.115/RECORD_NEWS/index.m3u8",
@@ -1032,6 +1176,12 @@
     "img": "https://i.imgur.com/HZDRG0K.png"
   },
   {
+    "name": "Record News Alternativo 5",
+    "type": "Alternativos",
+    "url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
+    "img": "https://i.imgur.com/HZDRG0K.png"
+  },
+  {
     "name": "Rede CNT Rio de Janeiro Alternativo 1",
     "type": "Alternativos",
     "url": "http://170.83.49.66:8083/REDECNTHD/index.m3u8",
@@ -1046,11 +1196,17 @@
   {
     "name": "Rede Gospel Alternativo 1",
     "type": "Alternativos",
-    "url": "http://45.177.114.115/REDE_GOSPEL/index.m3u8",
+    "url": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8",
     "img": "https://i.imgur.com/mttSwgO.png"
   },
   {
     "name": "Rede Gospel Alternativo 2",
+    "type": "Alternativos",
+    "url": "http://45.177.114.115/REDE_GOSPEL/index.m3u8",
+    "img": "https://i.imgur.com/mttSwgO.png"
+  },
+  {
+    "name": "Rede Gospel Alternativo 3",
     "type": "Alternativos",
     "url": "http://170.83.49.66:8083/REDEGOSPELHD/index.m3u8",
     "img": "https://i.imgur.com/mttSwgO.png"
@@ -1152,6 +1308,12 @@
     "img": "https://i.imgur.com/wnYsE3O.png"
   },
   {
+    "name": "TikTok Radio Brasil Alternativo 1",
+    "type": "Alternativos",
+    "url": "https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg"
+  },
+  {
     "name": "TV Aparecida Alternativo 1",
     "type": "Alternativos",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8",
@@ -1221,6 +1383,18 @@
     "name": "TV Cultura Alternativo 4",
     "type": "Alternativos",
     "url": "http://186.219.52.187/cultura/index.m3u8",
+    "img": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
+  },
+  {
+    "name": "TV Cultura Alternativo 5",
+    "type": "Alternativos",
+    "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+    "img": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
+  },
+  {
+    "name": "TV Cultura Alternativo 6",
+    "type": "Alternativos",
+    "url": "https://jmp2.uk/plu-62e010e6cd663f0007e57dc8.m3u8",
     "img": "https://i.ibb.co/nm0jXMM/cultura-3x.png"
   },
   {
@@ -1306,6 +1480,12 @@
     "type": "Alternativos",
     "url": "http://186.219.52.187/tv_senado/index.m3u8",
     "img": "https://i.imgur.com/duy6waL.png"
+  },
+  {
+    "name": "VEJA+ TV Alternativo 1",
+    "type": "Alternativos",
+    "url": "https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8",
+    "img": "https://i.imgur.com/n0pxHo4.png"
   },
   {
     "name": "WooHoo Alternativo 1",
