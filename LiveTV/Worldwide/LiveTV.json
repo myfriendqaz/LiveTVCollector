@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-23 07:48:25",
+  "date": "2026-10-23 18:25:04",
   "channels": {
     "Recomendados": [
       {
@@ -819,6 +819,13 @@
         "url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8"
       },
       {
+        "name": "SBT Interior",
+        "logo": "https://i.imgur.com/IkZfa4j.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
+      },
+      {
         "name": "SBT Nova Mutum",
         "logo": "https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png",
         "group": "Variedades",
@@ -1050,6 +1057,13 @@
         "url": "http://45.162.64.114/TV_GAZETA/index.m3u8"
       },
       {
+        "name": "TV Guara",
+        "logo": "https://i.imgur.com/8PErNBT.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
+      },
+      {
         "name": "TV Guarapari",
         "logo": "https://i.imgur.com/eDNzwK0.png",
         "group": "Variedades",
@@ -1160,13 +1174,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8"
-      },
-      {
-        "name": "TV Sul Bahia",
-        "logo": "https://i.imgur.com/qM6nMWm.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
       },
       {
         "name": "TV Vila Real",
@@ -1330,6 +1337,13 @@
         "group": "Filmes",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8"
+      },
+      {
+        "name": "Telecine Action",
+        "logo": "https://i.imgur.com/BHYWG0h.png",
+        "group": "Filmes",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "http://46.151.196.223:14326/"
       },
       {
         "name": "TVNA filmes",
@@ -8176,6 +8190,13 @@
         "group": "Religiosos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8"
+      },
+      {
+        "name": "Rede Super TV",
+        "logo": "https://i.postimg.cc/KzBqPDvc/rede-supertv.jpg",
+        "group": "Religiosos",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8"
       },
       {
         "name": "Rede Vida",
