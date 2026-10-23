@@ -188,7 +188,7 @@ URL: https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5fjow0
 Logo: https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
-Name: F1 tv (vpn 🇺🇸) 🏎️
+Name: F1 tv (vpn 🇺🇸)
 URL: https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
 Logo: https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
@@ -196,6 +196,11 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 Name: Rally.tv 🏎️
 URL: https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
 Logo: https://www.rally.tv/favicon.ico
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: Discovery Turbo TV 🏎️ (vpn 🇺🇸)
+URL: https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
+Logo: https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/16x9Background/DiscoveryTurboTV_1920x1080_White._SL500_FMpng_.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: Motorvision 🇧🇷🏎️
@@ -2442,6 +2447,11 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 --------------------------------------------------
 
 Group: Eixo do Mal
+Name: Eixo do Mal - 22/10/2026
+URL: https://videos.impresa.pt/videos/hls/sicnot/2026/10/22/ad7516b9-a5b0-4429-ab0d-8e603c1a5794/video.m3u8
+Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg
+Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
+--------------------------------------------------
 Name: Eixo do Mal - 15/10/2026
 URL: https://videos.impresa.pt/videos/hls/sicnot/2026/10/15/3c5d9119-c6bd-4d62-a6ff-9ed41dbe42e6/video.m3u8
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg
@@ -4304,7 +4314,7 @@ Logo: https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA1Ojc6MjYgQU0maGFzaF92YWx1ZT0waVI5bjZhVjNnaE5KZzBDbEZaVmhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2RiZmU5MWMtMGY2Ny00MjA2LWEwYjMtNTJiODYxZWMxMGIy/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiAxOjM5OjMwIFBNJmhhc2hfdmFsdWU9U2xYMWx4UjJrQVMycXNRR2hSSFV5UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWM3MDhjYTkxLTNlZDQtNDI3MC05YjhiLWFlMWY1YWZiMTNkNQ==/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -5480,12 +5490,12 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/SICAltaDefinicao.we
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA1Ojc6MjYgQU0maGFzaF92YWx1ZT02bklGNk5GcWlBV25aeU50amhBRm93PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjcyNDU5ZWQtZTZiOS00ZTliLTg3NmUtYzgwODI2ZmMwYjMz/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiAxOjM5OjMxIFBNJmhhc2hfdmFsdWU9SU9ZVmxtNUpzWFhiZ3lGc2Vxd0FsUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTJmMWVmZTYzLWY4NGQtNGIyZS05NWM5LTVmM2ZmYzllYmU3Zg==/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiA1Ojc6MjUgQU0maGFzaF92YWx1ZT1IRDVyS0R5Z0pXejhsbXFOUWlRUGdRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZGRkZGM4NWEtNzRjNi00MWEzLThjOTMtYjc1ZmQ1NDJmOTg2/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNiAxOjM5OjMwIFBNJmhhc2hfdmFsdWU9Nk9wUlhjM1FFT2pkWTRGMnl0SUhMQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQ4OTVjMDk4LWI1ODUtNDVlYy1iNmUwLTNmYmUzOTcyOGU1MA==/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -7097,6 +7107,11 @@ URL: https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8?wowza
 Logo: https://cdn2.rtva.interactvty.com/clients_logos/325c2f9998e74cc38e88d68e23b9c3a8.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
+Name: N+ Univision 24/7 🇺🇸🇲🇽
+URL: https://jmp2.uk/rok-5a28fbf15c135b51b3638e8bd02d6577.m3u8
+Logo: https://m.media-amazon.com/images/X/lsmP/M/AlsmPha-XQXERME._SL500_FMpng_.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
 Name: Noticias Telemundo Ahora 🇺🇸🇲🇽
 URL: https://d3f4oii5n0oeqi.cloudfront.net/11701/88814626/hls/master.m3u8?ads.xumo_channelId=88814626&ads.xumo_streamId=88814626
 Logo: https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a88b95413ac88f1f1147ea1d00692653.png
@@ -7370,6 +7385,11 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 Name: BBC News 🇺🇸
 URL: https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd?wowzasessionid=@iprtlk
 Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/bbcnews.png
+Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
+--------------------------------------------------
+Name: TODAY All Day 🇺🇸
+URL: https://d4whmvwm0rdvi.cloudfront.net/10007/99992303/hls/master.m3u8?ads.xumo_channelId=99992303&ads.asnw=169843&ads.afid=137705821&ads.sfid=16772608&ads.csid=lgchannels_us_nbctoday_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=179&ads.xumo_contentName=NBCToday&ads.xumo_providerId=179&ads.xumo_providerName=NBCToday&ads.channelId=99992303&ads._fw_ifa_type=[IFA_TYPE]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+Logo: https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/today_logo._SL500_FMpng_.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: TRT World 🇬🇧
