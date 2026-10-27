@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-27 02:17:16",
+  "date": "2026-10-27 08:11:14",
   "channels": {
     "Welcome to PlayZ TV | New App": [
       {
@@ -8,6 +8,15 @@
         "group": "Welcome to PlayZ TV | New App",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://playztv.pages.dev/promo/master.m3u8"
+      }
+    ],
+    "Live Event": [
+      {
+        "name": "1st Unofficial Test - Day 4 - 27 Oct 2026 [ENG] - India A Tour of New Zealand",
+        "logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg",
+        "group": "Live Event",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793105509~acl=/*~id=95202446262689830458699592741341~hmac=7566cd3cf391d2037d0c381f046146c14370f5347ed633b6629d8b0542155d0e"
       }
     ],
     "Akash Go": [
@@ -557,18 +566,18 @@
         "url": "https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8"
       },
       {
-        "name": "Willow Extra",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
-      },
-      {
         "name": "Horse & Country",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "Willow Extra",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
       },
       {
         "name": "A Sports",
@@ -1217,6 +1226,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
         "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8"
+      },
+      {
+        "name": "Ekushey TV (480p)",
+        "logo": "https://i.imgur.com/lRpkGHj.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://ekusheyserver.com/etvlivesn.m3u8"
       },
       {
         "name": "News 21 Bangla TV",
@@ -2176,18 +2192,18 @@
         "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8"
       },
       {
+        "name": "Boishakhi TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Unknown",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
+      },
+      {
         "name": "My TV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Unknown",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8"
-      },
-      {
-        "name": "Channel S",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Unknown",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8"
       },
       {
         "name": "NAN TV",
@@ -2204,13 +2220,6 @@
         "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8"
       },
       {
-        "name": "Boishakhi TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Unknown",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
-      },
-      {
         "name": "Green TV (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Unknown",
@@ -2218,25 +2227,11 @@
         "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8"
       },
       {
-        "name": "NTV (720p)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Unknown",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
-      },
-      {
         "name": "RTV (720p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Unknown",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8"
-      },
-      {
-        "name": "Rajdhani TV (1080p)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Unknown",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8"
       },
       {
         "name": "Duronto TV (720p)",
@@ -2246,11 +2241,25 @@
         "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8"
       },
       {
+        "name": "Rajdhani TV (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Unknown",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
+      },
+      {
         "name": "Maasranga TV (720p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Unknown",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8"
+      },
+      {
+        "name": "RTV (720p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Unknown",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8"
       },
       {
         "name": "Nexus TV (576p)",
@@ -2260,11 +2269,11 @@
         "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8"
       },
       {
-        "name": "Ekushey TV (480p)",
+        "name": "NTV (720p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Unknown",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://ekusheyserver.com/etvlivesn.m3u8"
+        "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
       }
     ],
     "Bangladesh": [
@@ -2283,6 +2292,13 @@
         "url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8"
       },
       {
+        "name": "Boishakhi TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Bangladesh",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8"
+      },
+      {
         "name": "BTV Chattogram",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Bangladesh",
@@ -2295,13 +2311,6 @@
         "group": "Bangladesh",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8"
-      },
-      {
-        "name": "Boishakhi TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Bangladesh",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8"
       },
       {
         "name": "Ekattor TV",
@@ -2318,18 +2327,18 @@
         "url": "https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8"
       },
       {
-        "name": "Desh TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Bangladesh",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8"
-      },
-      {
         "name": "Ekushe ETV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Bangladesh",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8"
+      },
+      {
+        "name": "Desh TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Bangladesh",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8"
       },
       {
         "name": "Global TV",
@@ -2406,18 +2415,18 @@
     ],
     "Cartoons | 24/7": [
       {
-        "name": "Motu Patlu",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cartoons | 24/7",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
         "name": "Gopal Bhar",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cartoons | 24/7",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
+      },
+      {
+        "name": "Motu Patlu",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cartoons | 24/7",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
       }
     ],
     "Bangla | 24/7": [
@@ -2431,18 +2440,18 @@
     ],
     "Hindi | 24/7": [
       {
-        "name": "South Movies",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Hindi | 24/7",
-        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
         "name": "Hindi Movies",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Hindi | 24/7",
         "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
         "url": "https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8"
+      },
+      {
+        "name": "South Movies",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Hindi | 24/7",
+        "source": "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8"
       }
     ],
     "Intro": [
@@ -7709,6 +7718,15 @@
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
         "url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8"
+      }
+    ],
+    "Culture": [
+      {
+        "name": "Channel S (Bangladesh)",
+        "logo": "https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8"
       }
     ],
     "Business": [
