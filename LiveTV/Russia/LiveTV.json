@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-07 02:37:06",
+  "date": "2026-11-07 08:51:36",
   "channels": {
     "Кино": [
       {
@@ -13176,13 +13176,6 @@
         "url": "https://moymir.ru/hls/onair.m3u8"
       },
       {
-        "name": "Moya Planeta (1080p)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8"
-      },
-      {
         "name": "Moya Planeta (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -15974,6 +15967,34 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
+      },
+      {
+        "name": "The Explorers (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8"
+      },
+      {
+        "name": "Muzhskoy HD (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8"
+      },
+      {
+        "name": "Nasha Tema (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8"
+      },
+      {
+        "name": "Volleyball (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8"
       }
     ],
     "Music": [
@@ -16924,6 +16945,15 @@
         "group": "Shop",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8"
+      }
+    ],
+    "Outdoor": [
+      {
+        "name": "Moya Planeta (720p)",
+        "logo": "https://i.imgur.com/uIiAdBv.png",
+        "group": "Outdoor",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Moya_Planeta_HD/index.m3u8"
       }
     ],
     "Entertainment": [
