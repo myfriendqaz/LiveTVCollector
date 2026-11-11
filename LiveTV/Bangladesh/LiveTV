@@ -486,21 +486,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Willow Extra",
-    "type": "Sports",
-    "url": "http://27.124.71.27/Willow_Extra/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Horse & Country",
     "type": "Sports",
     "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Trace Sport",
+    "name": "Willow Extra",
     "type": "Sports",
-    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+    "url": "http://27.124.71.27/Willow_Extra/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -513,6 +507,12 @@
     "name": "Cricket Gold",
     "type": "Sports",
     "url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Trace Sport",
+    "type": "Sports",
+    "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1054,12 +1054,6 @@
     "type": "News",
     "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8",
     "img": "https://i.imgur.com/Qbt6q4z.png"
-  },
-  {
-    "name": "Ekushey TV (480p)",
-    "type": "News",
-    "url": "https://ekusheyserver.com/etvlivesn.m3u8",
-    "img": "https://i.imgur.com/lRpkGHj.png"
   },
   {
     "name": "NAN TV (720p)",
@@ -1736,7 +1730,7 @@
   {
     "name": "Sananda TV",
     "type": "Indian Bangla",
-    "url": "https://live.sanandatelevision.in/sananda/index.m3u8",
+    "url": "http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1860,9 +1854,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Nexus TV (576p)",
+    "name": "Maasranga TV (720p)",
     "type": "Unknown",
-    "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8",
+    "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Rajdhani TV (1080p)",
+    "type": "Unknown",
+    "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1878,27 +1878,27 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Nexus TV (576p)",
+    "type": "Unknown",
+    "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "RTV (720p)",
     "type": "Unknown",
     "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Maasranga TV (720p)",
-    "type": "Unknown",
-    "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Rajdhani TV (1080p)",
-    "type": "Unknown",
-    "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Duronto TV (1080p)",
     "type": "Unknown",
     "url": "https://livetv.shamon-cable.net:8443/Duronto/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Ekushey TV (480p)",
+    "type": "Unknown",
+    "url": "https://ekusheyserver.com/etvlivesn.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1932,15 +1932,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Ekattor TV",
-    "type": "Bangladesh",
-    "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Ekhon TV",
     "type": "Bangladesh",
     "url": "https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Ekattor TV",
+    "type": "Bangladesh",
+    "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1968,15 +1968,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "SA TV",
-    "type": "Bangladesh",
-    "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "My TV",
     "type": "Bangladesh",
     "url": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "SA TV",
+    "type": "Bangladesh",
+    "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
