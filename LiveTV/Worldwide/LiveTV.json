@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16 09:02:06",
+  "date": "2026-11-16 23:06:37",
   "channels": {
     "Recomendados": [
       {
@@ -271,6 +271,13 @@
     ],
     "TV Aberta": [
       {
+        "name": "Band",
+        "logo": "https://i.postimg.cc/Gh8y0j93/tv-bandeirantes.jpg",
+        "group": "TV Aberta",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8"
+      },
+      {
         "name": "Gazeta",
         "logo": "https://i.postimg.cc/tTf06J3D/tvgazeta-logo.jpg",
         "group": "TV Aberta",
@@ -322,6 +329,13 @@
     ],
     "Variedades": [
       {
+        "name": "+MaisUm",
+        "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
+      },
+      {
         "name": "Adesso TV",
         "logo": "https://i.postimg.cc/ZqZ88TZv/adesso-tv.jpg",
         "group": "Variedades",
@@ -355,6 +369,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+      },
+      {
+        "name": "Canal 25 Jundiai",
+        "logo": "https://i.imgur.com/7igGMwH.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8"
       },
       {
         "name": "Canal 5 TR",
@@ -567,13 +588,6 @@
         "url": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8"
       },
       {
-        "name": "Mais Um",
-        "logo": "https://i.postimg.cc/NFWhnwMH/mais_um.jpg",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
-      },
-      {
         "name": "NBX TV",
         "logo": "https://i.postimg.cc/YSLSDYj8/nbx-tv.jpg",
         "group": "Variedades",
@@ -621,6 +635,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://200.194.238.229:8383/live/primer/playlist.m3u8"
+      },
+      {
+        "name": "RBATV",
+        "logo": "https://i.imgur.com/ZWFxlU1.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
       },
       {
         "name": "Record",
@@ -777,11 +798,11 @@
         "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
       },
       {
-        "name": "TV Bahia",
-        "logo": "https://i.imgur.com/sJOrvHg.png",
+        "name": "TV Arapuan",
+        "logo": "https://i.imgur.com/3395A2h.png",
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8"
+        "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
       },
       {
         "name": "TV Brasil",
@@ -796,13 +817,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8"
-      },
-      {
-        "name": "TV Brasil Oeste",
-        "logo": "https://i.imgur.com/noqGfuy.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
       },
       {
         "name": "TV Brasil Sinop",
@@ -859,13 +873,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8"
-      },
-      {
-        "name": "TV Fronteira",
-        "logo": "https://i.imgur.com/NtcoW6G.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
       },
       {
         "name": "TV GALINHA CHOCA",
@@ -999,6 +1006,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video04.logicahost.com.br/isonata/isonata/chunklist_w910221052.m3u8"
+      },
+      {
+        "name": "TV Sul Bahia",
+        "logo": "https://i.imgur.com/qM6nMWm.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
       },
       {
         "name": "TV São Gabriel",
@@ -1270,6 +1284,13 @@
         "url": "http://170.83.16.50/BAND_NEWS/index.m3u8"
       },
       {
+        "name": "BM&C News",
+        "logo": "https://i.imgur.com/pOUY2Uz.png",
+        "group": "Notícia",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
+      },
+      {
         "name": "Canal 38",
         "logo": "https://i.imgur.com/co7TCWC.png",
         "group": "Notícia",
@@ -1331,6 +1352,13 @@
         "group": "Notícia",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+      },
+      {
+        "name": "TV Brusque",
+        "logo": "https://i.imgur.com/J2EAZPS.png",
+        "group": "Notícia",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
       },
       {
         "name": "TV Sim Sao Mateus",
