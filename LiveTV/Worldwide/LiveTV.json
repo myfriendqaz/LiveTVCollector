@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19 10:19:42",
+  "date": "2026-11-19 22:23:13",
   "channels": {
     "Recomendados": [
       {
@@ -57,6 +57,13 @@
         "group": "Recomendados",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video11.logicahost.com.br/gramadotv/gramadotv/playlist.m3u8"
+      },
+      {
+        "name": "IJUÍ PLAY",
+        "logo": "https://i.postimg.cc/kMKq946F/ijuiplaytv.jpg",
+        "group": "Recomendados",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8"
       },
       {
         "name": "Lamore Rock Show",
@@ -232,6 +239,13 @@
         "group": "Recomendados",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8"
+      },
+      {
+        "name": "TV+ News",
+        "logo": "https://i.postimg.cc/t47nvJ2j/tvmais_news.jpg",
+        "group": "Recomendados",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8"
       },
       {
         "name": "TVBC",
@@ -1565,6 +1579,13 @@
         "url": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
       },
       {
+        "name": "Rede Impacto Gospel TV",
+        "logo": "https://redeimpactogospel.com/assets/logo-512.png",
+        "group": "Religião",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8"
+      },
+      {
         "name": "Rede Seculo 21",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Religião",
@@ -1598,13 +1619,6 @@
         "group": "Religião",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://186.219.52.187/pai_eterno/index.m3u8"
-      },
-      {
-        "name": "TV Terceiro Anjo",
-        "logo": "https://i.imgur.com/PExKWNv.png",
-        "group": "Religião",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8"
       },
       {
         "name": "TV Universal",
@@ -1730,6 +1744,13 @@
         "group": "Música",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8"
+      },
+      {
+        "name": "TikTok Radio Brasil",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg",
+        "group": "Música",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8"
       },
       {
         "name": "TV Grande Natal",
@@ -2073,15 +2094,6 @@
         "group": "Religiosos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8"
-      }
-    ],
-    "Shop": [
-      {
-        "name": "1001 Noites",
-        "logo": "https://i.imgur.com/dWA9y2J.png",
-        "group": "Shop",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8"
       }
     ],
     "Viagem": [
