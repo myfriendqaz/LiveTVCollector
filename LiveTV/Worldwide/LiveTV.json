@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19 22:23:13",
+  "date": "2026-11-20 10:10:19",
   "channels": {
     "Recomendados": [
       {
@@ -1036,6 +1036,13 @@
         "url": "https://video04.logicahost.com.br/isonata/isonata/chunklist_w910221052.m3u8"
       },
       {
+        "name": "TV Sul Bahia",
+        "logo": "https://i.imgur.com/qM6nMWm.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
+      },
+      {
         "name": "TV São Gabriel",
         "logo": "https://i.postimg.cc/s2wN6x62/tv-sao-gabriel.jpg",
         "group": "Variedades",
@@ -1621,6 +1628,13 @@
         "url": "http://186.219.52.187/pai_eterno/index.m3u8"
       },
       {
+        "name": "TV Terceiro Anjo",
+        "logo": "https://i.imgur.com/PExKWNv.png",
+        "group": "Religião",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8"
+      },
+      {
         "name": "TV Universal",
         "logo": "https://i.imgur.com/TIsk5zN.png",
         "group": "Religião",
@@ -2094,6 +2108,15 @@
         "group": "Religiosos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8"
+      }
+    ],
+    "Shop": [
+      {
+        "name": "1001 Noites",
+        "logo": "https://i.imgur.com/dWA9y2J.png",
+        "group": "Shop",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8"
       }
     ],
     "Viagem": [
