@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-22 02:56:27",
+  "date": "2026-11-22 10:35:34",
   "channels": {
     "TV": [
       {
@@ -7,28 +7,28 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.pt.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8"
+        "url": "https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd"
       },
       {
         "name": "RTP 2",
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.pt.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
+        "url": "https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/manifest.mpd"
       },
       {
         "name": "SIC",
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.pt.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://sic.live.impresa.pt/sic1080p.m3u8"
+        "url": "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/5e99aa024db04f4a877d37ad9512ef24/index.mpd"
       },
       {
         "name": "TVI",
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.pt.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/TVI.m3u8"
+        "url": "https://d28hnoqioi2jsa.cloudfront.net/playlist.m3u8"
       },
       {
         "name": "RTP Notícias",
@@ -6934,6 +6934,13 @@
         "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
       },
       {
+        "name": "RTP 2 (720p) [Not 24/7]",
+        "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
+      },
+      {
         "name": "RTP Acores (720p) [Not 24/7]",
         "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png",
         "group": "General",
@@ -7051,6 +7058,13 @@
         "url": "http://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd"
       },
       {
+        "name": "RTP1 🇵🇹",
+        "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtp1_2026.png",
+        "group": "Portugal 🇵🇹",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8"
+      },
+      {
         "name": "RTP 2 🇵🇹",
         "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/gray/horizontal/rtp2_2026.png",
         "group": "Portugal 🇵🇹",
@@ -7070,6 +7084,13 @@
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
         "url": "https://playout175.livextend.cloud/livenlin4/2liveartvpub2/playlist.m3u8?wowzasessionid=@iprtlk"
+      },
+      {
+        "name": "SIC 🇵🇹 (vpn 🇵🇹)",
+        "logo": "https://github.com/tv-logo/tv-logos/raw/main/countries/portugal/sic-pt.png",
+        "group": "Portugal 🇵🇹",
+        "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
+        "url": "https://sic.live.impresa.pt/sic1080p.m3u8"
       },
       {
         "name": "SIC Replay 🇵🇹",
@@ -7097,7 +7118,7 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxMjo1Mjo4IFBNJmhhc2hfdmFsdWU9d2JGRzYrWU9RYUl1c09FWWprUnp4dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQyNDM2ZTRkLWQxMmEtNDJmNS05ODY1LTFkYzc1MTQwYWIzYw==/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiA5OjQ1OjE4IFBNJmhhc2hfdmFsdWU9ZE9odEpMZEVVS084cS9XcmpUdDBPZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWIwNjk1NDA4LTBkYmMtNGNhOS05M2RmLTdkNTgyMWVlNTdjNQ==/"
       },
       {
         "name": "TVI 🇵🇹",
@@ -7111,7 +7132,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp",
         "group": "Portugal 🇵🇹",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxMjo1Mjo3IFBNJmhhc2hfdmFsdWU9NFN1MTl0bGIrM1hwOCtIK0xiSUVkdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWEwNTBiZGIzLWRhNDctNGVlMC04ZDExLTAxY2NjMTFhYWQwZA==/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiA5OjQ1OjE3IFBNJmhhc2hfdmFsdWU9R3BUTERWd3ZIVHZucUgyS3o1K2puQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTYzOGI4OWM0LTY2MzQtNDZlYy1iOTI4LTU5NmZiNGZhNzYyZQ==/"
       },
       {
         "name": "V+ TVI 🇵🇹",
@@ -7225,7 +7246,7 @@
         "logo": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiAxMjo1Mjo4IFBNJmhhc2hfdmFsdWU9bGt6L0wrZmFoYjhINXlQZzlvRHltQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWY4OGFjOWE0LTZlMzctNGViMS1hZjY0LTFmZTk4ZDllNTM2ZA==/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyNiA5OjQ1OjE3IFBNJmhhc2hfdmFsdWU9MEpKaUNGWGVLdHFidzR0WkxraTErZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWY0OTU5ZmJjLTNhNmMtNGNhMi04NjQ4LWQxMDkwNmVhMDJkOA==/"
       },
       {
         "name": "Euronews 🇵🇹",
