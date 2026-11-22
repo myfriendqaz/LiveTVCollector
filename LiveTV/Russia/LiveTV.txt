@@ -1118,7 +1118,7 @@ URL: https://streaming.thestream.cyou/live/7000.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: 360° Новости
+Name: 360° Новости (1080p)
 URL: https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
@@ -1488,6 +1488,11 @@ URL: http://flussonic.linkintel.ru/che/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: Cinema (1080p)
+URL: https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: Cinema (576p)
 URL: http://flussonic.linkintel.ru/cinema/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1498,13 +1503,13 @@ URL: http://catchup.videoline.ru/cinema/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Cinema
-URL: https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+Name: Classic Music (1080p)
+URL: http://stream.mcquack.net/312/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Classic Music (1080p)
-URL: http://stream.mcquack.net/312/index.m3u8
+Name: Da Vinci (1080p)
+URL: https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1520,11 +1525,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Da Vinci (576p)
 URL: https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Da Vinci
-URL: https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1578,6 +1578,11 @@ URL: https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: Dom kino (1080p)
+URL: https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: Dom kino (576p)
 URL: http://88.212.15.50/live/test_dom_kino/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1585,11 +1590,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Dom kino (576p)
 URL: http://stream.mcquack.net/236/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Dom kino
-URL: https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1788,7 +1788,7 @@ URL: https://gtk.tv/hls/gtyar.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Groznyj
+Name: Groznyj (720p)
 URL: https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
@@ -1838,6 +1838,11 @@ URL: https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: Indiyskoye Kino (1080p)
+URL: https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: Indiyskoye Kino (576p)
 URL: http://stream.mcquack.net/104/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1845,11 +1850,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Indiyskoye Kino (576p)
 URL: https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Indiyskoye Kino
-URL: https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1933,6 +1933,11 @@ URL: http://stream.mcquack.net/221/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: KinoHit (1080p)
+URL: https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: KinoHit (576p)
 URL: http://stream.mcquack.net/126/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1940,11 +1945,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: KinoHit (576p)
 URL: https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: KinoHit
-URL: https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -1973,17 +1973,17 @@ URL: https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: Kinopokaz (1080p)
+URL: https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: Kinopokaz (576p)
 URL: http://stream.mcquack.net/64/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Kinopokaz
-URL: https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Kinopremyera
+Name: Kinopremyera (1080p)
 URL: https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
@@ -2008,6 +2008,11 @@ URL: https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: Kinosvidanie (1080p)
+URL: https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: Kinosvidanie (576p)
 URL: http://5.188.159.128:8070/kinosvidanie/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2020,11 +2025,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Kinosvidanie (576p)
 URL: https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Kinosvidanie
-URL: https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -2208,6 +2208,11 @@ URL: https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: Mir (1080p)
+URL: https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: Mir (576p)
 URL: http://31.148.5.241/kanal_18/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2228,18 +2233,13 @@ URL: https://tvcdn01.oktv.kz/tv/mir/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Mir
-URL: https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+Name: Mir 24 (1080p)
+URL: https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Mir 24 (576p)
 URL: http://5.188.159.128:8070/mir_24/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Mir 24
-URL: https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -2253,13 +2253,13 @@ URL: http://176.118.197.101/MirSeriala/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: MMA-TV.com (576p)
-URL: https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
+Name: MMA-TV.com (1080p)
+URL: https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: MMA-TV.com
-URL: https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+Name: MMA-TV.com (576p)
+URL: https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -2348,13 +2348,18 @@ URL: https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: Multilandia (1080p)
+URL: https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: Multilandia (576p)
 URL: https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Multilandia
-URL: https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+Name: Muz-TV (1080p)
+URL: https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -2383,11 +2388,6 @@ URL: https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Muz-TV
-URL: https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
 Name: Muzhskoe kino (576p)
 URL: http://stream.mcquack.net/107/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2408,6 +2408,11 @@ URL: http://stream.mcquack.net/303/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: Muzyka Pervogo (1080p)
+URL: https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: Muzyka Pervogo (576p)
 URL: http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2415,11 +2420,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Muzyka Pervogo (576p)
 URL: http://stream.mcquack.net/153/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Muzyka Pervogo
-URL: https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -2453,7 +2453,7 @@ URL: http://stream.mcquack.net/362/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Nashe Novoe Kino
+Name: Nashe Novoe Kino (1080p)
 URL: https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
@@ -2533,6 +2533,11 @@ URL: https://vod.tuva.ru/nst/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: NTV (1080p)
+URL: https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: NTV (576p)
 URL: http://31.148.5.241/kanal_4/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2540,11 +2545,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: NTV (576p)
 URL: http://176.118.197.101/NTV/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: NTV
-URL: https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -2613,13 +2613,13 @@ URL: http://stream.mcquack.net/194/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Okhota i rybalka (576p)
-URL: http://stream.mcquack.net/155/index.m3u8
+Name: Okhota i rybalka (1080p)
+URL: https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Okhota i rybalka
-URL: https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+Name: Okhota i rybalka (576p)
+URL: http://stream.mcquack.net/155/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -2863,7 +2863,7 @@ URL: https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: RU.TV
+Name: RU.TV (1080p)
 URL: https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
@@ -2883,13 +2883,13 @@ URL: http://31.148.5.241/kanal_21/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Russia-1 (576p)
-URL: http://31.148.5.241/kanal_2/index.m3u8
+Name: Russia-1 (1080p)
+URL: https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Russia-1
-URL: https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
+Name: Russia-1 (576p)
+URL: http://31.148.5.241/kanal_2/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -2959,6 +2959,11 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Russia-24 (1080p)
+URL: https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Russia-24 (1080p)
 URL: https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
@@ -2985,11 +2990,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Russia-24
 URL: http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Russia-24
-URL: https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -3398,6 +3398,11 @@ URL: http://88.212.15.50/live/svoboda/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: T24 (1080p)
+URL: https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: T24 (576p)
 URL: http://178.134.1.158:8081/t24/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -3413,13 +3418,13 @@ URL: https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: T24
-URL: https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+Name: Telecafe (1080p)
+URL: http://s1.merlive.am/telekafe/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Telecafe (1080p)
-URL: http://s1.merlive.am/telekafe/index.m3u8
+URL: https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -3435,11 +3440,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Telecafe (576p)
 URL: https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Telecafe
-URL: https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -3538,13 +3538,13 @@ URL: http://stream.mcquack.net/135/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: TNV-Planet (576p)
-URL: https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
+Name: TNV-Planet (1080p)
+URL: https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: TNV-Planet
-URL: https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
+Name: TNV-Planet (576p)
+URL: https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -3843,6 +3843,11 @@ URL: https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: viju Nature (1080p)
+URL: https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: viju Nature (576p)
 URL: http://46.53.200.153:7777/play/a01k/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -3855,11 +3860,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: viju Nature (576p)
 URL: https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: viju Nature
-URL: https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -3968,6 +3968,11 @@ URL: http://stream.mcquack.net/311/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: viju+ Sport (1080p)
+URL: https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: viju+ Sport (576p)
 URL: http://31.148.5.241/Viasat_Sport/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -3990,11 +3995,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: viju+ Sport (576p)
 URL: https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: viju+ Sport
-URL: https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -4053,13 +4053,13 @@ URL: http://195.26.83.96:7029/play/a006
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Zagorodnaya Zhizn (576p)
-URL: http://185.57.68.33/40/index.m3u8
+Name: Zagorodnaya Zhizn (1080p)
+URL: https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Zagorodnaya Zhizn
-URL: https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
+Name: Zagorodnaya Zhizn (576p)
+URL: http://185.57.68.33/40/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -4118,6 +4118,11 @@ URL: http://51.158.144.33:2021/zvezda/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
+Name: Zvezda (1080p)
+URL: https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
 Name: Zvezda (576p)
 URL: http://31.148.5.241/kanal_17/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4130,11 +4135,6 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Zvezda (576p)
 URL: https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
---------------------------------------------------
-Name: Zvezda
-URL: https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -4173,7 +4173,7 @@ URL: http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: БСТ 24 (Братск)
+Name: БСТ 24 (Братск) (1080p)
 URL: http://bst.bratsk.ru/hls/bst2/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
@@ -4208,7 +4208,7 @@ URL: https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: КИНОТВ
+Name: КИНОТВ (576p)
 URL: https://vod.tuva.ru/kinotv/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
@@ -4298,7 +4298,7 @@ URL: http://s1.tv-nano.com/Nano_rec/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Наука
+Name: Наука (576p)
 URL: https://vod.tuva.ru/nauka2/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
@@ -4328,7 +4328,7 @@ URL: https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: ОСН
+Name: ОСН (1080p)
 URL: http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
@@ -4378,7 +4378,7 @@ URL: https://online-video.rbc.ru/spb/rbctv_spb.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: РБК-ТВ
+Name: РБК-ТВ (1080p)
 URL: http://online-video.rbc.ru/online2/rbctv.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
@@ -4398,7 +4398,7 @@ URL: https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
-Name: Север (Нарьян-Мар)
+Name: Север (Нарьян-Мар) (1080p)
 URL: https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u

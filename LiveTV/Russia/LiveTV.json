@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-22 09:08:49",
+  "date": "2026-11-22 21:13:27",
   "channels": {
     "Кино": [
       {
@@ -11573,7 +11573,7 @@
         "url": "https://streaming.thestream.cyou/live/7000.m3u8"
       },
       {
-        "name": "360° Новости",
+        "name": "360° Новости (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
@@ -12091,6 +12091,13 @@
         "url": "http://flussonic.linkintel.ru/che/index.m3u8"
       },
       {
+        "name": "Cinema (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "Cinema (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -12105,18 +12112,18 @@
         "url": "http://catchup.videoline.ru/cinema/playlist.m3u8"
       },
       {
-        "name": "Cinema",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8"
-      },
-      {
         "name": "Classic Music (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "http://stream.mcquack.net/312/index.m3u8"
+      },
+      {
+        "name": "Da Vinci (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Da Vinci (576p)",
@@ -12138,13 +12145,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv"
-      },
-      {
-        "name": "Da Vinci",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "DanceHits80",
@@ -12217,6 +12217,13 @@
         "url": "https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8"
       },
       {
+        "name": "Dom kino (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "Dom kino (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -12229,13 +12236,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "http://stream.mcquack.net/236/index.m3u8"
-      },
-      {
-        "name": "Dom kino",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Dom kino International (576p)",
@@ -12511,7 +12511,7 @@
         "url": "https://gtk.tv/hls/gtyar.m3u8"
       },
       {
-        "name": "Groznyj",
+        "name": "Groznyj (720p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
@@ -12581,6 +12581,13 @@
         "url": "https://fs.uplink.kz/india/mono.m3u8?token=onlinetv"
       },
       {
+        "name": "Indiyskoye Kino (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "Indiyskoye Kino (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -12593,13 +12600,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv"
-      },
-      {
-        "name": "Indiyskoye Kino",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Insayt TV (2160p)",
@@ -12714,6 +12714,13 @@
         "url": "http://stream.mcquack.net/221/index.m3u8"
       },
       {
+        "name": "KinoHit (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "KinoHit (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -12726,13 +12733,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv"
-      },
-      {
-        "name": "KinoHit",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Kinokomedija (576p)",
@@ -12770,6 +12770,13 @@
         "url": "https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv"
       },
       {
+        "name": "Kinopokaz (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "Kinopokaz (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -12777,14 +12784,7 @@
         "url": "http://stream.mcquack.net/64/index.m3u8"
       },
       {
-        "name": "Kinopokaz",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "Kinopremyera",
+        "name": "Kinopremyera (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
@@ -12819,6 +12819,13 @@
         "url": "https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv"
       },
       {
+        "name": "Kinosvidanie (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "Kinosvidanie (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -12838,13 +12845,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv"
-      },
-      {
-        "name": "Kinosvidanie",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Kinouzhas (1080p)",
@@ -13099,6 +13099,13 @@
         "url": "https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8"
       },
       {
+        "name": "Mir (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "Mir (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -13127,11 +13134,11 @@
         "url": "https://tvcdn01.oktv.kz/tv/mir/index.m3u8"
       },
       {
-        "name": "Mir",
+        "name": "Mir 24 (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8"
+        "url": "https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Mir 24 (576p)",
@@ -13139,13 +13146,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "http://5.188.159.128:8070/mir_24/index.m3u8"
-      },
-      {
-        "name": "Mir 24",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Mir Kazakhstan (576p)",
@@ -13162,18 +13162,18 @@
         "url": "http://176.118.197.101/MirSeriala/index.m3u8"
       },
       {
+        "name": "MMA-TV.com (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "MMA-TV.com (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv"
-      },
-      {
-        "name": "MMA-TV.com",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Mosfilm Gold Collection (576p)",
@@ -13295,6 +13295,13 @@
         "url": "https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv"
       },
       {
+        "name": "Multilandia (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "Multilandia (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -13302,11 +13309,11 @@
         "url": "https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv"
       },
       {
-        "name": "Multilandia",
+        "name": "Muz-TV (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8"
+        "url": "https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Muz-TV (576p)",
@@ -13344,13 +13351,6 @@
         "url": "https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv"
       },
       {
-        "name": "Muz-TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8"
-      },
-      {
         "name": "Muzhskoe kino (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -13379,6 +13379,13 @@
         "url": "http://stream.mcquack.net/303/index.m3u8"
       },
       {
+        "name": "Muzyka Pervogo (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "Muzyka Pervogo (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -13391,13 +13398,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "http://stream.mcquack.net/153/index.m3u8"
-      },
-      {
-        "name": "Muzyka Pervogo",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Nano (576p)",
@@ -13442,7 +13442,7 @@
         "url": "http://stream.mcquack.net/362/index.m3u8"
       },
       {
-        "name": "Nashe Novoe Kino",
+        "name": "Nashe Novoe Kino (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
@@ -13554,6 +13554,13 @@
         "url": "https://vod.tuva.ru/nst/index.m3u8"
       },
       {
+        "name": "NTV (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "NTV (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -13566,13 +13573,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "http://176.118.197.101/NTV/index.m3u8"
-      },
-      {
-        "name": "NTV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "NTV HD (1080p)",
@@ -13666,18 +13666,18 @@
         "url": "http://stream.mcquack.net/194/index.m3u8"
       },
       {
+        "name": "Okhota i rybalka (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "Okhota i rybalka (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "http://stream.mcquack.net/155/index.m3u8"
-      },
-      {
-        "name": "Okhota i rybalka",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Okko Futbol (576p)",
@@ -14016,7 +14016,7 @@
         "url": "https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https"
       },
       {
-        "name": "RU.TV",
+        "name": "RU.TV (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
@@ -14044,18 +14044,18 @@
         "url": "http://31.148.5.241/kanal_21/index.m3u8"
       },
       {
+        "name": "Russia-1 (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "Russia-1 (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "http://31.148.5.241/kanal_2/index.m3u8"
-      },
-      {
-        "name": "Russia-1",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Russia-1 +1 (1080p)",
@@ -14153,6 +14153,13 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "Russia-24 (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8"
       },
       {
@@ -14189,13 +14196,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8"
-      },
-      {
-        "name": "Russia-24",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Russia-24 HD (1080p)",
@@ -14765,6 +14765,13 @@
         "url": "http://88.212.15.50/live/svoboda/index.m3u8"
       },
       {
+        "name": "T24 (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "T24 (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -14786,18 +14793,18 @@
         "url": "https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv"
       },
       {
-        "name": "T24",
+        "name": "Telecafe (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8"
+        "url": "http://s1.merlive.am/telekafe/index.m3u8"
       },
       {
         "name": "Telecafe (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "http://s1.merlive.am/telekafe/index.m3u8"
+        "url": "https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Telecafe (576p)",
@@ -14819,13 +14826,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv"
-      },
-      {
-        "name": "Telecafe",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "TeleDom",
@@ -14961,18 +14961,18 @@
         "url": "http://stream.mcquack.net/135/index.m3u8"
       },
       {
+        "name": "TNV-Planet (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "TNV-Planet (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv"
-      },
-      {
-        "name": "TNV-Planet",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "TNV-Tatarstan (720p)",
@@ -15388,6 +15388,13 @@
         "url": "https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv"
       },
       {
+        "name": "viju Nature (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "viju Nature (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -15407,13 +15414,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv"
-      },
-      {
-        "name": "viju Nature",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "viju TV1000 (576p)",
@@ -15563,6 +15563,13 @@
         "url": "http://stream.mcquack.net/311/index.m3u8"
       },
       {
+        "name": "viju+ Sport (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "viju+ Sport (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -15596,13 +15603,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv"
-      },
-      {
-        "name": "viju+ Sport",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Vitrina TV (720p)",
@@ -15682,18 +15682,18 @@
         "url": "http://195.26.83.96:7029/play/a006"
       },
       {
+        "name": "Zagorodnaya Zhizn (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "Zagorodnaya Zhizn (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "http://185.57.68.33/40/index.m3u8"
-      },
-      {
-        "name": "Zagorodnaya Zhizn",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Zdorovoe TV (576p)",
@@ -15773,6 +15773,13 @@
         "url": "http://51.158.144.33:2021/zvezda/index.m3u8"
       },
       {
+        "name": "Zvezda (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "Zvezda (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
@@ -15792,13 +15799,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv"
-      },
-      {
-        "name": "Zvezda",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
-        "url": "https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Zvezda HD (1080p) [Not 24/7]",
@@ -15850,7 +15850,7 @@
         "url": "http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8"
       },
       {
-        "name": "БСТ 24 (Братск)",
+        "name": "БСТ 24 (Братск) (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
@@ -15899,7 +15899,7 @@
         "url": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8"
       },
       {
-        "name": "КИНОТВ",
+        "name": "КИНОТВ (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
@@ -16025,7 +16025,7 @@
         "url": "http://s1.tv-nano.com/Nano_rec/index.m3u8"
       },
       {
-        "name": "Наука",
+        "name": "Наука (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
@@ -16067,7 +16067,7 @@
         "url": "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8"
       },
       {
-        "name": "ОСН",
+        "name": "ОСН (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
@@ -16137,7 +16137,7 @@
         "url": "https://online-video.rbc.ru/spb/rbctv_spb.m3u8"
       },
       {
-        "name": "РБК-ТВ",
+        "name": "РБК-ТВ (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
@@ -16165,7 +16165,7 @@
         "url": "https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8"
       },
       {
-        "name": "Север (Нарьян-Мар)",
+        "name": "Север (Нарьян-Мар) (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
