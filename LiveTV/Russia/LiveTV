@@ -10200,6 +10200,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Channel 4 (1080p)",
+    "type": "Uncategorized",
+    "url": "https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Channel 5 (576p)",
     "type": "Uncategorized",
     "url": "http://31.148.5.241/kanal_5/index.m3u8",
@@ -13980,46 +13986,10 @@
     "img": "https://i.imgur.com/CM6z7fA.png"
   },
   {
-    "name": "Strana FM",
+    "name": "Strana FM (720p)",
     "type": "Music",
     "url": "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8",
     "img": "https://i.imgur.com/WsPlKJJ.png"
-  },
-  {
-    "name": "360° News (1080p)",
-    "type": "News",
-    "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/YXDeX8q.png"
-  },
-  {
-    "name": "Current Time TV (1080p)",
-    "type": "News",
-    "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
-    "img": "https://i.imgur.com/hKo8ApU.png"
-  },
-  {
-    "name": "Don 24 (1080p)",
-    "type": "News",
-    "url": "https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8",
-    "img": "https://i.imgur.com/fW15la1.png"
-  },
-  {
-    "name": "Euronews Russian (720p)",
-    "type": "News",
-    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8",
-    "img": "https://i.imgur.com/8t9mdg9.png"
-  },
-  {
-    "name": "Krik-TV (1080p)",
-    "type": "News",
-    "url": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8",
-    "img": "https://i.imgur.com/rtuChZR.png"
-  },
-  {
-    "name": "Pervyy Respublikanskiy (576p)",
-    "type": "News",
-    "url": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
-    "img": "https://i.imgur.com/ti4OMBv.png"
   },
   {
     "name": "A2 (576p)",
@@ -14062,12 +14032,6 @@
     "type": "Undefined",
     "url": "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8",
     "img": "https://i.imgur.com/blAtdkJ.png"
-  },
-  {
-    "name": "BST (576p)",
-    "type": "Undefined",
-    "url": "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8",
-    "img": "https://i.imgur.com/IDotHmQ.png"
   },
   {
     "name": "Dagestan (1080p)",
@@ -14202,16 +14166,10 @@
     "img": "https://i.imgur.com/d02uxkB.png"
   },
   {
-    "name": "Lugansk 24",
+    "name": "Lugansk 24 (576p)",
     "type": "General",
     "url": "https://streaming.televizor-24-tochka.ru/live/29.m3u8",
     "img": "https://i.imgur.com/AihoVc0.png"
-  },
-  {
-    "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",Mir (720p)",
-    "type": "General",
-    "url": "https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8",
-    "img": "https://i.imgur.com/AqWaJT8.png"
   },
   {
     "name": "Mir +4 (576p)",
@@ -14262,12 +14220,6 @@
     "img": "https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg"
   },
   {
-    "name": "Russia-1 (1080p)",
-    "type": "General",
-    "url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8",
-    "img": "https://i.imgur.com/Osd2JHL.png"
-  },
-  {
     "name": "Samara 24 (1080p)",
     "type": "General",
     "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8",
@@ -14286,7 +14238,7 @@
     "img": "https://i.imgur.com/jgwQPl0.png"
   },
   {
-    "name": "Tavriya",
+    "name": "Tavriya (576p)",
     "type": "General",
     "url": "https://streaming.televizor-24-tochka.ru/live/24.m3u8",
     "img": "https://i.imgur.com/gqung6i.png"
@@ -14316,7 +14268,7 @@
     "img": "https://yarreg.ru/gallery/news/2025/03/293241/3.jpeg"
   },
   {
-    "name": "Za! TV",
+    "name": "Za! TV (576p)",
     "type": "General",
     "url": "https://streaming.televizor-24-tochka.ru/live/25.m3u8",
     "img": "https://i.imgur.com/pVPTl8J.png"
@@ -14374,12 +14326,6 @@
     "type": "Sports",
     "url": "http://31.148.48.15/Match_Strana/index.m3u8",
     "img": "https://i.imgur.com/X02s2UE.png"
-  },
-  {
-    "name": "MMA-TV.com (1080p)",
-    "type": "Sports",
-    "url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
-    "img": "https://i.imgur.com/QhdxNsB.png"
   },
   {
     "name": "Russian Extreme (576p)",
@@ -14584,6 +14530,42 @@
     "type": "General;Religious",
     "url": "https://cityeden.catcast.tv/content/34246/index.m3u8",
     "img": "https://i.imgur.com/X9kACKi.png"
+  },
+  {
+    "name": "Crimea 24 (576p)",
+    "type": "News",
+    "url": "https://streaming.televizor-24-tochka.ru/live/28.m3u8",
+    "img": "https://i.imgur.com/k4C0uvp.png"
+  },
+  {
+    "name": "Current Time TV (1080p)",
+    "type": "News",
+    "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+    "img": "https://i.imgur.com/hKo8ApU.png"
+  },
+  {
+    "name": "Don 24 (1080p)",
+    "type": "News",
+    "url": "https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8",
+    "img": "https://i.imgur.com/fW15la1.png"
+  },
+  {
+    "name": "Euronews Russian (1080p)",
+    "type": "News",
+    "url": "https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/8t9mdg9.png"
+  },
+  {
+    "name": "Krik-TV (1080p)",
+    "type": "News",
+    "url": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8",
+    "img": "https://i.imgur.com/rtuChZR.png"
+  },
+  {
+    "name": "Pervyy Respublikanskiy (576p)",
+    "type": "News",
+    "url": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
+    "img": "https://i.imgur.com/ti4OMBv.png"
   },
   {
     "name": "DocuBox Russia",

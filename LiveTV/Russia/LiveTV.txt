@@ -131,14 +131,9 @@ URL: https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2
 Logo: https://i.imgur.com/d02uxkB.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Lugansk 24
+Name: Lugansk 24 (576p)
 URL: https://streaming.televizor-24-tochka.ru/live/29.m3u8
 Logo: https://i.imgur.com/AihoVc0.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Mir (720p)
-URL: https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8
-Logo: https://i.imgur.com/AqWaJT8.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Mir +4 (576p)
@@ -181,11 +176,6 @@ URL: https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 Logo: https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Russia-1 (1080p)
-URL: http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
-Logo: https://i.imgur.com/Osd2JHL.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: Samara 24 (1080p)
 URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
 Logo: https://i.imgur.com/YUe3Dwd.png
@@ -201,7 +191,7 @@ URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 Logo: https://i.imgur.com/jgwQPl0.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Tavriya
+Name: Tavriya (576p)
 URL: https://streaming.televizor-24-tochka.ru/live/24.m3u8
 Logo: https://i.imgur.com/gqung6i.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
@@ -226,7 +216,7 @@ URL: https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 Logo: https://yarreg.ru/gallery/news/2025/03/293241/3.jpeg
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Za! TV
+Name: Za! TV (576p)
 URL: https://streaming.televizor-24-tochka.ru/live/25.m3u8
 Logo: https://i.imgur.com/pVPTl8J.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
@@ -448,16 +438,16 @@ URL: http://31.148.48.15/O2_HD/index.m3u8
 Logo: https://i.imgur.com/CM6z7fA.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Strana FM
+Name: Strana FM (720p)
 URL: https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 Logo: https://i.imgur.com/WsPlKJJ.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: News
-Name: 360° News (1080p)
-URL: https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-Logo: https://i.imgur.com/YXDeX8q.png
+Name: Crimea 24 (576p)
+URL: https://streaming.televizor-24-tochka.ru/live/28.m3u8
+Logo: https://i.imgur.com/k4C0uvp.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Current Time TV (1080p)
@@ -470,8 +460,8 @@ URL: https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 Logo: https://i.imgur.com/fW15la1.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Euronews Russian (720p)
-URL: https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+Name: Euronews Russian (1080p)
+URL: https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/8t9mdg9.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
@@ -563,11 +553,6 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Match! Strana (720p)
 URL: http://31.148.48.15/Match_Strana/index.m3u8
 Logo: https://i.imgur.com/X02s2UE.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: MMA-TV.com (1080p)
-URL: https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-Logo: https://i.imgur.com/QhdxNsB.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Russian Extreme (576p)
@@ -1385,6 +1370,11 @@ Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
 Name: Cartoon Classics
 URL: http://88.218.242.237:8001/Cartoon_Classics
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
+--------------------------------------------------
+Name: Channel 4 (1080p)
+URL: https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
 --------------------------------------------------
@@ -4488,11 +4478,6 @@ Group: Undefined
 Name: Arkhyz 24 (1080p)
 URL: https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 Logo: https://i.imgur.com/blAtdkJ.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: BST (576p)
-URL: https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-Logo: https://i.imgur.com/IDotHmQ.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Dagestan (1080p)
