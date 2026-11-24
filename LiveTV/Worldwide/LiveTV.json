@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24 12:52:33",
+  "date": "2026-11-25 00:39:44",
   "channels": {
     "TV Aberta": [
       {
@@ -80,6 +80,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8"
+      },
+      {
+        "name": "AG TV",
+        "logo": "https://i.postimg.cc/63D86yTn/ag-tv.jpg",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8?hls_ctx=x105h921"
       },
       {
         "name": "Amazon Sat",
@@ -726,6 +733,13 @@
         "url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8"
       },
       {
+        "name": "TV CAJUI WEB",
+        "logo": "https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8"
+      },
+      {
         "name": "TV Cancao Nova",
         "logo": "https://i.imgur.com/OaM9hkH.png",
         "group": "Variedades",
@@ -1011,6 +1025,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video04.logicahost.com.br/isonata/isonata/chunklist_w910221052.m3u8"
+      },
+      {
+        "name": "TV Sul Bahia",
+        "logo": "https://i.imgur.com/qM6nMWm.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
       },
       {
         "name": "TV São Gabriel",
@@ -1703,6 +1724,13 @@
         "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8"
       },
       {
+        "name": "Fonte TV",
+        "logo": "https://i.imgur.com/7q2BmNc.png",
+        "group": "Religião",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
+      },
+      {
         "name": "Gospel Cartoon",
         "logo": "https://i.imgur.com/yxjPno5.png",
         "group": "Religião",
@@ -1757,6 +1785,13 @@
         "group": "Religião",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://186.219.52.187/seculo21/index.m3u8"
+      },
+      {
+        "name": "Rede Super TV",
+        "logo": "https://i.postimg.cc/KzBqPDvc/rede-supertv.jpg",
+        "group": "Religião",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8"
       },
       {
         "name": "Rede Vida",
@@ -2173,7 +2208,7 @@
         "logo": "https://i.imgur.com/w9R9IIX.png",
         "group": "Outdoor",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://186.219.52.187/canal_rural/index.m3u8"
+        "url": "http://170.83.49.66:8083/CANALRURALHD/index.m3u8"
       },
       {
         "name": "Fish TV",
@@ -2195,15 +2230,6 @@
         "group": "Outdoor",
         "source": "https://raw.githubusercontent.com/altn2025/iptv/refs/heads/main/international.m3u",
         "url": "https://bamus-lovenature-lg.amagi.tv/playlist.m3u8"
-      }
-    ],
-    "Shop": [
-      {
-        "name": "1001 Noites",
-        "logo": "https://i.imgur.com/dWA9y2J.png",
-        "group": "Shop",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8"
       }
     ],
     "Viagem": [
