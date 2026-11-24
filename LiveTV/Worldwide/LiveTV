@@ -84,6 +84,12 @@
     "img": "https://i.postimg.cc/9XdkfK7s/awtv-logo.jpg"
   },
   {
+    "name": "BDC TV",
+    "type": "Variedades",
+    "url": "https://video01.brascast.com/bdctv/bdctv/playlist.m3u8",
+    "img": "https://i.postimg.cc/D0Wwhpkn/bdc-tv.jpg"
+  },
+  {
     "name": "Boas Novas",
     "type": "Variedades",
     "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
@@ -594,6 +600,12 @@
     "img": "https://i.postimg.cc/BvSXPFDQ/tvbraasil-angola.jpg"
   },
   {
+    "name": "TV Brasil Oeste",
+    "type": "Variedades",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+    "img": "https://i.imgur.com/noqGfuy.png"
+  },
+  {
     "name": "TV Brasil Sinop",
     "type": "Variedades",
     "url": "https://stmv7.voxtvhd.com.br/tvbrasilsinop/tvbrasilsinop/playlist.m3u8",
@@ -706,6 +718,12 @@
     "type": "Variedades",
     "url": "https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8",
     "img": "https://i.postimg.cc/PJZcjPSP/tv-gazin.jpg"
+  },
+  {
+    "name": "TV Globo Brasilia",
+    "type": "Variedades",
+    "url": "http://79.127.238.228:14173",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "TV Guara",
@@ -844,12 +862,6 @@
     "type": "Variedades",
     "url": "https://video04.logicahost.com.br/isonata/isonata/chunklist_w910221052.m3u8",
     "img": "https://i.postimg.cc/bNK96RZH/tvsonata.png"
-  },
-  {
-    "name": "TV Sul Bahia",
-    "type": "Variedades",
-    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
-    "img": "https://i.imgur.com/qM6nMWm.png"
   },
   {
     "name": "TV São Gabriel",
@@ -1098,6 +1110,12 @@
     "img": "https://i.postimg.cc/WbMWR38h/fox-kids-network.jpg"
   },
   {
+    "name": "Hallo Anime",
+    "type": "Infantil",
+    "url": "https://eitvplay.appmembers.com.br/event120/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Ministério Infantil TV",
     "type": "Infantil",
     "url": "https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8",
@@ -1208,7 +1226,7 @@
   {
     "name": "Jovem Pan News",
     "type": "Notícias",
-    "url": "http://186.219.52.187/jp_news/index.m3u8",
+    "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png"
   },
   {
@@ -1544,7 +1562,7 @@
   {
     "name": "AgroCanal",
     "type": "Educação",
-    "url": "http://186.219.52.187/agro_canal/index.m3u8",
+    "url": "http://170.83.49.66:8083/AGROCANALHD/index.m3u8",
     "img": "https://i.imgur.com/5XyopHf.png"
   },
   {
@@ -1776,6 +1794,30 @@
     "img": "https://i.imgur.com/hIlEfhl.png"
   },
   {
+    "name": "Hallo Doc",
+    "type": "Documentários",
+    "url": "https://eitvplay.appmembers.com.br/event162/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ",
+    "img": "https://www.rlnetpoa.com.br/images/canais/Hallo!%20Doc.png"
+  },
+  {
+    "name": "Hallo Classic",
+    "type": "Filmes e Séries",
+    "url": "https://eitvplay.appmembers.com.br/event161/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ",
+    "img": "https://www.rlnetpoa.com.br/images/canais/Hallo!%20Classic.png"
+  },
+  {
+    "name": "Hallo Movies",
+    "type": "Filmes e Séries",
+    "url": "https://eitvplay.appmembers.com.br/event156/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Hallo Series",
+    "type": "Filmes e Séries",
+    "url": "https://eitvplay.appmembers.com.br/event164/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ",
+    "img": "https://www.rlnetpoa.com.br/images/canais/Hallo!%20S%C3%A9ries.png"
+  },
+  {
     "name": "TV Camara",
     "type": "Legislativo",
     "url": "http://170.83.49.66:8083/TVCAMARAHD/index.m3u8",
@@ -1804,6 +1846,12 @@
     "type": "Outdoor",
     "url": "https://bamus-lovenature-lg.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/JEDlYlh.png"
+  },
+  {
+    "name": "1001 Noites",
+    "type": "Shop",
+    "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8",
+    "img": "https://i.imgur.com/dWA9y2J.png"
   },
   {
     "name": "Travel Box Brazil",

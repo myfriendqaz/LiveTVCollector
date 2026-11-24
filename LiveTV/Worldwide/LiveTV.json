@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24 01:05:21",
+  "date": "2026-11-24 12:52:33",
   "channels": {
     "TV Aberta": [
       {
@@ -101,6 +101,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://awtv.nuvemplay.live/hls/stream.m3u8"
+      },
+      {
+        "name": "BDC TV",
+        "logo": "https://i.postimg.cc/D0Wwhpkn/bdc-tv.jpg",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://video01.brascast.com/bdctv/bdctv/playlist.m3u8"
       },
       {
         "name": "Boas Novas",
@@ -698,6 +705,13 @@
         "url": "https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8"
       },
       {
+        "name": "TV Brasil Oeste",
+        "logo": "https://i.imgur.com/noqGfuy.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+      },
+      {
         "name": "TV Brasil Sinop",
         "logo": "https://i.postimg.cc/VvJSKWZ2/1002663005-logo-2.jpg",
         "group": "Variedades",
@@ -829,6 +843,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video09.logicahost.com.br/tvgazin/tvgazin/playlist.m3u8"
+      },
+      {
+        "name": "TV Globo Brasilia",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "http://79.127.238.228:14173"
       },
       {
         "name": "TV Guara",
@@ -990,13 +1011,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video04.logicahost.com.br/isonata/isonata/chunklist_w910221052.m3u8"
-      },
-      {
-        "name": "TV Sul Bahia",
-        "logo": "https://i.imgur.com/qM6nMWm.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
       },
       {
         "name": "TV São Gabriel",
@@ -1292,6 +1306,13 @@
         "url": "https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8?hls_ctx=h517o66o"
       },
       {
+        "name": "Hallo Anime",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Infantil",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://eitvplay.appmembers.com.br/event120/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ"
+      },
+      {
         "name": "Ministério Infantil TV",
         "logo": "https://i.postimg.cc/GtrgvgjN/ministerio_infantil.jpg",
         "group": "Infantil",
@@ -1426,7 +1447,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
         "group": "Notícias",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://186.219.52.187/jp_news/index.m3u8"
+        "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8"
       },
       {
         "name": "Jovem Pan News",
@@ -1828,7 +1849,7 @@
         "logo": "https://i.imgur.com/5XyopHf.png",
         "group": "Educação",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://186.219.52.187/agro_canal/index.m3u8"
+        "url": "http://170.83.49.66:8083/AGROCANALHD/index.m3u8"
       },
       {
         "name": "Canal Educacao",
@@ -2105,6 +2126,38 @@
         "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
       }
     ],
+    "Documentários": [
+      {
+        "name": "Hallo Doc",
+        "logo": "https://www.rlnetpoa.com.br/images/canais/Hallo!%20Doc.png",
+        "group": "Documentários",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://eitvplay.appmembers.com.br/event162/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ"
+      }
+    ],
+    "Filmes e Séries": [
+      {
+        "name": "Hallo Classic",
+        "logo": "https://www.rlnetpoa.com.br/images/canais/Hallo!%20Classic.png",
+        "group": "Filmes e Séries",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://eitvplay.appmembers.com.br/event161/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ"
+      },
+      {
+        "name": "Hallo Movies",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Filmes e Séries",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://eitvplay.appmembers.com.br/event156/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ"
+      },
+      {
+        "name": "Hallo Series",
+        "logo": "https://www.rlnetpoa.com.br/images/canais/Hallo!%20S%C3%A9ries.png",
+        "group": "Filmes e Séries",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://eitvplay.appmembers.com.br/event164/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ"
+      }
+    ],
     "Legislativo": [
       {
         "name": "TV Camara",
@@ -2142,6 +2195,15 @@
         "group": "Outdoor",
         "source": "https://raw.githubusercontent.com/altn2025/iptv/refs/heads/main/international.m3u",
         "url": "https://bamus-lovenature-lg.amagi.tv/playlist.m3u8"
+      }
+    ],
+    "Shop": [
+      {
+        "name": "1001 Noites",
+        "logo": "https://i.imgur.com/dWA9y2J.png",
+        "group": "Shop",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8"
       }
     ],
     "Viagem": [
