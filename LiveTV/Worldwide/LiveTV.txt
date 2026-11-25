@@ -55,7 +55,7 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 
 Group: Educação
 Name: AgroCanal
-URL: http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+URL: http://186.219.52.187/agro_canal/index.m3u8
 Logo: https://i.imgur.com/5XyopHf.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -1078,7 +1078,7 @@ Logo: https://i.imgur.com/lezIQyL.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Jovem Pan News
-URL: http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
+URL: http://186.219.52.187/jp_news/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -1160,7 +1160,7 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 
 Group: Outdoor
 Name: Canal Rural
-URL: http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+URL: http://186.219.52.187/canal_rural/index.m3u8
 Logo: https://i.imgur.com/w9R9IIX.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -1307,6 +1307,13 @@ Logo: https://i.imgur.com/TIsk5zN.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 
+Group: Shop
+Name: 1001 Noites
+URL: https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
+Logo: https://i.imgur.com/dWA9y2J.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+
 Group: Séries
 Name: TV Series
 URL: https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
@@ -1395,11 +1402,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: BDC TV
 URL: https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 Logo: https://i.postimg.cc/D0Wwhpkn/bdc-tv.jpg
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Boas Novas
-URL: https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-Logo: https://i.imgur.com/ZqhizdP.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: BRKS TV

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-25 00:39:44",
+  "date": "2026-11-25 11:23:41",
   "channels": {
     "TV Aberta": [
       {
@@ -115,13 +115,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video01.brascast.com/bdctv/bdctv/playlist.m3u8"
-      },
-      {
-        "name": "Boas Novas",
-        "logo": "https://i.imgur.com/ZqhizdP.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
       },
       {
         "name": "BRKS TV",
@@ -1468,7 +1461,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
         "group": "Notícias",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8"
+        "url": "http://186.219.52.187/jp_news/index.m3u8"
       },
       {
         "name": "Jovem Pan News",
@@ -1884,7 +1877,7 @@
         "logo": "https://i.imgur.com/5XyopHf.png",
         "group": "Educação",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://170.83.49.66:8083/AGROCANALHD/index.m3u8"
+        "url": "http://186.219.52.187/agro_canal/index.m3u8"
       },
       {
         "name": "Canal Educacao",
@@ -2208,7 +2201,7 @@
         "logo": "https://i.imgur.com/w9R9IIX.png",
         "group": "Outdoor",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://170.83.49.66:8083/CANALRURALHD/index.m3u8"
+        "url": "http://186.219.52.187/canal_rural/index.m3u8"
       },
       {
         "name": "Fish TV",
@@ -2230,6 +2223,15 @@
         "group": "Outdoor",
         "source": "https://raw.githubusercontent.com/altn2025/iptv/refs/heads/main/international.m3u",
         "url": "https://bamus-lovenature-lg.amagi.tv/playlist.m3u8"
+      }
+    ],
+    "Shop": [
+      {
+        "name": "1001 Noites",
+        "logo": "https://i.imgur.com/dWA9y2J.png",
+        "group": "Shop",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8"
       }
     ],
     "Viagem": [
