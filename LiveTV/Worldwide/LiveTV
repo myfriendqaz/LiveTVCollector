@@ -408,15 +408,9 @@
     "img": "https://i.postimg.cc/rFzfZmQc/rede-brasil-tv.jpg"
   },
   {
-    "name": "Rede Classic",
-    "type": "Variedades",
-    "url": "https://srv2.zcast.com.br/redenovelas/redenovelas/playlist.m3u8",
-    "img": "https://i.postimg.cc/gjcYsML8/rede-classic.jpg"
-  },
-  {
     "name": "Rede CNT Rio de Janeiro",
     "type": "Variedades",
-    "url": "http://186.219.52.187/cnt/index.m3u8",
+    "url": "http://170.83.49.66:8083/REDECNTHD/index.m3u8",
     "img": "https://i.imgur.com/jcasAmw.png"
   },
   {
@@ -870,12 +864,6 @@
     "img": "https://i.postimg.cc/bNK96RZH/tvsonata.png"
   },
   {
-    "name": "TV Sul Bahia",
-    "type": "Variedades",
-    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
-    "img": "https://i.imgur.com/qM6nMWm.png"
-  },
-  {
     "name": "TV São Gabriel",
     "type": "Variedades",
     "url": "https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/playlist.m3u8",
@@ -1158,12 +1146,6 @@
     "img": "https://i.imgur.com/sqUlcaY.png"
   },
   {
-    "name": "Retrô Cartoon",
-    "type": "Infantil",
-    "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1857106462.m3u8",
-    "img": "https://i.postimg.cc/pXFrrsjk/retrocartoon.jpg"
-  },
-  {
     "name": "TV Kids Mais",
     "type": "Infantil",
     "url": "https://Stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8",
@@ -1174,12 +1156,6 @@
     "type": "Animação",
     "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
     "img": "https://i.imgur.com/R0aflu1.png"
-  },
-  {
-    "name": "NickOnline Bob Esponja",
-    "type": "Animação",
-    "url": "https://bob.x1colegal.com/hls/stream.m3u8",
-    "img": "https://x1colegal.com/nickonlinebobesponja.png"
   },
   {
     "name": "AgroMais",
@@ -1198,6 +1174,12 @@
     "type": "Notícias",
     "url": "http://170.83.16.50/BAND_NEWS/index.m3u8",
     "img": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg"
+  },
+  {
+    "name": "BM&C News",
+    "type": "Notícias",
+    "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8",
+    "img": "https://i.imgur.com/pOUY2Uz.png"
   },
   {
     "name": "Canal 38",
@@ -1238,7 +1220,7 @@
   {
     "name": "Jovem Pan News",
     "type": "Notícias",
-    "url": "http://186.219.52.187/jp_news/index.m3u8",
+    "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png"
   },
   {
@@ -1372,12 +1354,6 @@
     "type": "Entretenimento",
     "url": "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8",
     "img": "https://i.imgur.com/8upyApg.png"
-  },
-  {
-    "name": "ElyTV",
-    "type": "Entretenimento",
-    "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8",
-    "img": "https://i.imgur.com/1eHNe91.png"
   },
   {
     "name": "Petlovers TV",
@@ -1586,7 +1562,7 @@
   {
     "name": "AgroCanal",
     "type": "Educação",
-    "url": "http://186.219.52.187/agro_canal/index.m3u8",
+    "url": "http://170.83.49.66:8083/AGROCANALHD/index.m3u8",
     "img": "https://i.imgur.com/5XyopHf.png"
   },
   {
@@ -1684,6 +1660,12 @@
     "type": "Música",
     "url": "http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8",
     "img": "https://i.imgur.com/CDPCF2X.png"
+  },
+  {
+    "name": "TikTok Radio Brasil",
+    "type": "Música",
+    "url": "https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg"
   },
   {
     "name": "TV Grande Natal",
@@ -1812,12 +1794,6 @@
     "img": "https://i.postimg.cc/BnvwkBj7/way_tv.jpg"
   },
   {
-    "name": "Retro Cartoon",
-    "type": "Clássico",
-    "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8",
-    "img": "https://i.imgur.com/hIlEfhl.png"
-  },
-  {
     "name": "Hallo Doc",
     "type": "Documentários",
     "url": "https://eitvplay.appmembers.com.br/event162/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ",
@@ -1850,7 +1826,7 @@
   {
     "name": "Canal Rural",
     "type": "Outdoor",
-    "url": "http://186.219.52.187/canal_rural/index.m3u8",
+    "url": "http://170.83.49.66:8083/CANALRURALHD/index.m3u8",
     "img": "https://i.imgur.com/w9R9IIX.png"
   },
   {
@@ -1870,12 +1846,6 @@
     "type": "Outdoor",
     "url": "https://bamus-lovenature-lg.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/JEDlYlh.png"
-  },
-  {
-    "name": "1001 Noites",
-    "type": "Shop",
-    "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8",
-    "img": "https://i.imgur.com/dWA9y2J.png"
   },
   {
     "name": "Travel Box Brazil",

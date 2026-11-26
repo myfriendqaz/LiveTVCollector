@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-25 11:23:41",
+  "date": "2026-11-26 11:14:53",
   "channels": {
     "TV Aberta": [
       {
@@ -481,18 +481,11 @@
         "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w230245795.m3u8"
       },
       {
-        "name": "Rede Classic",
-        "logo": "https://i.postimg.cc/gjcYsML8/rede-classic.jpg",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://srv2.zcast.com.br/redenovelas/redenovelas/playlist.m3u8"
-      },
-      {
         "name": "Rede CNT Rio de Janeiro",
         "logo": "https://i.imgur.com/jcasAmw.png",
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://186.219.52.187/cnt/index.m3u8"
+        "url": "http://170.83.49.66:8083/REDECNTHD/index.m3u8"
       },
       {
         "name": "Rede Familia",
@@ -1020,13 +1013,6 @@
         "url": "https://video04.logicahost.com.br/isonata/isonata/chunklist_w910221052.m3u8"
       },
       {
-        "name": "TV Sul Bahia",
-        "logo": "https://i.imgur.com/qM6nMWm.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
-      },
-      {
         "name": "TV São Gabriel",
         "logo": "https://i.postimg.cc/s2wN6x62/tv-sao-gabriel.jpg",
         "group": "Variedades",
@@ -1362,13 +1348,6 @@
         "url": "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8"
       },
       {
-        "name": "Retrô Cartoon",
-        "logo": "https://i.postimg.cc/pXFrrsjk/retrocartoon.jpg",
-        "group": "Infantil",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1857106462.m3u8"
-      },
-      {
         "name": "TV Kids Mais",
         "logo": "https://i.postimg.cc/Qxh10Z7j/tv-kids-mais.jpg",
         "group": "Infantil",
@@ -1383,13 +1362,6 @@
         "group": "Animação",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8"
-      },
-      {
-        "name": "NickOnline Bob Esponja",
-        "logo": "https://x1colegal.com/nickonlinebobesponja.png",
-        "group": "Animação",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://bob.x1colegal.com/hls/stream.m3u8"
       }
     ],
     "Notícias": [
@@ -1413,6 +1385,13 @@
         "group": "Notícias",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://170.83.16.50/BAND_NEWS/index.m3u8"
+      },
+      {
+        "name": "BM&C News",
+        "logo": "https://i.imgur.com/pOUY2Uz.png",
+        "group": "Notícias",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
       },
       {
         "name": "Canal 38",
@@ -1461,7 +1440,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
         "group": "Notícias",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://186.219.52.187/jp_news/index.m3u8"
+        "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8"
       },
       {
         "name": "Jovem Pan News",
@@ -1620,13 +1599,6 @@
         "group": "Entretenimento",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8"
-      },
-      {
-        "name": "ElyTV",
-        "logo": "https://i.imgur.com/1eHNe91.png",
-        "group": "Entretenimento",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
       },
       {
         "name": "Petlovers TV",
@@ -1877,7 +1849,7 @@
         "logo": "https://i.imgur.com/5XyopHf.png",
         "group": "Educação",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://186.219.52.187/agro_canal/index.m3u8"
+        "url": "http://170.83.49.66:8083/AGROCANALHD/index.m3u8"
       },
       {
         "name": "Canal Educacao",
@@ -1994,6 +1966,13 @@
         "group": "Música",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8"
+      },
+      {
+        "name": "TikTok Radio Brasil",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg",
+        "group": "Música",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8"
       },
       {
         "name": "TV Grande Natal",
@@ -2145,15 +2124,6 @@
         "url": "https://live.wayone.cloud/waytv/waytv1/playlist.m3u8"
       }
     ],
-    "Clássico": [
-      {
-        "name": "Retro Cartoon",
-        "logo": "https://i.imgur.com/hIlEfhl.png",
-        "group": "Clássico",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
-      }
-    ],
     "Documentários": [
       {
         "name": "Hallo Doc",
@@ -2201,7 +2171,7 @@
         "logo": "https://i.imgur.com/w9R9IIX.png",
         "group": "Outdoor",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "http://186.219.52.187/canal_rural/index.m3u8"
+        "url": "http://170.83.49.66:8083/CANALRURALHD/index.m3u8"
       },
       {
         "name": "Fish TV",
@@ -2223,15 +2193,6 @@
         "group": "Outdoor",
         "source": "https://raw.githubusercontent.com/altn2025/iptv/refs/heads/main/international.m3u",
         "url": "https://bamus-lovenature-lg.amagi.tv/playlist.m3u8"
-      }
-    ],
-    "Shop": [
-      {
-        "name": "1001 Noites",
-        "logo": "https://i.imgur.com/dWA9y2J.png",
-        "group": "Shop",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8"
       }
     ],
     "Viagem": [
