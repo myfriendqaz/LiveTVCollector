@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-26 11:14:53",
+  "date": "2026-11-27 11:09:51",
   "channels": {
     "TV Aberta": [
       {
@@ -115,6 +115,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video01.brascast.com/bdctv/bdctv/playlist.m3u8"
+      },
+      {
+        "name": "Boas Novas",
+        "logo": "https://i.imgur.com/ZqhizdP.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
       },
       {
         "name": "BRKS TV",
@@ -397,13 +404,6 @@
         "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8"
       },
       {
-        "name": "Nova TVI Petrópolis",
-        "logo": "https://pa-str.srvsite.com/arquivos/7140/cabecalho-7140-20240911033310.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stmv8.samcast.com.br/novatvi2098/novatvi2098/playlist.m3u8"
-      },
-      {
         "name": "NTV",
         "logo": "https://i.imgur.com/n79nkVC.png",
         "group": "Variedades",
@@ -654,13 +654,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1923731983.m3u8"
-      },
-      {
-        "name": "TV Arapuan",
-        "logo": "https://i.imgur.com/3395A2h.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
       },
       {
         "name": "TV Astral",
@@ -1011,6 +1004,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video04.logicahost.com.br/isonata/isonata/chunklist_w910221052.m3u8"
+      },
+      {
+        "name": "TV Sul Bahia",
+        "logo": "https://i.imgur.com/qM6nMWm.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
       },
       {
         "name": "TV São Gabriel",
@@ -1387,13 +1387,6 @@
         "url": "http://170.83.16.50/BAND_NEWS/index.m3u8"
       },
       {
-        "name": "BM&C News",
-        "logo": "https://i.imgur.com/pOUY2Uz.png",
-        "group": "Notícias",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
-      },
-      {
         "name": "Canal 38",
         "logo": "https://i.imgur.com/co7TCWC.png",
         "group": "Notícias",
@@ -1527,6 +1520,13 @@
         "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
       },
       {
+        "name": "TV Sim Sao Mateus",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "group": "Notícias",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
+      },
+      {
         "name": "TVideoNews",
         "logo": "https://i.imgur.com/vstHOYx.png",
         "group": "Notícias",
@@ -1599,6 +1599,13 @@
         "group": "Entretenimento",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8"
+      },
+      {
+        "name": "ElyTV",
+        "logo": "https://i.imgur.com/1eHNe91.png",
+        "group": "Entretenimento",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
       },
       {
         "name": "Petlovers TV",
